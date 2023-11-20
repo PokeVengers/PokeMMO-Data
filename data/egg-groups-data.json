@@ -208,7 +208,7 @@
     },
     "egg_group_2": {
         "id": 2,
-        "name": "water1",
+        "name": "water a",
         "pokemon_species": [
             {
                 "name": "squirtle"
@@ -1636,7 +1636,7 @@
     },
     "egg_group_8": {
         "id": 8,
-        "name": "humanshape",
+        "name": "humanoid",
         "pokemon_species": [
             {
                 "name": "abra"
@@ -1801,7 +1801,7 @@
     },
     "egg_group_9": {
         "id": 9,
-        "name": "water3",
+        "name": "water c",
         "pokemon_species": [
             {
                 "name": "tentacool"
@@ -2176,7 +2176,7 @@
     },
     "egg_group_12": {
         "id": 12,
-        "name": "water2",
+        "name": "water b",
         "pokemon_species": [
             {
                 "name": "goldeen"
