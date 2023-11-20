@@ -7564,7 +7564,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "clefable": {
@@ -7715,7 +7715,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "vulpix": {
@@ -8193,8 +8193,7 @@
             }
         ],
         "types": [
-            "normal",
-            "fairy"
+            "normal"
         ]
     },
     "wigglytuff": {
@@ -8340,8 +8339,7 @@
             }
         ],
         "types": [
-            "normal",
-            "fairy"
+            "normal"
         ]
     },
     "zubat": {
@@ -20343,8 +20341,7 @@
             }
         ],
         "types": [
-            "psychic",
-            "fairy"
+            "psychic"
         ]
     },
     "scyther": {
@@ -29224,7 +29221,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "igglybuff": {
@@ -29363,8 +29360,7 @@
             }
         ],
         "types": [
-            "normal",
-            "fairy"
+            "normal"
         ]
     },
     "togepi": {
@@ -29497,7 +29493,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "togetic": {
@@ -29633,7 +29629,7 @@
             }
         ],
         "types": [
-            "fairy",
+            "normal",
             "flying"
         ]
     },
@@ -30569,8 +30565,7 @@
             }
         ],
         "types": [
-            "water",
-            "fairy"
+            "water"
         ]
     },
     "azumarill": {
@@ -30708,8 +30703,7 @@
             }
         ],
         "types": [
-            "water",
-            "fairy"
+            "water"
         ]
     },
     "sudowoodo": {
@@ -35155,7 +35149,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "granbull": {
@@ -35291,7 +35285,7 @@
             }
         ],
         "types": [
-            "fairy"
+            "normal"
         ]
     },
     "qwilfish": {
@@ -44856,8 +44850,7 @@
             }
         ],
         "types": [
-            "psychic",
-            "fairy"
+            "psychic"
         ]
     },
     "kirlia": {
@@ -44993,8 +44986,7 @@
             }
         ],
         "types": [
-            "psychic",
-            "fairy"
+            "psychic"
         ]
     },
     "gardevoir": {
@@ -45130,8 +45122,7 @@
             }
         ],
         "types": [
-            "psychic",
-            "fairy"
+            "psychic"
         ]
     },
     "surskit": {
@@ -47381,8 +47372,7 @@
             }
         ],
         "types": [
-            "normal",
-            "fairy"
+            "normal"
         ]
     },
     "nosepass": {
@@ -48121,8 +48111,7 @@
             }
         ],
         "types": [
-            "steel",
-            "fairy"
+            "steel"
         ]
     },
     "aron": {
@@ -67402,8 +67391,7 @@
             }
         ],
         "types": [
-            "psychic",
-            "fairy"
+            "psychic"
         ]
     },
     "happiny": {
@@ -71341,7 +71329,7 @@
             }
         ],
         "types": [
-            "fairy",
+            "normal",
             "flying"
         ]
     },
@@ -83107,8 +83095,7 @@
             }
         ],
         "types": [
-            "grass",
-            "fairy"
+            "grass"
         ]
     },
     "whimsicott": {
@@ -83252,8 +83239,7 @@
             }
         ],
         "types": [
-            "grass",
-            "fairy"
+            "grass"
         ]
     },
     "petilil": {
