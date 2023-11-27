@@ -208,7 +208,7 @@
     },
     "egg_group_2": {
         "id": 2,
-        "name": "water a",
+        "name": "watera",
         "pokemon_species": [
             {
                 "name": "squirtle"
@@ -790,7 +790,7 @@
     },
     "egg_group_5": {
         "id": 5,
-        "name": "ground",
+        "name": "field",
         "pokemon_species": [
             {
                 "name": "rattata"
@@ -1801,7 +1801,7 @@
     },
     "egg_group_9": {
         "id": 9,
-        "name": "water c",
+        "name": "waterc",
         "pokemon_species": [
             {
                 "name": "tentacool"
@@ -2035,7 +2035,7 @@
     },
     "egg_group_11": {
         "id": 11,
-        "name": "indeterminate",
+        "name": "chaos",
         "pokemon_species": [
             {
                 "name": "grimer"
@@ -2176,7 +2176,7 @@
     },
     "egg_group_12": {
         "id": 12,
-        "name": "water b",
+        "name": "waterb",
         "pokemon_species": [
             {
                 "name": "goldeen"
@@ -2377,7 +2377,7 @@
     },
     "egg_group_15": {
         "id": 15,
-        "name": "no-eggs",
+        "name": "cannot-breed",
         "pokemon_species": [
             {
                 "name": "nidorina"
