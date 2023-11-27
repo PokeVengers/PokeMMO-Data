@@ -790,7 +790,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -919,7 +919,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -1050,7 +1050,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -2368,7 +2368,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -2529,7 +2529,7 @@
         "base_happiness": 70,
         "capture_rate": 127,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -2974,7 +2974,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground",
+            "field",
             "dragon"
         ],
         "evolution_chain": {
@@ -3108,7 +3108,7 @@
         "base_happiness": 70,
         "capture_rate": 90,
         "egg_groups": [
-            "ground",
+            "field",
             "dragon"
         ],
         "evolution_chain": {
@@ -3250,7 +3250,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -3448,7 +3448,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -3641,7 +3641,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -3834,7 +3834,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4027,7 +4027,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4220,7 +4220,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4413,7 +4413,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4606,7 +4606,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4799,7 +4799,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -4992,7 +4992,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -5185,7 +5185,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -5378,7 +5378,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -5571,7 +5571,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -5764,7 +5764,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -5951,7 +5951,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -6138,7 +6138,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -6275,7 +6275,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -6438,7 +6438,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -6609,7 +6609,7 @@
         "capture_rate": 235,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -6742,7 +6742,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -6877,7 +6877,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -7014,7 +7014,7 @@
         "capture_rate": 235,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -7148,7 +7148,7 @@
         "capture_rate": 120,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -7284,7 +7284,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -7722,7 +7722,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -7887,7 +7887,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -9600,7 +9600,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -9739,7 +9739,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -9880,7 +9880,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10074,7 +10074,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10265,8 +10265,8 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10399,8 +10399,8 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10535,7 +10535,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10674,7 +10674,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10815,7 +10815,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -10956,7 +10956,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11099,7 +11099,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11232,7 +11232,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11373,7 +11373,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11515,7 +11515,7 @@
         "base_happiness": 50,
         "capture_rate": 200,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11654,7 +11654,7 @@
         "base_happiness": 50,
         "capture_rate": 100,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11795,7 +11795,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -11936,7 +11936,7 @@
         "base_happiness": 50,
         "capture_rate": 180,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -12075,7 +12075,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -12216,7 +12216,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -12748,7 +12748,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -12888,7 +12888,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -13464,7 +13464,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -13603,7 +13603,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -13745,7 +13745,7 @@
         "capture_rate": 190,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -13969,7 +13969,7 @@
         "capture_rate": 75,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -14477,7 +14477,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "flying",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -14899,8 +14899,8 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15039,8 +15039,8 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15187,7 +15187,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15331,7 +15331,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15482,7 +15482,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15628,7 +15628,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15777,7 +15777,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -15901,7 +15901,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -16033,7 +16033,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -16307,7 +16307,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -16440,7 +16440,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -16575,7 +16575,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -16708,7 +16708,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -17877,7 +17877,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -18068,7 +18068,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -18400,7 +18400,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -18539,7 +18539,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -18681,7 +18681,7 @@
         "capture_rate": 120,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -18816,7 +18816,7 @@
         "capture_rate": 60,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -19346,7 +19346,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -19486,7 +19486,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -19628,7 +19628,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -19767,7 +19767,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -19908,7 +19908,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -20054,7 +20054,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -20203,7 +20203,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -20514,7 +20514,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -20656,7 +20656,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -20792,7 +20792,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21037,7 +21037,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21153,7 +21153,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21269,7 +21269,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21386,7 +21386,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21503,7 +21503,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water2",
+            "waterb",
             "dragon"
         ],
         "evolution_chain": {
@@ -21632,7 +21632,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water2",
+            "waterb",
             "dragon"
         ],
         "evolution_chain": {
@@ -21765,7 +21765,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -21986,7 +21986,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -22499,7 +22499,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -23012,7 +23012,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -23518,7 +23518,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -24024,7 +24024,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -24665,8 +24665,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -24800,8 +24800,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -24937,8 +24937,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -25072,8 +25072,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -25462,7 +25462,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -25562,7 +25562,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -25662,7 +25662,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -25762,7 +25762,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -25897,7 +25897,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -26039,7 +26039,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -26182,7 +26182,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -26281,7 +26281,7 @@
         "base_happiness": 100,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -26647,7 +26647,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -26775,7 +26775,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -26905,7 +26905,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -27036,7 +27036,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -27165,7 +27165,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -27296,7 +27296,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -27426,7 +27426,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -27565,7 +27565,7 @@
         "base_happiness": 70,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -28652,7 +28652,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -28797,7 +28797,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -28944,7 +28944,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -29079,7 +29079,7 @@
         "base_happiness": 140,
         "capture_rate": 150,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -29228,7 +29228,7 @@
         "base_happiness": 50,
         "capture_rate": 170,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -29367,7 +29367,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -29908,7 +29908,7 @@
         "capture_rate": 235,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -30037,7 +30037,7 @@
         "capture_rate": 120,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -30168,7 +30168,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -30434,7 +30434,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
+            "watera",
             "fairy"
         ],
         "evolution_chain": {
@@ -30572,7 +30572,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
+            "watera",
             "fairy"
         ],
         "evolution_chain": {
@@ -30849,7 +30849,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -31399,7 +31399,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -31954,8 +31954,8 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -32121,8 +32121,8 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -32288,8 +32288,8 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -32453,7 +32453,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -32959,7 +32959,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -33602,7 +33602,7 @@
         "capture_rate": 70,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -33822,7 +33822,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -33953,7 +33953,7 @@
         "base_happiness": 70,
         "capture_rate": 225,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -34074,7 +34074,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -34206,7 +34206,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -34607,7 +34607,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -35022,7 +35022,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -35156,7 +35156,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -35292,7 +35292,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -35823,7 +35823,7 @@
         "base_happiness": 35,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36000,7 +36000,7 @@
         "base_happiness": 70,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36144,7 +36144,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36290,7 +36290,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36423,7 +36423,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36559,7 +36559,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36699,7 +36699,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36846,8 +36846,8 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -36997,8 +36997,8 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
-            "water2"
+            "watera",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -37131,8 +37131,8 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "water2"
+            "watera",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -37267,8 +37267,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -37373,7 +37373,7 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -37629,7 +37629,7 @@
         "base_happiness": 35,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -37763,7 +37763,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -37899,7 +37899,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -38042,7 +38042,7 @@
         "base_happiness": 70,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -38176,7 +38176,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -38455,7 +38455,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -38590,7 +38590,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -38694,7 +38694,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -38883,7 +38883,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39074,7 +39074,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39214,7 +39214,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39348,7 +39348,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39487,7 +39487,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39747,7 +39747,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39846,7 +39846,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -39945,7 +39945,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -40430,7 +40430,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -40530,7 +40530,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -40636,7 +40636,7 @@
         "base_happiness": 100,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41128,7 +41128,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41256,7 +41256,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41387,7 +41387,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41519,7 +41519,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41648,7 +41648,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41780,7 +41780,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -41911,7 +41911,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -42050,7 +42050,7 @@
         "base_happiness": 70,
         "capture_rate": 127,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -42191,7 +42191,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -42340,7 +42340,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -43309,7 +43309,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
+            "watera",
             "plant"
         ],
         "evolution_chain": {
@@ -43450,7 +43450,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "water1",
+            "watera",
             "plant"
         ],
         "evolution_chain": {
@@ -43593,7 +43593,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "plant"
         ],
         "evolution_chain": {
@@ -43736,7 +43736,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -43876,7 +43876,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -44019,7 +44019,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -44434,7 +44434,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
+            "watera",
             "flying"
         ],
         "evolution_chain": {
@@ -44575,7 +44575,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "flying"
         ],
         "evolution_chain": {
@@ -44723,8 +44723,8 @@
         "base_happiness": 35,
         "capture_rate": 235,
         "egg_groups": [
-            "humanshape",
-            "indeterminate"
+            "humanoid",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -44857,8 +44857,8 @@
         "base_happiness": 35,
         "capture_rate": 120,
         "egg_groups": [
-            "humanshape",
-            "indeterminate"
+            "humanoid",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -44993,8 +44993,8 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape",
-            "indeterminate"
+            "humanoid",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -45129,7 +45129,7 @@
         "base_happiness": 70,
         "capture_rate": 200,
         "egg_groups": [
-            "water1",
+            "watera",
             "bug"
         ],
         "evolution_chain": {
@@ -45265,7 +45265,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
+            "watera",
             "bug"
         ],
         "evolution_chain": {
@@ -45706,7 +45706,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -45829,7 +45829,7 @@
         "base_happiness": 70,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -45954,7 +45954,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -46556,7 +46556,7 @@
         "capture_rate": 190,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -46691,7 +46691,7 @@
         "capture_rate": 120,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -46828,7 +46828,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -46964,7 +46964,7 @@
         "base_happiness": 70,
         "capture_rate": 180,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -47103,7 +47103,7 @@
         "base_happiness": 70,
         "capture_rate": 200,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -47244,7 +47244,7 @@
         "base_happiness": 50,
         "capture_rate": 150,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -47595,7 +47595,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -47742,7 +47742,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -47891,7 +47891,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -48002,7 +48002,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -48542,7 +48542,7 @@
         "base_happiness": 70,
         "capture_rate": 180,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -48671,7 +48671,7 @@
         "base_happiness": 70,
         "capture_rate": 90,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -48802,7 +48802,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -48935,7 +48935,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -49281,7 +49281,7 @@
         "capture_rate": 150,
         "egg_groups": [
             "bug",
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -49392,7 +49392,7 @@
         "capture_rate": 150,
         "egg_groups": [
             "bug",
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -49652,7 +49652,7 @@
         "base_happiness": 70,
         "capture_rate": 225,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -49801,7 +49801,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -49952,7 +49952,7 @@
         "base_happiness": 35,
         "capture_rate": 225,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50087,7 +50087,7 @@
         "base_happiness": 35,
         "capture_rate": 60,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50224,8 +50224,8 @@
         "base_happiness": 50,
         "capture_rate": 125,
         "egg_groups": [
-            "ground",
-            "water2"
+            "field",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50358,8 +50358,8 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground",
-            "water2"
+            "field",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50494,7 +50494,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50634,7 +50634,7 @@
         "base_happiness": 70,
         "capture_rate": 150,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50776,7 +50776,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -50886,7 +50886,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -51030,7 +51030,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -51176,8 +51176,8 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -51682,7 +51682,7 @@
         "capture_rate": 190,
         "egg_groups": [
             "plant",
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -51822,7 +51822,7 @@
         "capture_rate": 60,
         "egg_groups": [
             "plant",
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -52226,7 +52226,7 @@
         "base_happiness": 70,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -52331,7 +52331,7 @@
         "base_happiness": 70,
         "capture_rate": 90,
         "egg_groups": [
-            "ground",
+            "field",
             "dragon"
         ],
         "evolution_chain": {
@@ -52664,7 +52664,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -52798,7 +52798,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -52934,8 +52934,8 @@
         "base_happiness": 50,
         "capture_rate": 205,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53068,8 +53068,8 @@
         "base_happiness": 50,
         "capture_rate": 155,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53467,7 +53467,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53602,7 +53602,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53739,7 +53739,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53868,7 +53868,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -53999,7 +53999,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -54179,7 +54179,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "water1",
+            "watera",
             "dragon"
         ],
         "evolution_chain": {
@@ -54362,7 +54362,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "fairy",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -54475,7 +54475,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "fairy",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -54588,7 +54588,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "fairy",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -54701,7 +54701,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "fairy",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -54813,7 +54813,7 @@
         "base_happiness": 70,
         "capture_rate": 200,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -54918,7 +54918,7 @@
         "base_happiness": 35,
         "capture_rate": 225,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -55057,7 +55057,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -55198,7 +55198,7 @@
         "base_happiness": 35,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -55337,7 +55337,7 @@
         "base_happiness": 35,
         "capture_rate": 90,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -55584,7 +55584,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -55722,7 +55722,7 @@
         "base_happiness": 35,
         "capture_rate": 30,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -55832,7 +55832,7 @@
         "base_happiness": 50,
         "capture_rate": 125,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -56314,8 +56314,8 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -56449,8 +56449,8 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -56586,8 +56586,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -56723,7 +56723,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -56899,7 +56899,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -57067,7 +57067,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -57235,8 +57235,8 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "water1",
-            "water2"
+            "watera",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -57352,7 +57352,7 @@
         "base_happiness": 70,
         "capture_rate": 225,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58288,7 +58288,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58387,7 +58387,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58486,7 +58486,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58585,7 +58585,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58680,7 +58680,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58775,7 +58775,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58873,7 +58873,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -58971,7 +58971,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59069,7 +59069,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59168,7 +59168,7 @@
         "base_happiness": 0,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59263,7 +59263,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59364,7 +59364,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59470,7 +59470,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59576,7 +59576,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -59682,7 +59682,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60180,8 +60180,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60309,8 +60309,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60441,8 +60441,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60573,8 +60573,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60702,8 +60702,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -60833,8 +60833,8 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -61374,8 +61374,8 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -61508,8 +61508,8 @@
         "base_happiness": 70,
         "capture_rate": 127,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -61926,7 +61926,7 @@
         "base_happiness": 50,
         "capture_rate": 235,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -62059,7 +62059,7 @@
         "base_happiness": 100,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -62194,7 +62194,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -62329,7 +62329,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -64255,7 +64255,7 @@
         "base_happiness": 100,
         "capture_rate": 200,
         "egg_groups": [
-            "ground",
+            "field",
             "fairy"
         ],
         "evolution_chain": {
@@ -64360,8 +64360,8 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -64495,8 +64495,8 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "ground"
+            "watera",
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -64895,8 +64895,8 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
-            "indeterminate"
+            "watera",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65030,8 +65030,8 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "indeterminate"
+            "watera",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65168,7 +65168,7 @@
         "base_happiness": 100,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65305,7 +65305,7 @@
         "base_happiness": 50,
         "capture_rate": 125,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65439,7 +65439,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65581,8 +65581,8 @@
         "base_happiness": 0,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65726,8 +65726,8 @@
         "base_happiness": 140,
         "capture_rate": 60,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -65873,7 +65873,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -66138,7 +66138,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -66277,7 +66277,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -66418,7 +66418,7 @@
         "base_happiness": 70,
         "capture_rate": 120,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -66554,7 +66554,7 @@
         "base_happiness": 50,
         "capture_rate": 225,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -66694,7 +66694,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -67118,7 +67118,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -67255,7 +67255,7 @@
         "base_happiness": 50,
         "capture_rate": 145,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -67398,7 +67398,7 @@
         "base_happiness": 140,
         "capture_rate": 130,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -67662,7 +67662,7 @@
         "base_happiness": 50,
         "capture_rate": 100,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68174,7 +68174,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -68315,7 +68315,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68448,8 +68448,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68585,7 +68585,7 @@
         "base_happiness": 50,
         "capture_rate": 140,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68713,7 +68713,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68844,7 +68844,7 @@
         "capture_rate": 120,
         "egg_groups": [
             "bug",
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -68985,7 +68985,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "bug",
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -69127,7 +69127,7 @@
         "base_happiness": 100,
         "capture_rate": 140,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -69267,7 +69267,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -69503,7 +69503,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -69642,7 +69642,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -69783,7 +69783,7 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": {
@@ -70195,7 +70195,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -70655,7 +70655,7 @@
         "capture_rate": 30,
         "egg_groups": [
             "monster",
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -70928,7 +70928,7 @@
         "base_happiness": 50,
         "capture_rate": 30,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -71064,7 +71064,7 @@
         "base_happiness": 50,
         "capture_rate": 30,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -71337,7 +71337,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -71843,7 +71843,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -72487,7 +72487,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -72760,8 +72760,8 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape",
-            "indeterminate"
+            "humanoid",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73116,7 +73116,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73425,7 +73425,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73540,7 +73540,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73655,7 +73655,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73770,7 +73770,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -73885,7 +73885,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74000,7 +74000,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74115,7 +74115,7 @@
         "base_happiness": 140,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74209,7 +74209,7 @@
         "base_happiness": 140,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74303,7 +74303,7 @@
         "base_happiness": 140,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74397,7 +74397,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74501,7 +74501,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74605,7 +74605,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74709,7 +74709,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74813,7 +74813,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -74913,7 +74913,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75007,7 +75007,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75111,7 +75111,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75210,7 +75210,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75304,7 +75304,7 @@
         "base_happiness": 70,
         "capture_rate": 30,
         "egg_groups": [
-            "water1",
+            "watera",
             "fairy"
         ],
         "evolution_chain": {
@@ -75405,7 +75405,7 @@
         "base_happiness": 70,
         "capture_rate": 3,
         "egg_groups": [
-            "water1",
+            "watera",
             "fairy"
         ],
         "evolution_chain": {
@@ -75506,7 +75506,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75600,7 +75600,7 @@
         "base_happiness": 100,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75704,7 +75704,7 @@
         "base_happiness": 100,
         "capture_rate": 45,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75809,7 +75809,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -75921,7 +75921,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -76016,7 +76016,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -76145,7 +76145,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -76276,7 +76276,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "plant"
         ],
         "evolution_chain": {
@@ -76407,7 +76407,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -76535,7 +76535,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -76666,7 +76666,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -76797,7 +76797,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -76925,7 +76925,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77055,7 +77055,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77185,7 +77185,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77318,7 +77318,7 @@
         "base_happiness": 70,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77453,7 +77453,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77586,7 +77586,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77721,7 +77721,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77856,7 +77856,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -77989,7 +77989,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78124,7 +78124,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78265,7 +78265,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78408,7 +78408,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78549,7 +78549,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78692,7 +78692,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78833,7 +78833,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -78976,7 +78976,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -79111,7 +79111,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -79654,7 +79654,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -79793,7 +79793,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -80370,7 +80370,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "ground",
+            "field",
             "flying"
         ],
         "evolution_chain": {
@@ -80505,7 +80505,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
+            "field",
             "flying"
         ],
         "evolution_chain": {
@@ -80642,7 +80642,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -80775,7 +80775,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81026,7 +81026,7 @@
         "base_happiness": 70,
         "capture_rate": 180,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81159,7 +81159,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81294,7 +81294,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81429,7 +81429,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81573,7 +81573,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81720,7 +81720,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1"
+            "watera"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81867,7 +81867,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -81982,7 +81982,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -83530,7 +83530,7 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -83677,7 +83677,7 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -83824,7 +83824,7 @@
         "base_happiness": 50,
         "capture_rate": 25,
         "egg_groups": [
-            "water2"
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -83965,7 +83965,7 @@
         "base_happiness": 50,
         "capture_rate": 180,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -84105,7 +84105,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -84247,7 +84247,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -84389,7 +84389,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -84547,7 +84547,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -84711,7 +84711,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -85280,7 +85280,7 @@
         "base_happiness": 35,
         "capture_rate": 180,
         "egg_groups": [
-            "ground",
+            "field",
             "dragon"
         ],
         "evolution_chain": {
@@ -85421,7 +85421,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground",
+            "field",
             "dragon"
         ],
         "evolution_chain": {
@@ -85670,7 +85670,7 @@
         "capture_rate": 190,
         "egg_groups": [
             "mineral",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -85828,7 +85828,7 @@
         "capture_rate": 90,
         "egg_groups": [
             "mineral",
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -85987,8 +85987,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -86122,8 +86122,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
-            "water3"
+            "watera",
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -86260,7 +86260,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "flying",
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -86385,7 +86385,7 @@
         "capture_rate": 45,
         "egg_groups": [
             "flying",
-            "water3"
+            "waterc"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -86816,7 +86816,7 @@
         "base_happiness": 50,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -86939,7 +86939,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87064,7 +87064,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87205,7 +87205,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87348,7 +87348,7 @@
         "base_happiness": 50,
         "capture_rate": 200,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87487,7 +87487,7 @@
         "base_happiness": 50,
         "capture_rate": 100,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87628,7 +87628,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87769,7 +87769,7 @@
         "base_happiness": 50,
         "capture_rate": 200,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -87908,7 +87908,7 @@
         "base_happiness": 50,
         "capture_rate": 100,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -88049,7 +88049,7 @@
         "base_happiness": 50,
         "capture_rate": 50,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -88190,7 +88190,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "water1",
+            "watera",
             "flying"
         ],
         "evolution_chain": {
@@ -88325,7 +88325,7 @@
         "base_happiness": 70,
         "capture_rate": 45,
         "egg_groups": [
-            "water1",
+            "watera",
             "flying"
         ],
         "evolution_chain": {
@@ -88883,7 +88883,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -89020,7 +89020,7 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -89159,7 +89159,7 @@
         "base_happiness": 50,
         "capture_rate": 200,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -89830,7 +89830,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -89964,7 +89964,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -90100,8 +90100,8 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "water2"
+            "watera",
+            "waterb"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91147,7 +91147,7 @@
         "base_happiness": 70,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91270,7 +91270,7 @@
         "base_happiness": 70,
         "capture_rate": 60,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91395,7 +91395,7 @@
         "base_happiness": 70,
         "capture_rate": 30,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91520,7 +91520,7 @@
         "base_happiness": 50,
         "capture_rate": 255,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91653,7 +91653,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91788,7 +91788,7 @@
         "base_happiness": 50,
         "capture_rate": 190,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -91922,7 +91922,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -92058,7 +92058,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "indeterminate"
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -92600,7 +92600,7 @@
         "base_happiness": 50,
         "capture_rate": 120,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -92739,7 +92739,7 @@
         "base_happiness": 50,
         "capture_rate": 60,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -93252,8 +93252,8 @@
         "base_happiness": 70,
         "capture_rate": 75,
         "egg_groups": [
-            "water1",
-            "indeterminate"
+            "watera",
+            "chaos"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -93364,8 +93364,8 @@
         "base_happiness": 50,
         "capture_rate": 180,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -93498,8 +93498,8 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground",
-            "humanshape"
+            "field",
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -94027,7 +94027,7 @@
         "base_happiness": 35,
         "capture_rate": 120,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -94161,7 +94161,7 @@
         "base_happiness": 35,
         "capture_rate": 45,
         "egg_groups": [
-            "humanshape"
+            "humanoid"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -94297,7 +94297,7 @@
         "base_happiness": 50,
         "capture_rate": 45,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -94941,7 +94941,7 @@
         "base_happiness": 50,
         "capture_rate": 90,
         "egg_groups": [
-            "ground"
+            "field"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -95798,7 +95798,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -95893,7 +95893,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -95988,7 +95988,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96083,7 +96083,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96186,7 +96186,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96284,7 +96284,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96388,7 +96388,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96487,7 +96487,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96582,7 +96582,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96677,7 +96677,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96781,7 +96781,7 @@
         "base_happiness": 90,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96880,7 +96880,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -96983,7 +96983,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97086,7 +97086,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97189,7 +97189,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97288,7 +97288,7 @@
         "base_happiness": 35,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97387,7 +97387,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97492,7 +97492,7 @@
         "base_happiness": 100,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
@@ -97597,7 +97597,7 @@
         "base_happiness": 0,
         "capture_rate": 3,
         "egg_groups": [
-            "no-eggs"
+            "cannot-breed"
         ],
         "evolution_chain": {
             "baby_trigger_item": null,
