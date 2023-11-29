@@ -1513,9 +1513,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": true,
@@ -1905,9 +1904,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -2473,9 +2471,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chilan-berry"
-                }
+                "id": 177,
+                "item_name": "chilan-berry"
             }
         ],
         "is_default": true,
@@ -2636,19 +2633,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             },
             {
-                "item": {
-                    "name": "chilan-berry"
-                }
+                "id": 177,
+                "item_name": "chilan-berry"
             }
         ],
         "is_default": true,
@@ -2780,9 +2774,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sharp-beak"
-                }
+                "id": 221,
+                "item_name": "sharp-beak"
             }
         ],
         "is_default": true,
@@ -2917,9 +2910,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sharp-beak"
-                }
+                "id": 221,
+                "item_name": "sharp-beak"
             }
         ],
         "is_default": true,
@@ -3194,9 +3186,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -3387,14 +3378,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": true,
@@ -3585,9 +3574,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -3778,9 +3766,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -3971,9 +3958,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -4164,9 +4150,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -4357,9 +4342,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -4550,9 +4534,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -4743,9 +4726,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -4936,9 +4918,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -5129,9 +5110,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -5322,9 +5302,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -5515,9 +5494,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -5708,9 +5686,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-ball"
-                }
+                "id": 213,
+                "item_name": "light-ball"
             }
         ],
         "is_default": false,
@@ -6219,9 +6196,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -6377,14 +6353,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             },
             {
-                "item": {
-                    "name": "grip-claw"
-                }
+                "id": 263,
+                "item_name": "grip-claw"
             }
         ],
         "is_default": true,
@@ -6542,19 +6516,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             },
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             },
             {
-                "item": {
-                    "name": "grip-claw"
-                }
+                "id": 263,
+                "item_name": "grip-claw"
             }
         ],
         "is_default": true,
@@ -7505,19 +7476,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             },
             {
-                "item": {
-                    "name": "comet-shard"
-                }
+                "id": 624,
+                "item_name": "comet-shard"
             }
         ],
         "is_default": true,
@@ -7656,19 +7624,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             },
             {
-                "item": {
-                    "name": "comet-shard"
-                }
+                "id": 624,
+                "item_name": "comet-shard"
             }
         ],
         "is_default": true,
@@ -7826,14 +7791,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             },
             {
-                "item": {
-                    "name": "charcoal"
-                }
+                "id": 226,
+                "item_name": "charcoal"
             }
         ],
         "is_default": true,
@@ -7993,14 +7956,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             },
             {
-                "item": {
-                    "name": "charcoal"
-                }
+                "id": 226,
+                "item_name": "charcoal"
             }
         ],
         "is_default": true,
@@ -8139,14 +8100,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -8285,14 +8244,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -8684,9 +8641,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -8821,9 +8777,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -8958,9 +8913,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -9099,19 +9053,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "balm-mushroom"
-                }
+                "id": 621,
+                "item_name": "balm-mushroom"
             }
         ],
         "is_default": true,
@@ -9252,19 +9203,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "balm-mushroom"
-                }
+                "id": 621,
+                "item_name": "balm-mushroom"
             }
         ],
         "is_default": true,
@@ -9538,14 +9486,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             },
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -9683,9 +9629,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             }
         ],
         "is_default": true,
@@ -9824,9 +9769,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             }
         ],
         "is_default": true,
@@ -10013,14 +9957,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "nugget"
-                }
+                "id": 92,
+                "item_name": "nugget"
             },
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             }
         ],
         "is_default": true,
@@ -10209,9 +10151,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             }
         ],
         "is_default": true,
@@ -10618,9 +10559,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "payapa-berry"
-                }
+                "id": 170,
+                "item_name": "payapa-berry"
             }
         ],
         "is_default": true,
@@ -10759,9 +10699,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "payapa-berry"
-                }
+                "id": 170,
+                "item_name": "payapa-berry"
             }
         ],
         "is_default": true,
@@ -10900,9 +10839,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -11043,9 +10981,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -11317,9 +11254,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -11458,9 +11394,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -11598,9 +11533,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "twisted-spoon"
-                }
+                "id": 225,
+                "item_name": "twisted-spoon"
             }
         ],
         "is_default": true,
@@ -11739,9 +11673,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "twisted-spoon"
-                }
+                "id": 225,
+                "item_name": "twisted-spoon"
             }
         ],
         "is_default": true,
@@ -11880,9 +11813,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "twisted-spoon"
-                }
+                "id": 225,
+                "item_name": "twisted-spoon"
             }
         ],
         "is_default": true,
@@ -12019,9 +11951,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "focus-band"
-                }
+                "id": 207,
+                "item_name": "focus-band"
             }
         ],
         "is_default": true,
@@ -12160,9 +12091,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "focus-band"
-                }
+                "id": 207,
+                "item_name": "focus-band"
             }
         ],
         "is_default": true,
@@ -12301,9 +12231,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "focus-band"
-                }
+                "id": 207,
+                "item_name": "focus-band"
             }
         ],
         "is_default": true,
@@ -12831,9 +12760,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -12973,9 +12901,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -13113,9 +13040,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             }
         ],
         "is_default": true,
@@ -13255,14 +13181,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -13402,14 +13326,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -13547,9 +13469,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "shuca-berry"
-                }
+                "id": 168,
+                "item_name": "shuca-berry"
             }
         ],
         "is_default": true,
@@ -13688,9 +13609,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "shuca-berry"
-                }
+                "id": 168,
+                "item_name": "shuca-berry"
             }
         ],
         "is_default": true,
@@ -13906,14 +13826,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             },
             {
-                "item": {
-                    "name": "lagging-tail"
-                }
+                "id": 256,
+                "item_name": "lagging-tail"
             }
         ],
         "is_default": true,
@@ -14132,9 +14050,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -14272,9 +14189,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -14414,14 +14330,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             },
             {
-                "item": {
-                    "name": "magnet"
-                }
+                "id": 219,
+                "item_name": "magnet"
             }
         ],
         "is_default": true,
@@ -14560,9 +14474,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "stick"
-                }
+                "id": 236,
+                "item_name": "stick"
             }
         ],
         "is_default": true,
@@ -14700,9 +14613,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sharp-beak"
-                }
+                "id": 221,
+                "item_name": "sharp-beak"
             }
         ],
         "is_default": true,
@@ -14842,9 +14754,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sharp-beak"
-                }
+                "id": 221,
+                "item_name": "sharp-beak"
             }
         ],
         "is_default": true,
@@ -14983,9 +14894,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -15125,14 +15035,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             },
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -15270,14 +15178,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "nugget"
-                }
+                "id": 92,
+                "item_name": "nugget"
             },
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             }
         ],
         "is_default": true,
@@ -15416,19 +15322,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "nugget"
-                }
+                "id": 92,
+                "item_name": "nugget"
             },
             {
-                "item": {
-                    "name": "toxic-orb"
-                }
+                "id": 249,
+                "item_name": "toxic-orb"
             },
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             }
         ],
         "is_default": true,
@@ -15567,14 +15470,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pearl"
-                }
+                "id": 88,
+                "item_name": "pearl"
             },
             {
-                "item": {
-                    "name": "big-pearl"
-                }
+                "id": 89,
+                "item_name": "big-pearl"
             }
         ],
         "is_default": true,
@@ -15715,14 +15616,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pearl"
-                }
+                "id": 88,
+                "item_name": "pearl"
             },
             {
-                "item": {
-                    "name": "big-pearl"
-                }
+                "id": 89,
+                "item_name": "big-pearl"
             }
         ],
         "is_default": true,
@@ -15976,9 +15875,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -16108,9 +16006,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -16250,9 +16147,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -17191,9 +17087,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "psychic-seed"
-                }
+                "id": 899,
+                "item_name": "psychic-seed"
             }
         ],
         "is_default": true,
@@ -17486,9 +17381,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "thick-club"
-                }
+                "id": 235,
+                "item_name": "thick-club"
             }
         ],
         "is_default": true,
@@ -17653,9 +17547,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "thick-club"
-                }
+                "id": 235,
+                "item_name": "thick-club"
             }
         ],
         "is_default": true,
@@ -17820,9 +17713,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "thick-club"
-                }
+                "id": 235,
+                "item_name": "thick-club"
             }
         ],
         "is_default": false,
@@ -18344,9 +18236,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lagging-tail"
-                }
+                "id": 256,
+                "item_name": "lagging-tail"
             }
         ],
         "is_default": true,
@@ -18483,9 +18374,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "smoke-ball"
-                }
+                "id": 205,
+                "item_name": "smoke-ball"
             }
         ],
         "is_default": true,
@@ -18624,9 +18514,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "smoke-ball"
-                }
+                "id": 205,
+                "item_name": "smoke-ball"
             }
         ],
         "is_default": true,
@@ -19041,19 +18930,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oval-stone"
-                }
+                "id": 110,
+                "item_name": "oval-stone"
             },
             {
-                "item": {
-                    "name": "lucky-egg"
-                }
+                "id": 208,
+                "item_name": "lucky-egg"
             },
             {
-                "item": {
-                    "name": "lucky-punch"
-                }
+                "id": 233,
+                "item_name": "lucky-punch"
             }
         ],
         "is_default": true,
@@ -19430,9 +19316,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             }
         ],
         "is_default": true,
@@ -19572,9 +19457,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             }
         ],
         "is_default": true,
@@ -19711,9 +19595,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": true,
@@ -19852,9 +19735,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": true,
@@ -19993,14 +19875,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "stardust"
-                }
+                "id": 90,
+                "item_name": "stardust"
             },
             {
-                "item": {
-                    "name": "star-piece"
-                }
+                "id": 91,
+                "item_name": "star-piece"
             }
         ],
         "is_default": true,
@@ -20141,14 +20021,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "stardust"
-                }
+                "id": 90,
+                "item_name": "stardust"
             },
             {
-                "item": {
-                    "name": "star-piece"
-                }
+                "id": 91,
+                "item_name": "star-piece"
             }
         ],
         "is_default": true,
@@ -20292,9 +20170,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             }
         ],
         "is_default": true,
@@ -20599,9 +20476,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -20736,9 +20612,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "electirizer"
-                }
+                "id": 299,
+                "item_name": "electirizer"
             }
         ],
         "is_default": true,
@@ -20872,14 +20747,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             },
             {
-                "item": {
-                    "name": "magmarizer"
-                }
+                "id": 300,
+                "item_name": "magmarizer"
             }
         ],
         "is_default": true,
@@ -21819,9 +21692,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": true,
@@ -21925,14 +21797,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-powder"
-                }
+                "id": 234,
+                "item_name": "metal-powder"
             },
             {
-                "item": {
-                    "name": "quick-powder"
-                }
+                "id": 251,
+                "item_name": "quick-powder"
             }
         ],
         "is_default": true,
@@ -25401,14 +25271,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             },
             {
-                "item": {
-                    "name": "leftovers"
-                }
+                "id": 211,
+                "item_name": "leftovers"
             }
         ],
         "is_default": true,
@@ -25841,9 +25709,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             }
         ],
         "is_default": true,
@@ -25978,14 +25845,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             },
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -26120,14 +25985,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             },
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -26325,9 +26188,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lum-berry"
-                }
+                "id": 134,
+                "item_name": "lum-berry"
             }
         ],
         "is_default": true,
@@ -26460,9 +26322,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lum-berry"
-                }
+                "id": 134,
+                "item_name": "lum-berry"
             }
         ],
         "is_default": true,
@@ -27509,9 +27370,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -27650,14 +27510,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -28735,14 +28593,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "yellow-shard"
-                }
+                "id": 74,
+                "item_name": "yellow-shard"
             },
             {
-                "item": {
-                    "name": "deep-sea-scale"
-                }
+                "id": 204,
+                "item_name": "deep-sea-scale"
             }
         ],
         "is_default": true,
@@ -28882,14 +28738,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "yellow-shard"
-                }
+                "id": 74,
+                "item_name": "yellow-shard"
             },
             {
-                "item": {
-                    "name": "deep-sea-scale"
-                }
+                "id": 204,
+                "item_name": "deep-sea-scale"
             }
         ],
         "is_default": true,
@@ -29023,9 +28877,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -29162,19 +29015,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             },
             {
-                "item": {
-                    "name": "comet-shard"
-                }
+                "id": 624,
+                "item_name": "comet-shard"
             }
         ],
         "is_default": true,
@@ -29311,9 +29161,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -30378,9 +30227,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -30934,9 +30782,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -31619,9 +31466,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "coba-berry"
-                }
+                "id": 169,
+                "item_name": "coba-berry"
             }
         ],
         "is_default": true,
@@ -31897,9 +31743,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "wide-lens"
-                }
+                "id": 242,
+                "item_name": "wide-lens"
             }
         ],
         "is_default": true,
@@ -33765,9 +33610,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -33897,9 +33741,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -34291,9 +34134,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -34965,9 +34807,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -35377,9 +35218,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -35656,14 +35496,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "berry-juice"
-                }
+                "id": 43,
+                "item_name": "berry-juice"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -35938,14 +35776,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             },
             {
-                "item": {
-                    "name": "grip-claw"
-                }
+                "id": 263,
+                "item_name": "grip-claw"
             }
         ],
         "is_default": true,
@@ -36083,14 +35919,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -36229,14 +36063,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -36642,9 +36474,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -36784,14 +36615,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             },
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -36930,19 +36759,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "red-shard"
-                }
+                "id": 72,
+                "item_name": "red-shard"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             },
             {
-                "item": {
-                    "name": "luminous-moss"
-                }
+                "id": 688,
+                "item_name": "luminous-moss"
             }
         ],
         "is_default": true,
@@ -37567,14 +37393,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             },
             {
-                "item": {
-                    "name": "sharp-beak"
-                }
+                "id": 221,
+                "item_name": "sharp-beak"
             }
         ],
         "is_default": true,
@@ -37985,9 +37809,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             }
         ],
         "is_default": true,
@@ -38120,9 +37943,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "passho-berry"
-                }
+                "id": 162,
+                "item_name": "passho-berry"
             }
         ],
         "is_default": true,
@@ -38256,9 +38078,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "passho-berry"
-                }
+                "id": 162,
+                "item_name": "passho-berry"
             }
         ],
         "is_default": true,
@@ -38399,9 +38220,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "up-grade"
-                }
+                "id": 229,
+                "item_name": "up-grade"
             }
         ],
         "is_default": true,
@@ -39157,9 +38977,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -39292,9 +39111,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "electirizer"
-                }
+                "id": 299,
+                "item_name": "electirizer"
             }
         ],
         "is_default": true,
@@ -39426,14 +39244,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             },
             {
-                "item": {
-                    "name": "magmarizer"
-                }
+                "id": 300,
+                "item_name": "magmarizer"
             }
         ],
         "is_default": true,
@@ -39541,9 +39357,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moomoo-milk"
-                }
+                "id": 33,
+                "item_name": "moomoo-milk"
             }
         ],
         "is_default": true,
@@ -39686,14 +39501,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oval-stone"
-                }
+                "id": 110,
+                "item_name": "oval-stone"
             },
             {
-                "item": {
-                    "name": "lucky-egg"
-                }
+                "id": 208,
+                "item_name": "lucky-egg"
             }
         ],
         "is_default": true,
@@ -40579,9 +40392,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sacred-ash"
-                }
+                "id": 44,
+                "item_name": "sacred-ash"
             }
         ],
         "is_default": true,
@@ -40680,9 +40492,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lum-berry"
-                }
+                "id": 134,
+                "item_name": "lum-berry"
             }
         ],
         "is_default": true,
@@ -41994,9 +41805,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             }
         ],
         "is_default": true,
@@ -42135,9 +41945,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             }
         ],
         "is_default": true,
@@ -42274,19 +42083,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "potion"
-                }
+                "id": 17,
+                "item_name": "potion"
             },
             {
-                "item": {
-                    "name": "revive"
-                }
+                "id": 28,
+                "item_name": "revive"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             }
         ],
         "is_default": true,
@@ -42425,24 +42231,20 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "potion"
-                }
+                "id": 17,
+                "item_name": "potion"
             },
             {
-                "item": {
-                    "name": "max-revive"
-                }
+                "id": 29,
+                "item_name": "max-revive"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -42602,14 +42404,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "bright-powder"
-                }
+                "id": 190,
+                "item_name": "bright-powder"
             }
         ],
         "is_default": true,
@@ -42924,14 +42724,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             },
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -43247,14 +43045,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             },
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -43393,9 +43189,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -43536,9 +43331,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -43679,9 +43473,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -43820,9 +43613,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "power-herb"
-                }
+                "id": 248,
+                "item_name": "power-herb"
             }
         ],
         "is_default": true,
@@ -43962,9 +43754,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "power-herb"
-                }
+                "id": 248,
+                "item_name": "power-herb"
             }
         ],
         "is_default": true,
@@ -44105,9 +43896,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "power-herb"
-                }
+                "id": 248,
+                "item_name": "power-herb"
             }
         ],
         "is_default": true,
@@ -44240,9 +44030,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "charti-berry"
-                }
+                "id": 172,
+                "item_name": "charti-berry"
             }
         ],
         "is_default": true,
@@ -44377,9 +44166,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "charti-berry"
-                }
+                "id": 172,
+                "item_name": "charti-berry"
             }
         ],
         "is_default": true,
@@ -44518,9 +44306,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pretty-wing"
-                }
+                "id": 612,
+                "item_name": "pretty-wing"
             }
         ],
         "is_default": true,
@@ -44661,14 +44448,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lucky-egg"
-                }
+                "id": 208,
+                "item_name": "lucky-egg"
             },
             {
-                "item": {
-                    "name": "pretty-wing"
-                }
+                "id": 612,
+                "item_name": "pretty-wing"
             }
         ],
         "is_default": true,
@@ -45208,9 +44993,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "honey"
-                }
+                "id": 94,
+                "item_name": "honey"
             }
         ],
         "is_default": true,
@@ -45346,9 +45130,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": true,
@@ -45487,19 +45270,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "kebia-berry"
-                }
+                "id": 167,
+                "item_name": "kebia-berry"
             }
         ],
         "is_default": true,
@@ -45639,19 +45419,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "kebia-berry"
-                }
+                "id": 167,
+                "item_name": "kebia-berry"
             }
         ],
         "is_default": true,
@@ -46185,9 +45962,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             }
         ],
         "is_default": true,
@@ -46634,9 +46410,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -46771,9 +46546,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -46908,9 +46682,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -47047,9 +46820,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-belt"
-                }
+                "id": 218,
+                "item_name": "black-belt"
             }
         ],
         "is_default": true,
@@ -47188,9 +46960,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kings-rock"
-                }
+                "id": 198,
+                "item_name": "kings-rock"
             }
         ],
         "is_default": true,
@@ -47534,14 +47305,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             },
             {
-                "item": {
-                    "name": "magnet"
-                }
+                "id": 219,
+                "item_name": "magnet"
             }
         ],
         "is_default": true,
@@ -47681,14 +47450,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             }
         ],
         "is_default": true,
@@ -47830,14 +47597,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             }
         ],
         "is_default": true,
@@ -47945,9 +47710,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "wide-lens"
-                }
+                "id": 242,
+                "item_name": "wide-lens"
             }
         ],
         "is_default": true,
@@ -48057,14 +47821,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "occa-berry"
-                }
+                "id": 161,
+                "item_name": "occa-berry"
             },
             {
-                "item": {
-                    "name": "iron-ball"
-                }
+                "id": 255,
+                "item_name": "iron-ball"
             }
         ],
         "is_default": true,
@@ -48201,9 +47963,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -48343,9 +48104,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -48485,9 +48245,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -49119,9 +48878,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cell-battery"
-                }
+                "id": 589,
+                "item_name": "cell-battery"
             }
         ],
         "is_default": true,
@@ -49224,9 +48982,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cell-battery"
-                }
+                "id": 589,
+                "item_name": "cell-battery"
             }
         ],
         "is_default": true,
@@ -49335,9 +49092,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "bright-powder"
-                }
+                "id": 190,
+                "item_name": "bright-powder"
             }
         ],
         "is_default": true,
@@ -49446,9 +49202,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "bright-powder"
-                }
+                "id": 190,
+                "item_name": "bright-powder"
             }
         ],
         "is_default": true,
@@ -49590,14 +49345,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             },
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -49735,19 +49488,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "big-pearl"
-                }
+                "id": 89,
+                "item_name": "big-pearl"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -49886,19 +49636,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "big-pearl"
-                }
+                "id": 89,
+                "item_name": "big-pearl"
             },
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -50030,9 +49777,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-tooth"
-                }
+                "id": 203,
+                "item_name": "deep-sea-tooth"
             }
         ],
         "is_default": true,
@@ -50167,9 +49913,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-tooth"
-                }
+                "id": 203,
+                "item_name": "deep-sea-tooth"
             }
         ],
         "is_default": true,
@@ -50577,9 +50322,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -50719,9 +50463,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -50830,9 +50573,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "charcoal"
-                }
+                "id": 226,
+                "item_name": "charcoal"
             }
         ],
         "is_default": true,
@@ -50969,14 +50711,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             },
             {
-                "item": {
-                    "name": "tanga-berry"
-                }
+                "id": 171,
+                "item_name": "tanga-berry"
             }
         ],
         "is_default": true,
@@ -51115,14 +50855,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             },
             {
-                "item": {
-                    "name": "tanga-berry"
-                }
+                "id": 171,
+                "item_name": "tanga-berry"
             }
         ],
         "is_default": true,
@@ -51231,9 +50969,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -51371,9 +51108,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             }
         ],
         "is_default": true,
@@ -51760,14 +51496,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             },
             {
-                "item": {
-                    "name": "sticky-barb"
-                }
+                "id": 265,
+                "item_name": "sticky-barb"
             }
         ],
         "is_default": true,
@@ -51902,14 +51636,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             },
             {
-                "item": {
-                    "name": "sticky-barb"
-                }
+                "id": 265,
+                "item_name": "sticky-barb"
             }
         ],
         "is_default": true,
@@ -52275,9 +52007,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             }
         ],
         "is_default": true,
@@ -52381,14 +52112,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             },
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -52486,19 +52215,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "moon-stone"
-                }
+                "id": 81,
+                "item_name": "moon-stone"
             },
             {
-                "item": {
-                    "name": "stardust"
-                }
+                "id": 90,
+                "item_name": "stardust"
             },
             {
-                "item": {
-                    "name": "comet-shard"
-                }
+                "id": 624,
+                "item_name": "comet-shard"
             }
         ],
         "is_default": true,
@@ -52597,19 +52323,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sun-stone"
-                }
+                "id": 80,
+                "item_name": "sun-stone"
             },
             {
-                "item": {
-                    "name": "stardust"
-                }
+                "id": 90,
+                "item_name": "stardust"
             },
             {
-                "item": {
-                    "name": "comet-shard"
-                }
+                "id": 624,
+                "item_name": "comet-shard"
             }
         ],
         "is_default": true,
@@ -53278,9 +53001,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-clay"
-                }
+                "id": 246,
+                "item_name": "light-clay"
             }
         ],
         "is_default": true,
@@ -53410,9 +53132,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-clay"
-                }
+                "id": 246,
+                "item_name": "light-clay"
             }
         ],
         "is_default": true,
@@ -53545,9 +53266,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "big-root"
-                }
+                "id": 273,
+                "item_name": "big-root"
             }
         ],
         "is_default": true,
@@ -53682,9 +53402,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "big-root"
-                }
+                "id": 273,
+                "item_name": "big-root"
             }
         ],
         "is_default": true,
@@ -54418,9 +54137,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": true,
@@ -54531,9 +54249,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": false,
@@ -54644,9 +54361,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": false,
@@ -54757,9 +54473,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mystic-water"
-                }
+                "id": 220,
+                "item_name": "mystic-water"
             }
         ],
         "is_default": false,
@@ -54862,9 +54577,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -55001,9 +54715,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -55142,9 +54855,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -55276,14 +54988,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kasib-berry"
-                }
+                "id": 173,
+                "item_name": "kasib-berry"
             },
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -55417,14 +55127,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kasib-berry"
-                }
+                "id": 173,
+                "item_name": "kasib-berry"
             },
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -55661,14 +55369,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "colbur-berry"
-                }
+                "id": 175,
+                "item_name": "colbur-berry"
             },
             {
-                "item": {
-                    "name": "cleanse-tag"
-                }
+                "id": 201,
+                "item_name": "cleanse-tag"
             }
         ],
         "is_default": true,
@@ -55776,9 +55482,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "life-orb"
-                }
+                "id": 247,
+                "item_name": "life-orb"
             }
         ],
         "is_default": true,
@@ -56076,14 +55781,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "babiri-berry"
-                }
+                "id": 176,
+                "item_name": "babiri-berry"
             },
             {
-                "item": {
-                    "name": "snowball"
-                }
+                "id": 689,
+                "item_name": "snowball"
             }
         ],
         "is_default": true,
@@ -56253,14 +55956,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "babiri-berry"
-                }
+                "id": 176,
+                "item_name": "babiri-berry"
             },
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -56833,19 +56534,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "blue-shard"
-                }
+                "id": 73,
+                "item_name": "blue-shard"
             },
             {
-                "item": {
-                    "name": "pearl"
-                }
+                "id": 88,
+                "item_name": "pearl"
             },
             {
-                "item": {
-                    "name": "big-pearl"
-                }
+                "id": 89,
+                "item_name": "big-pearl"
             }
         ],
         "is_default": true,
@@ -57011,9 +56709,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-tooth"
-                }
+                "id": 203,
+                "item_name": "deep-sea-tooth"
             }
         ],
         "is_default": true,
@@ -57179,9 +56876,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-scale"
-                }
+                "id": 204,
+                "item_name": "deep-sea-scale"
             }
         ],
         "is_default": true,
@@ -57290,14 +56986,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "green-shard"
-                }
+                "id": 75,
+                "item_name": "green-shard"
             },
             {
-                "item": {
-                    "name": "deep-sea-scale"
-                }
+                "id": 204,
+                "item_name": "deep-sea-scale"
             }
         ],
         "is_default": true,
@@ -57401,9 +57095,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "heart-scale"
-                }
+                "id": 93,
+                "item_name": "heart-scale"
             }
         ],
         "is_default": true,
@@ -57535,14 +57228,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             },
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -57676,14 +57367,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             },
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -57817,14 +57506,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-scale"
-                }
+                "id": 212,
+                "item_name": "dragon-scale"
             },
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -57957,9 +57644,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -58094,9 +57780,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -58231,9 +57916,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -59307,9 +58991,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "star-piece"
-                }
+                "id": 91,
+                "item_name": "star-piece"
             }
         ],
         "is_default": true,
@@ -61043,9 +60726,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "yache-berry"
-                }
+                "id": 165,
+                "item_name": "yache-berry"
             }
         ],
         "is_default": true,
@@ -61180,9 +60862,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "yache-berry"
-                }
+                "id": 165,
+                "item_name": "yache-berry"
             }
         ],
         "is_default": true,
@@ -61317,9 +60998,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "yache-berry"
-                }
+                "id": 165,
+                "item_name": "yache-berry"
             }
         ],
         "is_default": true,
@@ -61594,14 +61274,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -61734,9 +61412,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metronome"
-                }
+                "id": 254,
+                "item_name": "metronome"
             }
         ],
         "is_default": true,
@@ -61870,9 +61547,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metronome"
-                }
+                "id": 254,
+                "item_name": "metronome"
             }
         ],
         "is_default": true,
@@ -62414,9 +62090,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -62559,14 +62234,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             },
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -63413,9 +63086,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": true,
@@ -63586,9 +63258,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": false,
@@ -63759,9 +63430,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": false,
@@ -63926,9 +63596,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": true,
@@ -64061,9 +63730,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "honey"
-                }
+                "id": 94,
+                "item_name": "honey"
             }
         ],
         "is_default": true,
@@ -64198,9 +63866,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -64439,9 +64106,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "wacan-berry"
-                }
+                "id": 163,
+                "item_name": "wacan-berry"
             }
         ],
         "is_default": true,
@@ -64576,9 +64242,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "wacan-berry"
-                }
+                "id": 163,
+                "item_name": "wacan-berry"
             }
         ],
         "is_default": true,
@@ -64706,9 +64371,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "miracle-seed"
-                }
+                "id": 216,
+                "item_name": "miracle-seed"
             }
         ],
         "is_default": true,
@@ -64839,9 +64503,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "miracle-seed"
-                }
+                "id": 216,
+                "item_name": "miracle-seed"
             }
         ],
         "is_default": true,
@@ -65524,9 +65187,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "air-balloon"
-                }
+                "id": 584,
+                "item_name": "air-balloon"
             }
         ],
         "is_default": true,
@@ -65665,14 +65327,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "chople-berry"
-                }
+                "id": 166,
+                "item_name": "chople-berry"
             }
         ],
         "is_default": true,
@@ -65812,14 +65472,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "chople-berry"
-                }
+                "id": 166,
+                "item_name": "chople-berry"
             }
         ],
         "is_default": true,
@@ -66221,9 +65879,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cheri-berry"
-                }
+                "id": 126,
+                "item_name": "cheri-berry"
             }
         ],
         "is_default": true,
@@ -66362,9 +66019,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cheri-berry"
-                }
+                "id": 126,
+                "item_name": "cheri-berry"
             }
         ],
         "is_default": true,
@@ -66493,14 +66149,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "colbur-berry"
-                }
+                "id": 175,
+                "item_name": "colbur-berry"
             },
             {
-                "item": {
-                    "name": "cleanse-tag"
-                }
+                "id": 201,
+                "item_name": "cleanse-tag"
             }
         ],
         "is_default": true,
@@ -66637,9 +66291,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             }
         ],
         "is_default": true,
@@ -66779,9 +66432,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             }
         ],
         "is_default": true,
@@ -66919,9 +66571,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -67061,9 +66712,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -67342,9 +66992,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "leppa-berry"
-                }
+                "id": 131,
+                "item_name": "leppa-berry"
             }
         ],
         "is_default": true,
@@ -67485,19 +67134,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oval-stone"
-                }
+                "id": 110,
+                "item_name": "oval-stone"
             },
             {
-                "item": {
-                    "name": "lucky-egg"
-                }
+                "id": 208,
+                "item_name": "lucky-egg"
             },
             {
-                "item": {
-                    "name": "lucky-punch"
-                }
+                "id": 233,
+                "item_name": "lucky-punch"
             }
         ],
         "is_default": true,
@@ -67605,9 +67251,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metronome"
-                }
+                "id": 254,
+                "item_name": "metronome"
             }
         ],
         "is_default": true,
@@ -67841,9 +67486,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "haban-berry"
-                }
+                "id": 174,
+                "item_name": "haban-berry"
             }
         ],
         "is_default": true,
@@ -67979,9 +67623,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "haban-berry"
-                }
+                "id": 174,
+                "item_name": "haban-berry"
             }
         ],
         "is_default": true,
@@ -68117,9 +67760,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "haban-berry"
-                }
+                "id": 174,
+                "item_name": "haban-berry"
             }
         ],
         "is_default": true,
@@ -68259,9 +67901,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "leftovers"
-                }
+                "id": 211,
+                "item_name": "leftovers"
             }
         ],
         "is_default": true,
@@ -68927,9 +68568,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -69070,9 +68710,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -69210,9 +68849,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             }
         ],
         "is_default": true,
@@ -69352,9 +68990,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             }
         ],
         "is_default": true,
@@ -69586,9 +69223,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rindo-berry"
-                }
+                "id": 164,
+                "item_name": "rindo-berry"
             }
         ],
         "is_default": true,
@@ -69727,9 +69363,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rindo-berry"
-                }
+                "id": 164,
+                "item_name": "rindo-berry"
             }
         ],
         "is_default": true,
@@ -70000,9 +69635,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -70138,9 +69772,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -70307,14 +69940,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "quick-claw"
-                }
+                "id": 194,
+                "item_name": "quick-claw"
             },
             {
-                "item": {
-                    "name": "grip-claw"
-                }
+                "id": 263,
+                "item_name": "grip-claw"
             }
         ],
         "is_default": true,
@@ -70454,9 +70085,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "metal-coat"
-                }
+                "id": 210,
+                "item_name": "metal-coat"
             }
         ],
         "is_default": true,
@@ -70598,9 +70228,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lagging-tail"
-                }
+                "id": 256,
+                "item_name": "lagging-tail"
             }
         ],
         "is_default": true,
@@ -71008,9 +70637,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "electirizer"
-                }
+                "id": 299,
+                "item_name": "electirizer"
             }
         ],
         "is_default": true,
@@ -71144,9 +70772,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "magmarizer"
-                }
+                "id": 300,
+                "item_name": "magmarizer"
             }
         ],
         "is_default": true,
@@ -73054,14 +72681,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             },
             {
-                "item": {
-                    "name": "magnet"
-                }
+                "id": 219,
+                "item_name": "magnet"
             }
         ],
         "is_default": true,
@@ -73196,14 +72821,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "kasib-berry"
-                }
+                "id": 173,
+                "item_name": "kasib-berry"
             },
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -73368,9 +72991,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "babiri-berry"
-                }
+                "id": 176,
+                "item_name": "babiri-berry"
             }
         ],
         "is_default": true,
@@ -75648,9 +75270,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lum-berry"
-                }
+                "id": 134,
+                "item_name": "lum-berry"
             }
         ],
         "is_default": true,
@@ -75752,9 +75373,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "lum-berry"
-                }
+                "id": 134,
+                "item_name": "lum-berry"
             }
         ],
         "is_default": false,
@@ -78204,14 +77824,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "occa-berry"
-                }
+                "id": 161,
+                "item_name": "occa-berry"
             }
         ],
         "is_default": true,
@@ -78347,14 +77965,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "occa-berry"
-                }
+                "id": 161,
+                "item_name": "occa-berry"
             }
         ],
         "is_default": true,
@@ -78488,14 +78104,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "passho-berry"
-                }
+                "id": 162,
+                "item_name": "passho-berry"
             }
         ],
         "is_default": true,
@@ -78631,14 +78245,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "passho-berry"
-                }
+                "id": 162,
+                "item_name": "passho-berry"
             }
         ],
         "is_default": true,
@@ -78772,14 +78384,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "rindo-berry"
-                }
+                "id": 164,
+                "item_name": "rindo-berry"
             }
         ],
         "is_default": true,
@@ -78915,14 +78525,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "rindo-berry"
-                }
+                "id": 164,
+                "item_name": "rindo-berry"
             }
         ],
         "is_default": true,
@@ -79737,9 +79345,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cheri-berry"
-                }
+                "id": 126,
+                "item_name": "cheri-berry"
             }
         ],
         "is_default": true,
@@ -79878,9 +79485,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cheri-berry"
-                }
+                "id": 126,
+                "item_name": "cheri-berry"
             }
         ],
         "is_default": true,
@@ -80017,14 +79623,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -80163,14 +79767,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -80309,14 +79911,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "everstone"
-                }
+                "id": 206,
+                "item_name": "everstone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -80965,14 +80565,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "oran-berry"
-                }
+                "id": 132,
+                "item_name": "oran-berry"
             },
             {
-                "item": {
-                    "name": "sitrus-berry"
-                }
+                "id": 135,
+                "item_name": "sitrus-berry"
             }
         ],
         "is_default": true,
@@ -81512,14 +81110,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -81658,14 +81254,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -81805,14 +81399,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -81921,14 +81513,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-belt"
-                }
+                "id": 218,
+                "item_name": "black-belt"
             },
             {
-                "item": {
-                    "name": "expert-belt"
-                }
+                "id": 245,
+                "item_name": "expert-belt"
             }
         ],
         "is_default": true,
@@ -82036,14 +81626,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-belt"
-                }
+                "id": 218,
+                "item_name": "black-belt"
             },
             {
-                "item": {
-                    "name": "expert-belt"
-                }
+                "id": 245,
+                "item_name": "expert-belt"
             }
         ],
         "is_default": true,
@@ -82180,9 +81768,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -82322,9 +81909,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -82464,9 +82050,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "mental-herb"
-                }
+                "id": 196,
+                "item_name": "mental-herb"
             }
         ],
         "is_default": true,
@@ -82604,14 +82189,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -82751,14 +82334,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -82898,14 +82479,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "pecha-berry"
-                }
+                "id": 128,
+                "item_name": "pecha-berry"
             },
             {
-                "item": {
-                    "name": "poison-barb"
-                }
+                "id": 222,
+                "item_name": "poison-barb"
             }
         ],
         "is_default": true,
@@ -83046,9 +82625,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -83190,9 +82768,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -83331,9 +82908,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -83474,9 +83050,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "absorb-bulb"
-                }
+                "id": 588,
+                "item_name": "absorb-bulb"
             }
         ],
         "is_default": true,
@@ -83621,9 +83196,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-tooth"
-                }
+                "id": 203,
+                "item_name": "deep-sea-tooth"
             }
         ],
         "is_default": true,
@@ -83768,9 +83342,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "deep-sea-scale"
-                }
+                "id": 204,
+                "item_name": "deep-sea-scale"
             }
         ],
         "is_default": false,
@@ -84048,9 +83621,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-glasses"
-                }
+                "id": 217,
+                "item_name": "black-glasses"
             }
         ],
         "is_default": true,
@@ -84190,9 +83762,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-glasses"
-                }
+                "id": 217,
+                "item_name": "black-glasses"
             }
         ],
         "is_default": true,
@@ -84332,9 +83903,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "black-glasses"
-                }
+                "id": 217,
+                "item_name": "black-glasses"
             }
         ],
         "is_default": true,
@@ -84491,9 +84061,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -84655,9 +84224,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": true,
@@ -84819,9 +84387,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rawst-berry"
-                }
+                "id": 129,
+                "item_name": "rawst-berry"
             }
         ],
         "is_default": false,
@@ -84930,9 +84497,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "miracle-seed"
-                }
+                "id": 216,
+                "item_name": "miracle-seed"
             }
         ],
         "is_default": true,
@@ -85070,14 +84636,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rare-bone"
-                }
+                "id": 106,
+                "item_name": "rare-bone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -85218,14 +84782,12 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "rare-bone"
-                }
+                "id": 106,
+                "item_name": "rare-bone"
             },
             {
-                "item": {
-                    "name": "hard-stone"
-                }
+                "id": 215,
+                "item_name": "hard-stone"
             }
         ],
         "is_default": true,
@@ -85364,9 +84926,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -85507,9 +85068,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "shed-shell"
-                }
+                "id": 272,
+                "item_name": "shed-shell"
             }
         ],
         "is_default": true,
@@ -85771,9 +85331,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -85931,9 +85490,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "spell-tag"
-                }
+                "id": 224,
+                "item_name": "spell-tag"
             }
         ],
         "is_default": true,
@@ -86594,19 +86152,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "nugget"
-                }
+                "id": 92,
+                "item_name": "nugget"
             },
             {
-                "item": {
-                    "name": "silk-scarf"
-                }
+                "id": 228,
+                "item_name": "silk-scarf"
             },
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             }
         ],
         "is_default": true,
@@ -86745,24 +86300,20 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "nugget"
-                }
+                "id": 92,
+                "item_name": "nugget"
             },
             {
-                "item": {
-                    "name": "silk-scarf"
-                }
+                "id": 228,
+                "item_name": "silk-scarf"
             },
             {
-                "item": {
-                    "name": "black-sludge"
-                }
+                "id": 258,
+                "item_name": "black-sludge"
             },
             {
-                "item": {
-                    "name": "big-nugget"
-                }
+                "id": 622,
+                "item_name": "big-nugget"
             }
         ],
         "is_default": true,
@@ -87149,9 +86700,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -87292,9 +86842,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "chesto-berry"
-                }
+                "id": 127,
+                "item_name": "chesto-berry"
             }
         ],
         "is_default": true,
@@ -87431,9 +86980,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -87572,9 +87120,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -87713,9 +87260,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -87852,9 +87398,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -87993,9 +87538,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -88134,9 +87678,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "persim-berry"
-                }
+                "id": 133,
+                "item_name": "persim-berry"
             }
         ],
         "is_default": true,
@@ -88545,9 +88088,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -88686,9 +88228,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -88827,9 +88368,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -89208,9 +88748,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "cheri-berry"
-                }
+                "id": 126,
+                "item_name": "cheri-berry"
             }
         ],
         "is_default": true,
@@ -89616,19 +89155,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "balm-mushroom"
-                }
+                "id": 621,
+                "item_name": "balm-mushroom"
             }
         ],
         "is_default": true,
@@ -89763,19 +89299,16 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "tiny-mushroom"
-                }
+                "id": 86,
+                "item_name": "tiny-mushroom"
             },
             {
-                "item": {
-                    "name": "big-mushroom"
-                }
+                "id": 87,
+                "item_name": "big-mushroom"
             },
             {
-                "item": {
-                    "name": "balm-mushroom"
-                }
+                "id": 621,
+                "item_name": "balm-mushroom"
             }
         ],
         "is_default": true,
@@ -90549,9 +90082,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sticky-barb"
-                }
+                "id": 265,
+                "item_name": "sticky-barb"
             }
         ],
         "is_default": true,
@@ -90687,9 +90219,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "sticky-barb"
-                }
+                "id": 265,
+                "item_name": "sticky-barb"
             }
         ],
         "is_default": true,
@@ -92683,9 +92214,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -92824,9 +92354,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "aspear-berry"
-                }
+                "id": 130,
+                "item_name": "aspear-berry"
             }
         ],
         "is_default": true,
@@ -92924,9 +92453,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "never-melt-ice"
-                }
+                "id": 223,
+                "item_name": "never-melt-ice"
             }
         ],
         "is_default": true,
@@ -93307,9 +92835,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "soft-sand"
-                }
+                "id": 214,
+                "item_name": "soft-sand"
             }
         ],
         "is_default": true,
@@ -93689,9 +93216,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "dragon-fang"
-                }
+                "id": 227,
+                "item_name": "dragon-fang"
             }
         ],
         "is_default": true,
@@ -93828,9 +93354,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-clay"
-                }
+                "id": 246,
+                "item_name": "light-clay"
             }
         ],
         "is_default": true,
@@ -93970,9 +93495,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "light-clay"
-                }
+                "id": 246,
+                "item_name": "light-clay"
             }
         ],
         "is_default": true,
@@ -94995,9 +94519,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "flame-orb"
-                }
+                "id": 250,
+                "item_name": "flame-orb"
             }
         ],
         "is_default": true,
@@ -95741,9 +95264,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "silver-powder"
-                }
+                "id": 199,
+                "item_name": "silver-powder"
             }
         ],
         "is_default": true,
@@ -97435,9 +96957,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "star-piece"
-                }
+                "id": 91,
+                "item_name": "star-piece"
             }
         ],
         "is_default": true,
@@ -97540,9 +97061,8 @@
         ],
         "held_items": [
             {
-                "item": {
-                    "name": "star-piece"
-                }
+                "id": 91,
+                "item_name": "star-piece"
             }
         ],
         "is_default": false,
