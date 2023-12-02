@@ -8,7 +8,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "karate-chop": {
         "id": 2,
@@ -19,7 +20,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has an increased chance for a critical hit."
     },
     "double-slap": {
         "id": 3,
@@ -30,7 +32,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "comet-punch": {
         "id": 4,
@@ -41,7 +44,8 @@
         "priority": 0,
         "power": 18,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "mega-punch": {
         "id": 5,
@@ -52,7 +56,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "pay-day": {
         "id": 6,
@@ -63,7 +68,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Scatters money on the ground worth five times the user's level."
     },
     "fire-punch": {
         "id": 7,
@@ -74,7 +80,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "ice-punch": {
         "id": 8,
@@ -85,7 +92,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to freeze the target."
     },
     "thunder-punch": {
         "id": 9,
@@ -96,7 +104,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "scratch": {
         "id": 10,
@@ -107,7 +116,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "vice-grip": {
         "id": 11,
@@ -118,7 +128,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "guillotine": {
         "id": 12,
@@ -129,7 +140,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Causes a one-hit KO."
     },
     "razor-wind": {
         "id": 13,
@@ -140,7 +152,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Requires a turn to charge before attacking."
     },
     "swords-dance": {
         "id": 14,
@@ -151,7 +164,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Attack by two stages."
     },
     "cut": {
         "id": 15,
@@ -162,7 +176,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "gust": {
         "id": 16,
@@ -173,7 +188,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Inflicts regular damage and can hit Pokémon in the air."
     },
     "wing-attack": {
         "id": 17,
@@ -184,7 +200,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "whirlwind": {
         "id": 18,
@@ -195,7 +212,8 @@
         "priority": -6,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
     },
     "fly": {
         "id": 19,
@@ -206,7 +224,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "User flies high into the air, dodging all attacks, and hits next turn."
     },
     "bind": {
         "id": 20,
@@ -217,7 +236,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "slam": {
         "id": 21,
@@ -228,7 +248,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "vine-whip": {
         "id": 22,
@@ -239,7 +260,8 @@
         "priority": 0,
         "power": 45,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "stomp": {
         "id": 23,
@@ -250,7 +272,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "double-kick": {
         "id": 24,
@@ -261,7 +284,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Hits twice in one turn."
     },
     "mega-kick": {
         "id": 25,
@@ -272,7 +296,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "jump-kick": {
         "id": 26,
@@ -283,7 +308,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "If the user misses, it takes half the damage it would have inflicted in recoil."
     },
     "rolling-kick": {
         "id": 27,
@@ -294,7 +320,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "sand-attack": {
         "id": 28,
@@ -305,7 +332,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Lowers the target's accuracy by one stage."
     },
     "headbutt": {
         "id": 29,
@@ -316,7 +344,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "horn-attack": {
         "id": 30,
@@ -327,7 +356,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "fury-attack": {
         "id": 31,
@@ -338,7 +368,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "horn-drill": {
         "id": 32,
@@ -349,7 +380,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Causes a one-hit KO."
     },
     "tackle": {
         "id": 33,
@@ -360,7 +392,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "body-slam": {
         "id": 34,
@@ -371,7 +404,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "wrap": {
         "id": 35,
@@ -382,7 +416,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "take-down": {
         "id": 36,
@@ -393,7 +428,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User receives 1/4 the damage it inflicts in recoil."
     },
     "thrash": {
         "id": 37,
@@ -404,7 +440,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user."
     },
     "double-edge": {
         "id": 38,
@@ -415,7 +452,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User receives 1/3 the damage inflicted in recoil."
     },
     "tail-whip": {
         "id": 39,
@@ -426,7 +464,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Defense by one stage."
     },
     "poison-sting": {
         "id": 40,
@@ -437,7 +476,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "twineedle": {
         "id": 41,
@@ -448,7 +488,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Hits twice in the same turn.  Has a $effect_chance% chance to poison the target."
     },
     "pin-missile": {
         "id": 42,
@@ -459,7 +500,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Hits 2-5 times in one turn."
     },
     "leer": {
         "id": 43,
@@ -470,7 +512,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Defense by one stage."
     },
     "bite": {
         "id": 44,
@@ -481,7 +524,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "growl": {
         "id": 45,
@@ -492,7 +536,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Attack by one stage."
     },
     "roar": {
         "id": 46,
@@ -503,7 +548,8 @@
         "priority": -6,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
     },
     "sing": {
         "id": 47,
@@ -514,7 +560,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Puts the target to sleep."
     },
     "supersonic": {
         "id": 48,
@@ -525,7 +572,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Confuses the target."
     },
     "sonic-boom": {
         "id": 49,
@@ -536,7 +584,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts 20 points of damage."
     },
     "disable": {
         "id": 50,
@@ -547,7 +596,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Disables the target's last used move for 1-8 turns."
     },
     "acid": {
         "id": 51,
@@ -558,7 +608,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "ember": {
         "id": 52,
@@ -569,7 +620,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "flamethrower": {
         "id": 53,
@@ -580,7 +632,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "mist": {
         "id": 54,
@@ -591,7 +644,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Protects the user's stats from being changed by enemy moves."
     },
     "water-gun": {
         "id": 55,
@@ -602,7 +656,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "hydro-pump": {
         "id": 56,
@@ -613,7 +668,8 @@
         "priority": 0,
         "power": 110,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "surf": {
         "id": 57,
@@ -624,7 +680,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts regular damage and can hit Dive users."
     },
     "ice-beam": {
         "id": 58,
@@ -635,7 +692,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to freeze the target."
     },
     "blizzard": {
         "id": 59,
@@ -646,7 +704,8 @@
         "priority": 0,
         "power": 110,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to freeze the target."
     },
     "psybeam": {
         "id": 60,
@@ -657,7 +716,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "bubble-beam": {
         "id": 61,
@@ -668,7 +728,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "aurora-beam": {
         "id": 62,
@@ -679,7 +740,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to lower the target's Attack by one stage."
     },
     "hyper-beam": {
         "id": 63,
@@ -690,7 +752,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User foregoes its next turn to recharge."
     },
     "peck": {
         "id": 64,
@@ -701,7 +764,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "drill-peck": {
         "id": 65,
@@ -712,7 +776,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "submission": {
         "id": 66,
@@ -723,7 +788,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "User receives 1/4 the damage it inflicts in recoil."
     },
     "low-kick": {
         "id": 67,
@@ -734,7 +800,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
     },
     "counter": {
         "id": 68,
@@ -745,7 +812,8 @@
         "priority": -5,
         "power": null,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts twice the damage the user received from the last physical hit it took."
     },
     "seismic-toss": {
         "id": 69,
@@ -756,7 +824,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts damage equal to the user's level."
     },
     "strength": {
         "id": 70,
@@ -767,7 +836,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "absorb": {
         "id": 71,
@@ -778,7 +848,8 @@
         "priority": 0,
         "power": 20,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "mega-drain": {
         "id": 72,
@@ -789,7 +860,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "leech-seed": {
         "id": 73,
@@ -800,7 +872,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Seeds the target, stealing HP from it every turn."
     },
     "growth": {
         "id": 74,
@@ -811,7 +884,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Attack and Special Attack by one stage."
     },
     "razor-leaf": {
         "id": 75,
@@ -822,7 +896,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has an increased chance for a critical hit."
     },
     "solar-beam": {
         "id": 76,
@@ -833,7 +908,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Requires a turn to charge before attacking."
     },
     "poison-powder": {
         "id": 77,
@@ -844,7 +920,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Poisons the target."
     },
     "stun-spore": {
         "id": 78,
@@ -855,7 +932,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Paralyzes the target."
     },
     "sleep-powder": {
         "id": 79,
@@ -866,7 +944,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Puts the target to sleep."
     },
     "petal-dance": {
         "id": 80,
@@ -877,7 +956,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user."
     },
     "string-shot": {
         "id": 81,
@@ -888,7 +968,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Lowers the target's Speed by two stages."
     },
     "dragon-rage": {
         "id": 82,
@@ -899,7 +980,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Inflicts 40 points of damage."
     },
     "fire-spin": {
         "id": 83,
@@ -910,7 +992,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "thunder-shock": {
         "id": 84,
@@ -921,7 +1004,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "thunderbolt": {
         "id": 85,
@@ -932,7 +1016,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "thunder-wave": {
         "id": 86,
@@ -943,7 +1028,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Paralyzes the target."
     },
     "thunder": {
         "id": 87,
@@ -954,7 +1040,8 @@
         "priority": 0,
         "power": 110,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "rock-throw": {
         "id": 88,
@@ -965,7 +1052,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "earthquake": {
         "id": 89,
@@ -976,7 +1064,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Inflicts regular damage and can hit Dig users."
     },
     "fissure": {
         "id": 90,
@@ -987,7 +1076,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Causes a one-hit KO."
     },
     "dig": {
         "id": 91,
@@ -998,7 +1088,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "User digs underground, dodging all attacks, and hits next turn."
     },
     "toxic": {
         "id": 92,
@@ -1009,7 +1100,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Badly poisons the target, inflicting more damage every turn."
     },
     "confusion": {
         "id": 93,
@@ -1020,7 +1112,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "psychic": {
         "id": 94,
@@ -1031,7 +1124,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "hypnosis": {
         "id": 95,
@@ -1042,7 +1136,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Puts the target to sleep."
     },
     "meditate": {
         "id": 96,
@@ -1053,7 +1148,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Attack by one stage."
     },
     "agility": {
         "id": 97,
@@ -1064,7 +1160,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Speed by two stages."
     },
     "quick-attack": {
         "id": 98,
@@ -1075,7 +1172,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "rage": {
         "id": 99,
@@ -1086,7 +1184,8 @@
         "priority": 0,
         "power": 20,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage."
     },
     "teleport": {
         "id": 100,
@@ -1097,7 +1196,8 @@
         "priority": -6,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Immediately ends wild battles.  No effect otherwise."
     },
     "night-shade": {
         "id": 101,
@@ -1108,7 +1208,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Inflicts damage equal to the user's level."
     },
     "mimic": {
         "id": 102,
@@ -1119,7 +1220,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Copies the target's last used move."
     },
     "screech": {
         "id": 103,
@@ -1130,7 +1232,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Defense by two stages."
     },
     "double-team": {
         "id": 104,
@@ -1141,7 +1244,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's evasion by one stage."
     },
     "recover": {
         "id": 105,
@@ -1152,7 +1256,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Heals the user by half its max HP."
     },
     "harden": {
         "id": 106,
@@ -1163,7 +1268,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Defense by one stage."
     },
     "minimize": {
         "id": 107,
@@ -1174,7 +1280,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's evasion by two stages."
     },
     "smokescreen": {
         "id": 108,
@@ -1185,7 +1292,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's accuracy by one stage."
     },
     "confuse-ray": {
         "id": 109,
@@ -1196,7 +1304,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Confuses the target."
     },
     "withdraw": {
         "id": 110,
@@ -1207,7 +1316,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "water"
+        "type": "water",
+        "effect": "Raises the user's Defense by one stage."
     },
     "defense-curl": {
         "id": 111,
@@ -1218,7 +1328,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises user's Defense by one stage."
     },
     "barrier": {
         "id": 112,
@@ -1229,7 +1340,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Defense by two stages."
     },
     "light-screen": {
         "id": 113,
@@ -1240,7 +1352,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Reduces damage from special attacks by 50% for five turns."
     },
     "haze": {
         "id": 114,
@@ -1251,7 +1364,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Resets all Pokémon's stats, accuracy, and evasion."
     },
     "reflect": {
         "id": 115,
@@ -1262,7 +1376,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Reduces damage from physical attacks by half."
     },
     "focus-energy": {
         "id": 116,
@@ -1273,7 +1388,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Increases the user's chance to score a critical hit."
     },
     "bide": {
         "id": 117,
@@ -1284,7 +1400,8 @@
         "priority": 1,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User waits for two turns, then hits back for twice the damage it took."
     },
     "metronome": {
         "id": 118,
@@ -1295,7 +1412,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Randomly selects and uses any move in the game."
     },
     "mirror-move": {
         "id": 119,
@@ -1306,7 +1424,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Uses the target's last used move."
     },
     "self-destruct": {
         "id": 120,
@@ -1317,7 +1436,8 @@
         "priority": 0,
         "power": 200,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User faints."
     },
     "egg-bomb": {
         "id": 121,
@@ -1328,7 +1448,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "lick": {
         "id": 122,
@@ -1339,7 +1460,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "smog": {
         "id": 123,
@@ -1350,7 +1472,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "sludge": {
         "id": 124,
@@ -1361,7 +1484,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "bone-club": {
         "id": 125,
@@ -1372,7 +1496,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "fire-blast": {
         "id": 126,
@@ -1383,7 +1508,8 @@
         "priority": 0,
         "power": 110,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "waterfall": {
         "id": 127,
@@ -1394,7 +1520,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "clamp": {
         "id": 128,
@@ -1405,7 +1532,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "swift": {
         "id": 129,
@@ -1416,7 +1544,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Never misses."
     },
     "skull-bash": {
         "id": 130,
@@ -1427,7 +1556,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Defense by one stage.  User charges for one turn before attacking."
     },
     "spike-cannon": {
         "id": 131,
@@ -1438,7 +1568,8 @@
         "priority": 0,
         "power": 20,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "constrict": {
         "id": 132,
@@ -1449,7 +1580,8 @@
         "priority": 0,
         "power": 10,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "amnesia": {
         "id": 133,
@@ -1460,7 +1592,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Special Defense by two stages."
     },
     "kinesis": {
         "id": 134,
@@ -1471,7 +1604,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Lowers the target's accuracy by one stage."
     },
     "soft-boiled": {
         "id": 135,
@@ -1482,7 +1616,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Heals the user by half its max HP."
     },
     "high-jump-kick": {
         "id": 136,
@@ -1493,7 +1628,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "If the user misses, it takes half the damage it would have inflicted in recoil."
     },
     "glare": {
         "id": 137,
@@ -1504,7 +1640,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Paralyzes the target."
     },
     "dream-eater": {
         "id": 138,
@@ -1515,7 +1652,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user."
     },
     "poison-gas": {
         "id": 139,
@@ -1526,7 +1664,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Poisons the target."
     },
     "barrage": {
         "id": 140,
@@ -1537,7 +1676,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "leech-life": {
         "id": 141,
@@ -1548,7 +1688,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "lovely-kiss": {
         "id": 142,
@@ -1559,7 +1700,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Puts the target to sleep."
     },
     "sky-attack": {
         "id": 143,
@@ -1570,7 +1712,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch."
     },
     "transform": {
         "id": 144,
@@ -1581,7 +1724,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User becomes a copy of the target until it leaves battle."
     },
     "bubble": {
         "id": 145,
@@ -1592,7 +1736,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "dizzy-punch": {
         "id": 146,
@@ -1603,7 +1748,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "spore": {
         "id": 147,
@@ -1614,7 +1760,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Puts the target to sleep."
     },
     "flash": {
         "id": 148,
@@ -1625,7 +1772,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's accuracy by one stage."
     },
     "psywave": {
         "id": 149,
@@ -1636,7 +1784,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Inflicts damage between 50% and 150% of the user's level."
     },
     "splash": {
         "id": 150,
@@ -1647,7 +1796,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Does nothing."
     },
     "acid-armor": {
         "id": 151,
@@ -1658,7 +1808,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Raises the user's Defense by two stages."
     },
     "crabhammer": {
         "id": 152,
@@ -1669,7 +1820,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Has an increased chance for a critical hit."
     },
     "explosion": {
         "id": 153,
@@ -1680,7 +1832,8 @@
         "priority": 0,
         "power": 250,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User faints."
     },
     "fury-swipes": {
         "id": 154,
@@ -1691,7 +1844,8 @@
         "priority": 0,
         "power": 18,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "bonemerang": {
         "id": 155,
@@ -1702,7 +1856,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Hits twice in one turn."
     },
     "rest": {
         "id": 156,
@@ -1713,7 +1868,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User sleeps for two turns, completely healing itself."
     },
     "rock-slide": {
         "id": 157,
@@ -1724,7 +1880,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "hyper-fang": {
         "id": 158,
@@ -1735,7 +1892,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "sharpen": {
         "id": 159,
@@ -1746,7 +1904,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Attack by one stage."
     },
     "conversion": {
         "id": 160,
@@ -1757,7 +1916,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User's type changes to the type of one of its moves at random."
     },
     "tri-attack": {
         "id": 161,
@@ -1768,7 +1928,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target."
     },
     "super-fang": {
         "id": 162,
@@ -1779,7 +1940,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts damage equal to half the target's HP."
     },
     "slash": {
         "id": 163,
@@ -1790,7 +1952,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has an increased chance for a critical hit."
     },
     "substitute": {
         "id": 164,
@@ -1801,7 +1964,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks."
     },
     "struggle": {
         "id": 165,
@@ -1812,7 +1976,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User takes 1/4 its max HP in recoil."
     },
     "sketch": {
         "id": 166,
@@ -1823,7 +1988,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Permanently becomes the target's last used move."
     },
     "triple-kick": {
         "id": 167,
@@ -1834,7 +2000,8 @@
         "priority": 0,
         "power": 10,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Hits three times, increasing power by 100% with each successful hit."
     },
     "thief": {
         "id": 168,
@@ -1845,7 +2012,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Takes the target's item."
     },
     "spider-web": {
         "id": 169,
@@ -1856,7 +2024,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Prevents the target from leaving battle."
     },
     "mind-reader": {
         "id": 170,
@@ -1867,7 +2036,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Ensures that the user's next move will hit the target."
     },
     "nightmare": {
         "id": 171,
@@ -1878,7 +2048,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Target loses 1/4 its max HP every turn as long as it's asleep."
     },
     "flame-wheel": {
         "id": 172,
@@ -1889,7 +2060,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves."
     },
     "snore": {
         "id": 173,
@@ -1900,7 +2072,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping."
     },
     "curse": {
         "id": 174,
@@ -1911,7 +2084,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
     },
     "flail": {
         "id": 175,
@@ -1922,7 +2096,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
     },
     "conversion-2": {
         "id": 176,
@@ -1933,7 +2108,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Changes the user's type to a random type either resistant or immune to the last move used against it."
     },
     "aeroblast": {
         "id": 177,
@@ -1944,7 +2120,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has an increased chance for a critical hit."
     },
     "cotton-spore": {
         "id": 178,
@@ -1955,7 +2132,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Lowers the target's Speed by two stages."
     },
     "reversal": {
         "id": 179,
@@ -1966,7 +2144,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
     },
     "spite": {
         "id": 180,
@@ -1977,7 +2156,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Lowers the PP of the target's last used move by 4."
     },
     "powder-snow": {
         "id": 181,
@@ -1988,7 +2168,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to freeze the target."
     },
     "protect": {
         "id": 182,
@@ -1999,7 +2180,8 @@
         "priority": 4,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents any moves from hitting the user this turn."
     },
     "mach-punch": {
         "id": 183,
@@ -2010,7 +2192,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "scary-face": {
         "id": 184,
@@ -2021,7 +2204,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Speed by two stages."
     },
     "feint-attack": {
         "id": 185,
@@ -2032,7 +2216,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Never misses."
     },
     "sweet-kiss": {
         "id": 186,
@@ -2043,7 +2228,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fairy"
+        "type": "fairy",
+        "effect": "Confuses the target."
     },
     "belly-drum": {
         "id": 187,
@@ -2054,7 +2240,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User pays half its max HP to max out its Attack."
     },
     "sludge-bomb": {
         "id": 188,
@@ -2065,7 +2252,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "mud-slap": {
         "id": 189,
@@ -2076,7 +2264,8 @@
         "priority": 0,
         "power": 20,
         "damage_class": "special",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "octazooka": {
         "id": 190,
@@ -2087,7 +2276,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "spikes": {
         "id": 191,
@@ -2098,7 +2288,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Scatters Spikes, hurting opposing Pokémon that switch in."
     },
     "zap-cannon": {
         "id": 192,
@@ -2109,7 +2300,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "foresight": {
         "id": 193,
@@ -2120,7 +2312,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost."
     },
     "destiny-bond": {
         "id": 194,
@@ -2131,7 +2324,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "If the user faints this turn, the target automatically will, too."
     },
     "perish-song": {
         "id": 195,
@@ -2142,7 +2336,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User and target both faint after three turns."
     },
     "icy-wind": {
         "id": 196,
@@ -2153,7 +2348,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "detect": {
         "id": 197,
@@ -2164,7 +2360,8 @@
         "priority": 4,
         "power": null,
         "damage_class": "status",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Prevents any moves from hitting the user this turn."
     },
     "bone-rush": {
         "id": 198,
@@ -2175,7 +2372,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Hits 2-5 times in one turn."
     },
     "lock-on": {
         "id": 199,
@@ -2186,7 +2384,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Ensures that the user's next move will hit the target."
     },
     "outrage": {
         "id": 200,
@@ -2197,7 +2396,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user."
     },
     "sandstorm": {
         "id": 201,
@@ -2208,7 +2408,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Changes the weather to a sandstorm for five turns."
     },
     "giga-drain": {
         "id": 202,
@@ -2219,7 +2420,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "endure": {
         "id": 203,
@@ -2230,7 +2432,8 @@
         "priority": 4,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the user's HP from lowering below 1 this turn."
     },
     "charm": {
         "id": 204,
@@ -2241,7 +2444,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fairy"
+        "type": "fairy",
+        "effect": "Lowers the target's Attack by two stages."
     },
     "rollout": {
         "id": 205,
@@ -2252,7 +2456,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
     },
     "false-swipe": {
         "id": 206,
@@ -2263,7 +2468,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Cannot lower the target's HP below 1."
     },
     "swagger": {
         "id": 207,
@@ -2274,7 +2480,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the target's Attack by two stages and confuses the target."
     },
     "milk-drink": {
         "id": 208,
@@ -2285,7 +2492,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Heals the user by half its max HP."
     },
     "spark": {
         "id": 209,
@@ -2296,7 +2504,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "fury-cutter": {
         "id": 210,
@@ -2307,7 +2516,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Power doubles every turn this move is used in succession after the first, maxing out after five turns."
     },
     "steel-wing": {
         "id": 211,
@@ -2318,7 +2528,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to raise the user's Defense by one stage."
     },
     "mean-look": {
         "id": 212,
@@ -2329,7 +2540,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the target from leaving battle."
     },
     "attract": {
         "id": 213,
@@ -2340,7 +2552,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user."
     },
     "sleep-talk": {
         "id": 214,
@@ -2351,7 +2564,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Randomly uses one of the user's other three moves.  Only works if the user is sleeping."
     },
     "heal-bell": {
         "id": 215,
@@ -2362,7 +2576,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Cures the entire party of major status effects."
     },
     "return": {
         "id": 216,
@@ -2373,7 +2588,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases with happiness, up to a maximum of 102."
     },
     "present": {
         "id": 217,
@@ -2384,7 +2600,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP."
     },
     "frustration": {
         "id": 218,
@@ -2395,7 +2612,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases as happiness decreases, up to a maximum of 102."
     },
     "safeguard": {
         "id": 219,
@@ -2406,7 +2624,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Protects the user's field from major status ailments and confusion for five turns."
     },
     "pain-split": {
         "id": 220,
@@ -2417,7 +2636,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Sets the user's and targets's HP to the average of their current HP."
     },
     "sacred-fire": {
         "id": 221,
@@ -2428,7 +2648,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves."
     },
     "magnitude": {
         "id": 222,
@@ -2439,7 +2660,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Power varies randomly from 10 to 150."
     },
     "dynamic-punch": {
         "id": 223,
@@ -2450,7 +2672,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "megahorn": {
         "id": 224,
@@ -2461,7 +2684,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "dragon-breath": {
         "id": 225,
@@ -2472,7 +2696,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "baton-pass": {
         "id": 226,
@@ -2483,7 +2708,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Allows the trainer to switch out the user and pass effects along to its replacement."
     },
     "encore": {
         "id": 227,
@@ -2494,7 +2720,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
     },
     "pursuit": {
         "id": 228,
@@ -2505,7 +2732,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has double power against, and can hit, Pokémon attempting to switch out."
     },
     "rapid-spin": {
         "id": 229,
@@ -2516,7 +2744,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Frees the user from binding moves, removes Leech Seed, and blows away Spikes."
     },
     "sweet-scent": {
         "id": 230,
@@ -2527,7 +2756,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's evasion by one stage."
     },
     "iron-tail": {
         "id": 231,
@@ -2538,7 +2768,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
     },
     "metal-claw": {
         "id": 232,
@@ -2549,7 +2780,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to raise the user's Attack by one stage."
     },
     "vital-throw": {
         "id": 233,
@@ -2560,7 +2792,8 @@
         "priority": -1,
         "power": 70,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Never misses."
     },
     "morning-sun": {
         "id": 234,
@@ -2571,7 +2804,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Heals the user by half its max HP.  Affected by weather."
     },
     "synthesis": {
         "id": 235,
@@ -2582,7 +2816,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Heals the user by half its max HP.  Affected by weather."
     },
     "moonlight": {
         "id": 236,
@@ -2593,7 +2828,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fairy"
+        "type": "fairy",
+        "effect": "Heals the user by half its max HP.  Affected by weather."
     },
     "hidden-power": {
         "id": 237,
@@ -2604,7 +2840,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power and type depend upon user's IVs.  Power can range from 30 to 70."
     },
     "cross-chop": {
         "id": 238,
@@ -2615,7 +2852,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has an increased chance for a critical hit."
     },
     "twister": {
         "id": 239,
@@ -2626,7 +2864,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "rain-dance": {
         "id": 240,
@@ -2637,7 +2876,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "water"
+        "type": "water",
+        "effect": "Changes the weather to rain for five turns."
     },
     "sunny-day": {
         "id": 241,
@@ -2648,7 +2888,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Changes the weather to sunny for five turns."
     },
     "crunch": {
         "id": 242,
@@ -2659,7 +2900,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
     },
     "mirror-coat": {
         "id": 243,
@@ -2670,7 +2912,8 @@
         "priority": -5,
         "power": null,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Inflicts twice the damage the user received from the last special hit it took."
     },
     "psych-up": {
         "id": 244,
@@ -2681,7 +2924,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Discards the user's stat changes and copies the target's."
     },
     "extreme-speed": {
         "id": 245,
@@ -2692,7 +2936,8 @@
         "priority": 2,
         "power": 80,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "ancient-power": {
         "id": 246,
@@ -2703,7 +2948,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
     },
     "shadow-ball": {
         "id": 247,
@@ -2714,7 +2960,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "future-sight": {
         "id": 248,
@@ -2725,7 +2972,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Hits the target two turns later."
     },
     "rock-smash": {
         "id": 249,
@@ -2736,7 +2984,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
     },
     "whirlpool": {
         "id": 250,
@@ -2747,7 +2996,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns."
     },
     "beat-up": {
         "id": 251,
@@ -2758,7 +3008,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Hits once for every conscious Pokémon the trainer has."
     },
     "fake-out": {
         "id": 252,
@@ -2769,7 +3020,8 @@
         "priority": 3,
         "power": 40,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Can only be used as the first move after the user enters battle.  Causes the target to flinch."
     },
     "uproar": {
         "id": 253,
@@ -2780,7 +3032,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time."
     },
     "stockpile": {
         "id": 254,
@@ -2791,7 +3044,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Stores energy up to three times for use with Spit Up and Swallow."
     },
     "spit-up": {
         "id": 255,
@@ -2802,7 +3056,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power is 100 times the amount of energy Stockpiled."
     },
     "swallow": {
         "id": 256,
@@ -2813,7 +3068,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles."
     },
     "heat-wave": {
         "id": 257,
@@ -2824,7 +3080,8 @@
         "priority": 0,
         "power": 95,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "hail": {
         "id": 258,
@@ -2835,7 +3092,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Changes the weather to a hailstorm for five turns."
     },
     "torment": {
         "id": 259,
@@ -2846,7 +3104,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Prevents the target from using the same move twice in a row."
     },
     "flatter": {
         "id": 260,
@@ -2857,7 +3116,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Raises the target's Special Attack by one stage and confuses the target."
     },
     "will-o-wisp": {
         "id": 261,
@@ -2868,7 +3128,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Burns the target."
     },
     "memento": {
         "id": 262,
@@ -2879,7 +3140,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Lowers the target's Attack and Special Attack by two stages.  User faints."
     },
     "facade": {
         "id": 263,
@@ -2890,7 +3152,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power doubles if user is burned, paralyzed, or poisoned."
     },
     "focus-punch": {
         "id": 264,
@@ -2901,7 +3164,8 @@
         "priority": -3,
         "power": 150,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "If the user takes damage before attacking, the attack is canceled."
     },
     "smelling-salts": {
         "id": 265,
@@ -2912,7 +3176,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "If the target is paralyzed, inflicts double damage and cures the paralysis."
     },
     "follow-me": {
         "id": 266,
@@ -2923,7 +3188,8 @@
         "priority": 2,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Redirects the target's single-target effects to the user for this turn."
     },
     "nature-power": {
         "id": 267,
@@ -2934,7 +3200,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Uses a move which depends upon the terrain."
     },
     "charge": {
         "id": 268,
@@ -2945,7 +3212,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn."
     },
     "taunt": {
         "id": 269,
@@ -2956,7 +3224,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "For the next few turns, the target can only use damaging moves."
     },
     "helping-hand": {
         "id": 270,
@@ -2967,7 +3236,8 @@
         "priority": 5,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Ally's next move inflicts half more damage."
     },
     "trick": {
         "id": 271,
@@ -2978,7 +3248,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User and target swap items."
     },
     "role-play": {
         "id": 272,
@@ -2989,7 +3260,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Copies the target's ability."
     },
     "wish": {
         "id": 273,
@@ -3000,7 +3272,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User will recover half its max HP at the end of the next turn."
     },
     "assist": {
         "id": 274,
@@ -3011,7 +3284,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Randomly selects and uses one of the trainer's other Pokémon's moves."
     },
     "ingrain": {
         "id": 275,
@@ -3022,7 +3296,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn."
     },
     "superpower": {
         "id": 276,
@@ -3033,7 +3308,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Lowers the user's Attack and Defense by one stage after inflicting damage."
     },
     "magic-coat": {
         "id": 277,
@@ -3044,7 +3320,8 @@
         "priority": 4,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Reflects back the first effect move used on the user this turn."
     },
     "recycle": {
         "id": 278,
@@ -3055,7 +3332,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User recovers the item it last used up."
     },
     "revenge": {
         "id": 279,
@@ -3066,7 +3344,8 @@
         "priority": -4,
         "power": 60,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts double damage if the user takes damage before attacking this turn."
     },
     "brick-break": {
         "id": 280,
@@ -3077,7 +3356,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Destroys Reflect and Light Screen."
     },
     "yawn": {
         "id": 281,
@@ -3088,7 +3368,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Target sleeps at the end of the next turn."
     },
     "knock-off": {
         "id": 282,
@@ -3099,7 +3380,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Target drops its held item."
     },
     "endeavor": {
         "id": 283,
@@ -3110,7 +3392,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's HP to equal the user's."
     },
     "eruption": {
         "id": 284,
@@ -3121,7 +3404,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
     },
     "skill-swap": {
         "id": 285,
@@ -3132,7 +3416,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User and target swap abilities."
     },
     "imprison": {
         "id": 286,
@@ -3143,7 +3428,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Prevents the target from using any moves that the user also knows."
     },
     "refresh": {
         "id": 287,
@@ -3154,7 +3440,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Cleanses the user of a burn, paralysis, or poison."
     },
     "grudge": {
         "id": 288,
@@ -3165,7 +3452,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "If the user faints this turn, the PP of the move that fainted it drops to 0."
     },
     "snatch": {
         "id": 289,
@@ -3176,7 +3464,8 @@
         "priority": 4,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Steals the target's move, if it's self-targeted."
     },
     "secret-power": {
         "id": 290,
@@ -3187,7 +3476,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to inflict a status effect which depends upon the terrain."
     },
     "dive": {
         "id": 291,
@@ -3198,7 +3488,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "User dives underwater, dodging all attacks, and hits next turn."
     },
     "arm-thrust": {
         "id": 292,
@@ -3209,7 +3500,8 @@
         "priority": 0,
         "power": 15,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Hits 2-5 times in one turn."
     },
     "camouflage": {
         "id": 293,
@@ -3220,7 +3512,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User's type changes to match the terrain."
     },
     "tail-glow": {
         "id": 294,
@@ -3231,7 +3524,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Raises the user's Special Attack by three stages."
     },
     "luster-purge": {
         "id": 295,
@@ -3242,7 +3536,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "mist-ball": {
         "id": 296,
@@ -3253,7 +3548,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
     },
     "feather-dance": {
         "id": 297,
@@ -3264,7 +3560,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Lowers the target's Attack by two stages."
     },
     "teeter-dance": {
         "id": 298,
@@ -3275,7 +3572,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Confuses the target."
     },
     "blaze-kick": {
         "id": 299,
@@ -3286,7 +3584,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has an increased chance for a critical hit and a $effect_chance% chance to burn the target."
     },
     "mud-sport": {
         "id": 300,
@@ -3297,7 +3596,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Halves all Electric-type damage."
     },
     "ice-ball": {
         "id": 301,
@@ -3308,7 +3608,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
     },
     "needle-arm": {
         "id": 302,
@@ -3319,7 +3620,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "slack-off": {
         "id": 303,
@@ -3330,7 +3632,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Heals the user by half its max HP."
     },
     "hyper-voice": {
         "id": 304,
@@ -3341,7 +3644,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "poison-fang": {
         "id": 305,
@@ -3352,7 +3656,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to badly poison the target."
     },
     "crush-claw": {
         "id": 306,
@@ -3363,7 +3668,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
     },
     "blast-burn": {
         "id": 307,
@@ -3374,7 +3680,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "User foregoes its next turn to recharge."
     },
     "hydro-cannon": {
         "id": 308,
@@ -3385,7 +3692,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "User foregoes its next turn to recharge."
     },
     "meteor-mash": {
         "id": 309,
@@ -3396,7 +3704,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to raise the user's Attack by one stage."
     },
     "astonish": {
         "id": 310,
@@ -3407,7 +3716,8 @@
         "priority": 0,
         "power": 30,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "weather-ball": {
         "id": 311,
@@ -3418,7 +3728,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "If there be weather, this move has doubled power and the weather's type."
     },
     "aromatherapy": {
         "id": 312,
@@ -3429,7 +3740,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Cures the entire party of major status effects."
     },
     "fake-tears": {
         "id": 313,
@@ -3440,7 +3752,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Lowers the target's Special Defense by two stages."
     },
     "air-cutter": {
         "id": 314,
@@ -3451,7 +3764,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has an increased chance for a critical hit."
     },
     "overheat": {
         "id": 315,
@@ -3462,7 +3776,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Lowers the user's Special Attack by two stages after inflicting damage."
     },
     "odor-sleuth": {
         "id": 316,
@@ -3473,7 +3788,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost."
     },
     "rock-tomb": {
         "id": 317,
@@ -3484,7 +3800,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "silver-wind": {
         "id": 318,
@@ -3495,7 +3812,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
     },
     "metal-sound": {
         "id": 319,
@@ -3506,7 +3824,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Lowers the target's Special Defense by two stages."
     },
     "grass-whistle": {
         "id": 320,
@@ -3517,7 +3836,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Puts the target to sleep."
     },
     "tickle": {
         "id": 321,
@@ -3528,7 +3848,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Attack and Defense by one stage."
     },
     "cosmic-power": {
         "id": 322,
@@ -3539,7 +3860,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Defense and Special Defense by one stage."
     },
     "water-spout": {
         "id": 323,
@@ -3550,7 +3872,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
     },
     "signal-beam": {
         "id": 324,
@@ -3561,7 +3884,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "special",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "shadow-punch": {
         "id": 325,
@@ -3572,7 +3896,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Never misses."
     },
     "extrasensory": {
         "id": 326,
@@ -3583,7 +3908,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "sky-uppercut": {
         "id": 327,
@@ -3594,7 +3920,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts regular damage and can hit Bounce and Fly users."
     },
     "sand-tomb": {
         "id": 328,
@@ -3605,7 +3932,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "sheer-cold": {
         "id": 329,
@@ -3616,7 +3944,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Causes a one-hit KO."
     },
     "muddy-water": {
         "id": 330,
@@ -3627,7 +3956,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "bullet-seed": {
         "id": 331,
@@ -3638,7 +3968,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Hits 2-5 times in one turn."
     },
     "aerial-ace": {
         "id": 332,
@@ -3649,7 +3980,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Never misses."
     },
     "icicle-spear": {
         "id": 333,
@@ -3660,7 +3992,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Hits 2-5 times in one turn."
     },
     "iron-defense": {
         "id": 334,
@@ -3671,7 +4004,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Raises the user's Defense by two stages."
     },
     "block": {
         "id": 335,
@@ -3682,7 +4016,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the target from leaving battle."
     },
     "howl": {
         "id": 336,
@@ -3693,7 +4028,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Attack by one stage."
     },
     "dragon-claw": {
         "id": 337,
@@ -3704,7 +4040,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "frenzy-plant": {
         "id": 338,
@@ -3715,7 +4052,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "User foregoes its next turn to recharge."
     },
     "bulk-up": {
         "id": 339,
@@ -3726,7 +4064,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Raises the user's Attack and Defense by one stage."
     },
     "bounce": {
         "id": 340,
@@ -3737,7 +4076,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "User bounces high into the air, dodging all attacks, and hits next turn."
     },
     "mud-shot": {
         "id": 341,
@@ -3748,7 +4088,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "special",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "poison-tail": {
         "id": 342,
@@ -3759,7 +4100,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target."
     },
     "covet": {
         "id": 343,
@@ -3770,7 +4112,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Takes the target's item."
     },
     "volt-tackle": {
         "id": 344,
@@ -3781,7 +4124,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target."
     },
     "magical-leaf": {
         "id": 345,
@@ -3792,7 +4136,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Never misses."
     },
     "water-sport": {
         "id": 346,
@@ -3803,7 +4148,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "water"
+        "type": "water",
+        "effect": "Halves all Fire-type damage."
     },
     "calm-mind": {
         "id": 347,
@@ -3814,7 +4160,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Raises the user's Special Attack and Special Defense by one stage."
     },
     "leaf-blade": {
         "id": 348,
@@ -3825,7 +4172,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has an increased chance for a critical hit."
     },
     "dragon-dance": {
         "id": 349,
@@ -3836,7 +4184,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Raises the user's Attack and Speed by one stage."
     },
     "rock-blast": {
         "id": 350,
@@ -3847,7 +4196,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Hits 2-5 times in one turn."
     },
     "shock-wave": {
         "id": 351,
@@ -3858,7 +4208,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Never misses."
     },
     "water-pulse": {
         "id": 352,
@@ -3869,7 +4220,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "doom-desire": {
         "id": 353,
@@ -3880,7 +4232,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "special",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Hits the target two turns later."
     },
     "psycho-boost": {
         "id": 354,
@@ -3891,7 +4244,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Lowers the user's Special Attack by two stages after inflicting damage."
     },
     "roost": {
         "id": 355,
@@ -3902,7 +4256,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Heals the user by half its max HP."
     },
     "gravity": {
         "id": 356,
@@ -3913,7 +4268,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Disables moves and immunities that involve flying or levitating for five turns."
     },
     "miracle-eye": {
         "id": 357,
@@ -3924,7 +4280,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark."
     },
     "wake-up-slap": {
         "id": 358,
@@ -3935,7 +4292,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "If the target is asleep, has double power and wakes it up."
     },
     "hammer-arm": {
         "id": 359,
@@ -3946,7 +4304,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Lowers user's Speed by one stage."
     },
     "gyro-ball": {
         "id": 360,
@@ -3957,7 +4316,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Power raises when the user has lower Speed, up to a maximum of 150."
     },
     "healing-wish": {
         "id": 361,
@@ -3968,7 +4328,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
     },
     "brine": {
         "id": 362,
@@ -3979,7 +4340,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has double power against Pokémon that have less than half their max HP remaining."
     },
     "natural-gift": {
         "id": 363,
@@ -3990,7 +4352,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power and type depend on the held berry."
     },
     "feint": {
         "id": 364,
@@ -4001,7 +4364,8 @@
         "priority": 2,
         "power": 30,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits through Protect and Detect."
     },
     "pluck": {
         "id": 365,
@@ -4012,7 +4376,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "If target has a berry, inflicts double damage and uses the berry."
     },
     "tailwind": {
         "id": 366,
@@ -4023,7 +4388,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "flying"
+        "type": "flying",
+        "effect": "For three turns, friendly Pokémon have doubled Speed."
     },
     "acupressure": {
         "id": 367,
@@ -4034,7 +4400,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises one of a friendly Pokémon's stats at random by two stages."
     },
     "metal-burst": {
         "id": 368,
@@ -4045,7 +4412,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage."
     },
     "u-turn": {
         "id": 369,
@@ -4056,7 +4424,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "User must switch out after attacking."
     },
     "close-combat": {
         "id": 370,
@@ -4067,7 +4436,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Lowers the user's Defense and Special Defense by one stage after inflicting damage."
     },
     "payback": {
         "id": 371,
@@ -4078,7 +4448,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Power is doubled if the target has already moved this turn."
     },
     "assurance": {
         "id": 372,
@@ -4089,7 +4460,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Power is doubled if the target has already received damage this turn."
     },
     "embargo": {
         "id": 373,
@@ -4100,7 +4472,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Target cannot use held items."
     },
     "fling": {
         "id": 374,
@@ -4111,7 +4484,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Throws held item at the target; power depends on the item."
     },
     "psycho-shift": {
         "id": 375,
@@ -4122,7 +4496,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Transfers the user's major status effect to the target."
     },
     "trump-card": {
         "id": 376,
@@ -4133,7 +4508,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases when this move has less PP, up to a maximum of 200."
     },
     "heal-block": {
         "id": 377,
@@ -4144,7 +4520,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Prevents target from restoring its HP for five turns."
     },
     "wring-out": {
         "id": 378,
@@ -4155,7 +4532,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
     },
     "power-trick": {
         "id": 379,
@@ -4166,7 +4544,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User swaps Attack and Defense."
     },
     "gastro-acid": {
         "id": 380,
@@ -4177,7 +4556,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Nullifies target's ability until it leaves battle."
     },
     "lucky-chant": {
         "id": 381,
@@ -4188,7 +4568,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Prevents the target from scoring critical hits for five turns."
     },
     "me-first": {
         "id": 382,
@@ -4199,7 +4580,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Uses the target's move against it before it attacks, with power increased by half."
     },
     "copycat": {
         "id": 383,
@@ -4210,7 +4592,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Uses the target's last used move."
     },
     "power-swap": {
         "id": 384,
@@ -4221,7 +4604,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User swaps Attack and Special Attack changes with the target."
     },
     "guard-swap": {
         "id": 385,
@@ -4232,7 +4616,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User swaps Defense and Special Defense changes with the target."
     },
     "punishment": {
         "id": 386,
@@ -4243,7 +4628,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Power increases against targets with more raised stats, up to a maximum of 200."
     },
     "last-resort": {
         "id": 387,
@@ -4254,7 +4640,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Can only be used after all of the user's other moves have been used."
     },
     "worry-seed": {
         "id": 388,
@@ -4265,7 +4652,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Changes the target's ability to Insomnia."
     },
     "sucker-punch": {
         "id": 389,
@@ -4276,7 +4664,8 @@
         "priority": 1,
         "power": 70,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Only works if the target is about to use a damaging move."
     },
     "toxic-spikes": {
         "id": 390,
@@ -4287,7 +4676,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Scatters poisoned spikes, poisoning opposing Pokémon that switch in."
     },
     "heart-swap": {
         "id": 391,
@@ -4298,7 +4688,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User and target swap stat changes."
     },
     "aqua-ring": {
         "id": 392,
@@ -4309,7 +4700,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "water"
+        "type": "water",
+        "effect": "Restores 1/16 of the user's max HP each turn."
     },
     "magnet-rise": {
         "id": 393,
@@ -4320,7 +4712,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "electric"
+        "type": "electric",
+        "effect": "User is immune to Ground moves and effects for five turns."
     },
     "flare-blitz": {
         "id": 394,
@@ -4331,7 +4724,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to burn the target."
     },
     "force-palm": {
         "id": 395,
@@ -4342,7 +4736,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "aura-sphere": {
         "id": 396,
@@ -4353,7 +4748,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Never misses."
     },
     "rock-polish": {
         "id": 397,
@@ -4364,7 +4760,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Raises the user's Speed by two stages."
     },
     "poison-jab": {
         "id": 398,
@@ -4375,7 +4772,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "dark-pulse": {
         "id": 399,
@@ -4386,7 +4784,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "night-slash": {
         "id": 400,
@@ -4397,7 +4796,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has an increased chance for a critical hit."
     },
     "aqua-tail": {
         "id": 401,
@@ -4408,7 +4808,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "seed-bomb": {
         "id": 402,
@@ -4419,7 +4820,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "air-slash": {
         "id": 403,
@@ -4430,7 +4832,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "x-scissor": {
         "id": 404,
@@ -4441,7 +4844,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "bug-buzz": {
         "id": 405,
@@ -4452,7 +4856,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "dragon-pulse": {
         "id": 406,
@@ -4463,7 +4868,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "dragon-rush": {
         "id": 407,
@@ -4474,7 +4880,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "power-gem": {
         "id": 408,
@@ -4485,7 +4892,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "drain-punch": {
         "id": 409,
@@ -4496,7 +4904,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "vacuum-wave": {
         "id": 410,
@@ -4507,7 +4916,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "special",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "focus-blast": {
         "id": 411,
@@ -4518,7 +4928,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "energy-ball": {
         "id": 412,
@@ -4529,7 +4940,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "brave-bird": {
         "id": 413,
@@ -4540,7 +4952,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "User receives 1/3 the damage inflicted in recoil."
     },
     "earth-power": {
         "id": 414,
@@ -4551,7 +4964,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "special",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "switcheroo": {
         "id": 415,
@@ -4562,7 +4976,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "User and target swap items."
     },
     "giga-impact": {
         "id": 416,
@@ -4573,7 +4988,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User foregoes its next turn to recharge."
     },
     "nasty-plot": {
         "id": 417,
@@ -4584,7 +5000,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Raises the user's Special Attack by two stages."
     },
     "bullet-punch": {
         "id": 418,
@@ -4595,7 +5012,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "avalanche": {
         "id": 419,
@@ -4606,7 +5024,8 @@
         "priority": -4,
         "power": 60,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Inflicts double damage if the user takes damage before attacking this turn."
     },
     "ice-shard": {
         "id": 420,
@@ -4617,7 +5036,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "shadow-claw": {
         "id": 421,
@@ -4628,7 +5048,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has an increased chance for a critical hit."
     },
     "thunder-fang": {
         "id": 422,
@@ -4639,7 +5060,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch."
     },
     "ice-fang": {
         "id": 423,
@@ -4650,7 +5072,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to freeze the target and a $effect_chance% chance to make the target flinch."
     },
     "fire-fang": {
         "id": 424,
@@ -4661,7 +5084,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target and a $effect_chance% chance to make the target flinch."
     },
     "shadow-sneak": {
         "id": 425,
@@ -4672,7 +5096,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "mud-bomb": {
         "id": 426,
@@ -4683,7 +5108,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "psycho-cut": {
         "id": 427,
@@ -4694,7 +5120,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has an increased chance for a critical hit."
     },
     "zen-headbutt": {
         "id": 428,
@@ -4705,7 +5132,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "mirror-shot": {
         "id": 429,
@@ -4716,7 +5144,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "flash-cannon": {
         "id": 430,
@@ -4727,7 +5156,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
     },
     "rock-climb": {
         "id": 431,
@@ -4738,7 +5168,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "defog": {
         "id": 432,
@@ -4749,7 +5180,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field."
     },
     "trick-room": {
         "id": 433,
@@ -4760,7 +5192,8 @@
         "priority": -7,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "For five turns, slower Pokémon will act before faster Pokémon."
     },
     "draco-meteor": {
         "id": 434,
@@ -4771,7 +5204,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Lowers the user's Special Attack by two stages after inflicting damage."
     },
     "discharge": {
         "id": 435,
@@ -4782,7 +5216,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "lava-plume": {
         "id": 436,
@@ -4793,7 +5228,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "leaf-storm": {
         "id": 437,
@@ -4804,7 +5240,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Lowers the user's Special Attack by two stages after inflicting damage."
     },
     "power-whip": {
         "id": 438,
@@ -4815,7 +5252,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "rock-wrecker": {
         "id": 439,
@@ -4826,7 +5264,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "User foregoes its next turn to recharge."
     },
     "cross-poison": {
         "id": 440,
@@ -4837,7 +5276,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target."
     },
     "gunk-shot": {
         "id": 441,
@@ -4848,7 +5288,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "iron-head": {
         "id": 442,
@@ -4859,7 +5300,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "magnet-bomb": {
         "id": 443,
@@ -4870,7 +5312,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Never misses."
     },
     "stone-edge": {
         "id": 444,
@@ -4881,7 +5324,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Has an increased chance for a critical hit."
     },
     "captivate": {
         "id": 445,
@@ -4892,7 +5336,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Lowers the target's Special Attack by two stages if it's the opposite gender."
     },
     "stealth-rock": {
         "id": 446,
@@ -4903,7 +5348,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Causes damage when opposing Pokémon switch in."
     },
     "grass-knot": {
         "id": 447,
@@ -4914,7 +5360,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
     },
     "chatter": {
         "id": 448,
@@ -4925,7 +5372,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has a higher chance to confuse the target when the recorded sound is louder."
     },
     "judgment": {
         "id": 449,
@@ -4936,7 +5384,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
     },
     "bug-bite": {
         "id": 450,
@@ -4947,7 +5396,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "If target has a berry, inflicts double damage and uses the berry."
     },
     "charge-beam": {
         "id": 451,
@@ -4958,7 +5408,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to raise the user's Special Attack by one stage."
     },
     "wood-hammer": {
         "id": 452,
@@ -4969,7 +5420,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "User receives 1/3 the damage inflicted in recoil."
     },
     "aqua-jet": {
         "id": 453,
@@ -4980,7 +5432,8 @@
         "priority": 1,
         "power": 40,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Inflicts regular damage with no additional effect."
     },
     "attack-order": {
         "id": 454,
@@ -4991,7 +5444,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has an increased chance for a critical hit."
     },
     "defend-order": {
         "id": 455,
@@ -5002,7 +5456,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Raises the user's Defense and Special Defense by one stage."
     },
     "heal-order": {
         "id": 456,
@@ -5013,7 +5468,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Heals the user by half its max HP."
     },
     "head-smash": {
         "id": 457,
@@ -5024,7 +5480,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "User receives 1/2 the damage inflicted in recoil."
     },
     "double-hit": {
         "id": 458,
@@ -5035,7 +5492,8 @@
         "priority": 0,
         "power": 35,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits twice in one turn."
     },
     "roar-of-time": {
         "id": 459,
@@ -5046,7 +5504,8 @@
         "priority": 0,
         "power": 150,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "User foregoes its next turn to recharge."
     },
     "spacial-rend": {
         "id": 460,
@@ -5057,7 +5516,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Has an increased chance for a critical hit."
     },
     "lunar-dance": {
         "id": 461,
@@ -5068,7 +5528,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User faints, and its replacement is fully healed."
     },
     "crush-grip": {
         "id": 462,
@@ -5079,7 +5540,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
     },
     "magma-storm": {
         "id": 463,
@@ -5090,7 +5552,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
     },
     "dark-void": {
         "id": 464,
@@ -5101,7 +5564,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Puts the target to sleep."
     },
     "seed-flare": {
         "id": 465,
@@ -5112,7 +5576,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Defense by two stages."
     },
     "ominous-wind": {
         "id": 466,
@@ -5123,7 +5588,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
     },
     "shadow-force": {
         "id": 467,
@@ -5134,7 +5600,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
     },
     "hone-claws": {
         "id": 468,
@@ -5145,7 +5612,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Raises the user's Attack and accuracy by one stage."
     },
     "wide-guard": {
         "id": 469,
@@ -5156,7 +5624,8 @@
         "priority": 3,
         "power": null,
         "damage_class": "status",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Prevents any multi-target moves from hitting friendly Pokémon this turn."
     },
     "guard-split": {
         "id": 470,
@@ -5167,7 +5636,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Averages Defense and Special Defense with the target."
     },
     "power-split": {
         "id": 471,
@@ -5178,7 +5648,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Averages Attack and Special Attack with the target."
     },
     "wonder-room": {
         "id": 472,
@@ -5189,7 +5660,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "All Pokémon's Defense and Special Defense are swapped for 5 turns."
     },
     "psyshock": {
         "id": 473,
@@ -5200,7 +5672,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Inflicts damage based on the target's Defense, not Special Defense."
     },
     "venoshock": {
         "id": 474,
@@ -5211,7 +5684,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Inflicts double damage if the target is Poisoned."
     },
     "autotomize": {
         "id": 475,
@@ -5222,7 +5696,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Raises the user's Speed by two stages and halves the user's weight."
     },
     "rage-powder": {
         "id": 476,
@@ -5233,7 +5708,8 @@
         "priority": 2,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Redirects the target's single-target effects to the user for this turn."
     },
     "telekinesis": {
         "id": 477,
@@ -5244,7 +5720,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Moves have 100% accuracy against the target for three turns."
     },
     "magic-room": {
         "id": 478,
@@ -5255,7 +5732,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Negates held items for five turns."
     },
     "smack-down": {
         "id": 479,
@@ -5266,7 +5744,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "rock"
+        "type": "rock",
+        "effect": "Removes any immunity to Ground damage."
     },
     "storm-throw": {
         "id": 480,
@@ -5277,7 +5756,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Always scores a critical hit."
     },
     "flame-burst": {
         "id": 481,
@@ -5288,7 +5768,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Deals splash damage to Pokémon next to the target."
     },
     "sludge-wave": {
         "id": 482,
@@ -5299,7 +5780,8 @@
         "priority": 0,
         "power": 95,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Has a $effect_chance% chance to poison the target."
     },
     "quiver-dance": {
         "id": 483,
@@ -5310,7 +5792,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Raises the user's Special Attack, Special Defense, and Speed by one stage each."
     },
     "heavy-slam": {
         "id": 484,
@@ -5321,7 +5804,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Power is higher when the user weighs more than the target, up to a maximum of 120."
     },
     "synchronoise": {
         "id": 485,
@@ -5332,7 +5816,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Hits any Pokémon that shares a type with the user."
     },
     "electro-ball": {
         "id": 486,
@@ -5343,7 +5828,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Power is higher when the user has greater Speed than the target, up to a maximum of 150."
     },
     "soak": {
         "id": 487,
@@ -5354,7 +5840,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "water"
+        "type": "water",
+        "effect": "Changes the target's type to Water."
     },
     "flame-charge": {
         "id": 488,
@@ -5365,7 +5852,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Inflicts regular damage.  Raises the user's Speed by one stage."
     },
     "coil": {
         "id": 489,
@@ -5376,7 +5864,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Raises the user's Attack, Defense, and accuracy by one stage each."
     },
     "low-sweep": {
         "id": 490,
@@ -5387,7 +5876,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Lowers the target's Speed by one stage."
     },
     "acid-spray": {
         "id": 491,
@@ -5398,7 +5888,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Lowers the target's Special Defense by two stages."
     },
     "foul-play": {
         "id": 492,
@@ -5409,7 +5900,8 @@
         "priority": 0,
         "power": 95,
         "damage_class": "physical",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Calculates damage with the target's attacking stat."
     },
     "simple-beam": {
         "id": 493,
@@ -5420,7 +5912,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Changes the target's ability to Simple."
     },
     "entrainment": {
         "id": 494,
@@ -5431,7 +5924,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Copies the user's ability onto the target."
     },
     "after-you": {
         "id": 495,
@@ -5442,7 +5936,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Makes the target act next this turn."
     },
     "round": {
         "id": 496,
@@ -5453,7 +5948,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has double power if it's used more than once per turn."
     },
     "echoed-voice": {
         "id": 497,
@@ -5464,7 +5960,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200."
     },
     "chip-away": {
         "id": 498,
@@ -5475,7 +5972,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Ignores the target's stat modifiers."
     },
     "clear-smog": {
         "id": 499,
@@ -5486,7 +5984,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "poison"
+        "type": "poison",
+        "effect": "Removes all of the target's stat modifiers."
     },
     "stored-power": {
         "id": 500,
@@ -5497,7 +5996,8 @@
         "priority": 0,
         "power": 20,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Power is higher the more the user's stats have been raised, to a maximum of 31×."
     },
     "quick-guard": {
         "id": 501,
@@ -5508,7 +6008,8 @@
         "priority": 3,
         "power": null,
         "damage_class": "status",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Prevents any priority moves from hitting friendly Pokémon this turn."
     },
     "ally-switch": {
         "id": 502,
@@ -5519,7 +6020,8 @@
         "priority": 2,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "User switches places with the friendly Pokémon opposite it."
     },
     "scald": {
         "id": 503,
@@ -5530,7 +6032,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "shell-smash": {
         "id": 504,
@@ -5541,7 +6044,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage."
     },
     "heal-pulse": {
         "id": 505,
@@ -5552,7 +6056,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Heals the target for half its max HP."
     },
     "hex": {
         "id": 506,
@@ -5563,7 +6068,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "ghost"
+        "type": "ghost",
+        "effect": "Has double power if the target has a major status ailment."
     },
     "sky-drop": {
         "id": 507,
@@ -5574,7 +6080,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Carries the target high into the air, dodging all attacks against either, and drops it next turn."
     },
     "shift-gear": {
         "id": 508,
@@ -5585,7 +6092,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Raises the user's Attack by one stage and its Speed by two stages."
     },
     "circle-throw": {
         "id": 509,
@@ -5596,7 +6104,8 @@
         "priority": -6,
         "power": 60,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Ends wild battles.  Forces trainers to switch Pokémon."
     },
     "incinerate": {
         "id": 510,
@@ -5607,7 +6116,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Destroys the target's held berry."
     },
     "quash": {
         "id": 511,
@@ -5618,7 +6128,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Makes the target act last this turn."
     },
     "acrobatics": {
         "id": 512,
@@ -5629,7 +6140,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "physical",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has double power if the user has no held item."
     },
     "reflect-type": {
         "id": 513,
@@ -5640,7 +6152,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User becomes the target's type."
     },
     "retaliate": {
         "id": 514,
@@ -5651,7 +6164,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has double power if a friendly Pokémon fainted last turn."
     },
     "final-gambit": {
         "id": 515,
@@ -5662,7 +6176,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "special",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts damage equal to the user's remaining HP.  User faints."
     },
     "bestow": {
         "id": 516,
@@ -5673,7 +6188,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Gives the user's held item to the target."
     },
     "inferno": {
         "id": 517,
@@ -5684,7 +6200,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "water-pledge": {
         "id": 518,
@@ -5695,7 +6212,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "water"
+        "type": "water",
+        "effect": "With Grass Pledge, halves opposing Pokémon's Speed for four turns."
     },
     "fire-pledge": {
         "id": 519,
@@ -5706,7 +6224,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "With Water Pledge, doubles the effect chance of friendly Pokémon's moves for four turns."
     },
     "grass-pledge": {
         "id": 520,
@@ -5717,7 +6236,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns."
     },
     "volt-switch": {
         "id": 521,
@@ -5728,7 +6248,8 @@
         "priority": 0,
         "power": 70,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "User must switch out after attacking."
     },
     "struggle-bug": {
         "id": 522,
@@ -5739,7 +6260,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "special",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
     },
     "bulldoze": {
         "id": 523,
@@ -5750,7 +6272,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
     },
     "frost-breath": {
         "id": 524,
@@ -5761,7 +6284,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Always scores a critical hit."
     },
     "dragon-tail": {
         "id": 525,
@@ -5772,7 +6296,8 @@
         "priority": -6,
         "power": 60,
         "damage_class": "physical",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Ends wild battles.  Forces trainers to switch Pokémon."
     },
     "work-up": {
         "id": 526,
@@ -5783,7 +6308,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Raises the user's Attack and Special Attack by one stage each."
     },
     "electroweb": {
         "id": 527,
@@ -5794,7 +6320,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "special",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Lowers the target's Speed by one stage."
     },
     "wild-charge": {
         "id": 528,
@@ -5805,7 +6332,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "User receives 1/4 the damage it inflicts in recoil."
     },
     "drill-run": {
         "id": 529,
@@ -5816,7 +6344,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "physical",
-        "type": "ground"
+        "type": "ground",
+        "effect": "Has an increased chance for a critical hit."
     },
     "dual-chop": {
         "id": 530,
@@ -5827,7 +6356,8 @@
         "priority": 0,
         "power": 40,
         "damage_class": "physical",
-        "type": "dragon"
+        "type": "dragon",
+        "effect": "Hits twice in one turn."
     },
     "heart-stamp": {
         "id": 531,
@@ -5838,7 +6368,8 @@
         "priority": 0,
         "power": 60,
         "damage_class": "physical",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "horn-leech": {
         "id": 532,
@@ -5849,7 +6380,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Drains half the damage inflicted to heal the user."
     },
     "sacred-sword": {
         "id": 533,
@@ -5860,7 +6392,8 @@
         "priority": 0,
         "power": 90,
         "damage_class": "physical",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Ignores the target's stat modifiers."
     },
     "razor-shell": {
         "id": 534,
@@ -5871,7 +6404,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "physical",
-        "type": "water"
+        "type": "water",
+        "effect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
     },
     "heat-crash": {
         "id": 535,
@@ -5882,7 +6416,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Power is higher when the user weighs more than the target, up to a maximum of 120."
     },
     "leaf-tornado": {
         "id": 536,
@@ -5893,7 +6428,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "steamroller": {
         "id": 537,
@@ -5904,7 +6440,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "physical",
-        "type": "bug"
+        "type": "bug",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "cotton-guard": {
         "id": 538,
@@ -5915,7 +6452,8 @@
         "priority": 0,
         "power": null,
         "damage_class": "status",
-        "type": "grass"
+        "type": "grass",
+        "effect": "Raises the user's Defense by three stages."
     },
     "night-daze": {
         "id": 539,
@@ -5926,7 +6464,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "special",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
     },
     "psystrike": {
         "id": 540,
@@ -5937,7 +6476,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "psychic"
+        "type": "psychic",
+        "effect": "Inflicts damage based on the target's Defense, not Special Defense."
     },
     "tail-slap": {
         "id": 541,
@@ -5948,7 +6488,8 @@
         "priority": 0,
         "power": 25,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Hits 2-5 times in one turn."
     },
     "hurricane": {
         "id": 542,
@@ -5959,7 +6500,8 @@
         "priority": 0,
         "power": 110,
         "damage_class": "special",
-        "type": "flying"
+        "type": "flying",
+        "effect": "Has a $effect_chance% chance to confuse the target."
     },
     "head-charge": {
         "id": 543,
@@ -5970,7 +6512,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "physical",
-        "type": "normal"
+        "type": "normal",
+        "effect": "User receives 1/4 the damage it inflicts in recoil."
     },
     "gear-grind": {
         "id": 544,
@@ -5981,7 +6524,8 @@
         "priority": 0,
         "power": 50,
         "damage_class": "physical",
-        "type": "steel"
+        "type": "steel",
+        "effect": "Hits twice in one turn."
     },
     "searing-shot": {
         "id": 545,
@@ -5992,7 +6536,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "techno-blast": {
         "id": 546,
@@ -6003,7 +6548,8 @@
         "priority": 0,
         "power": 120,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
     },
     "relic-song": {
         "id": 547,
@@ -6014,7 +6560,8 @@
         "priority": 0,
         "power": 75,
         "damage_class": "special",
-        "type": "normal"
+        "type": "normal",
+        "effect": "Has a $effect_chance% chance to put the target to sleep."
     },
     "secret-sword": {
         "id": 548,
@@ -6025,7 +6572,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "special",
-        "type": "fighting"
+        "type": "fighting",
+        "effect": "Inflicts damage based on the target's Defense, not Special Defense."
     },
     "glaciate": {
         "id": 549,
@@ -6036,7 +6584,8 @@
         "priority": 0,
         "power": 65,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Lowers the target's Speed by one stage."
     },
     "bolt-strike": {
         "id": 550,
@@ -6047,7 +6596,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "Has a $effect_chance% chance to paralyze the target."
     },
     "blue-flare": {
         "id": 551,
@@ -6058,7 +6608,8 @@
         "priority": 0,
         "power": 130,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to burn the target."
     },
     "fiery-dance": {
         "id": 552,
@@ -6069,7 +6620,8 @@
         "priority": 0,
         "power": 80,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Has a $effect_chance% chance to raise the user's Special Attack by one stage."
     },
     "freeze-shock": {
         "id": 553,
@@ -6080,7 +6632,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to paralyze the target."
     },
     "ice-burn": {
         "id": 554,
@@ -6091,7 +6644,8 @@
         "priority": 0,
         "power": 140,
         "damage_class": "special",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to burn the target."
     },
     "snarl": {
         "id": 555,
@@ -6102,7 +6656,8 @@
         "priority": 0,
         "power": 55,
         "damage_class": "special",
-        "type": "dark"
+        "type": "dark",
+        "effect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
     },
     "icicle-crash": {
         "id": 556,
@@ -6113,7 +6668,8 @@
         "priority": 0,
         "power": 85,
         "damage_class": "physical",
-        "type": "ice"
+        "type": "ice",
+        "effect": "Has a $effect_chance% chance to make the target flinch."
     },
     "v-create": {
         "id": 557,
@@ -6124,7 +6680,8 @@
         "priority": 0,
         "power": 180,
         "damage_class": "physical",
-        "type": "fire"
+        "type": "fire",
+        "effect": "Lowers the user's Defense, Special Defense, and Speed by one stage each."
     },
     "fusion-flare": {
         "id": 558,
@@ -6135,7 +6692,8 @@
         "priority": 0,
         "power": 100,
         "damage_class": "special",
-        "type": "fire"
+        "type": "fire",
+        "effect": "With Fusion Bolt, inflicts double damage."
     },
     "fusion-bolt": {
         "id": 559,
@@ -6146,6 +6704,7 @@
         "priority": 0,
         "power": 100,
         "damage_class": "physical",
-        "type": "electric"
+        "type": "electric",
+        "effect": "With Fusion Flare, inflicts double damage."
     }
 }
