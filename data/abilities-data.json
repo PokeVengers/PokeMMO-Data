@@ -7690,7 +7690,7 @@
     },
     "neutralizing-gas": {
         "id": 256,
-        "name": "neutralizing-gas",
+        "name": "reactive-gas",
         "effect": null,
         "pokemon_with_ability": [
             {
