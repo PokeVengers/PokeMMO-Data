@@ -2364,7 +2364,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Day/Morning)": {
+    "Ilex_Forest__Day_Morning_": {
         "name": "Ilex Forest (Day/Morning)",
         "encounters": [
             {
@@ -2419,7 +2419,7 @@
             }
         ]
     },
-    "National_Park_(Day/Morning/SEASON0)": {
+    "National_Park__Day_Morning_SEASON0_": {
         "name": "National Park (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -2454,7 +2454,7 @@
             }
         ]
     },
-    "National_Park_(Day/Morning/SEASON1)": {
+    "National_Park__Day_Morning_SEASON1_": {
         "name": "National Park (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -2489,7 +2489,7 @@
             }
         ]
     },
-    "National_Park_(Day/Morning/SEASON2)": {
+    "National_Park__Day_Morning_SEASON2_": {
         "name": "National Park (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -2524,7 +2524,7 @@
             }
         ]
     },
-    "National_Park_(Day/Morning/SEASON3)": {
+    "National_Park__Day_Morning_SEASON3_": {
         "name": "National Park (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -2559,7 +2559,7 @@
             }
         ]
     },
-    "Route_30_(Day/Morning)": {
+    "Route_30__Day_Morning_": {
         "name": "Route 30 (Day/Morning)",
         "encounters": [
             {
@@ -2594,7 +2594,7 @@
             }
         ]
     },
-    "Route_31_(Day/Morning/SEASON0)": {
+    "Route_31__Day_Morning_SEASON0_": {
         "name": "Route 31 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -2629,7 +2629,7 @@
             }
         ]
     },
-    "Route_31_(Day/Morning/SEASON1)": {
+    "Route_31__Day_Morning_SEASON1_": {
         "name": "Route 31 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -2664,7 +2664,7 @@
             }
         ]
     },
-    "Route_31_(Day/Morning/SEASON2)": {
+    "Route_31__Day_Morning_SEASON2_": {
         "name": "Route 31 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -2699,7 +2699,7 @@
             }
         ]
     },
-    "Route_31_(Day/Morning/SEASON3)": {
+    "Route_31__Day_Morning_SEASON3_": {
         "name": "Route 31 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -3049,7 +3049,7 @@
             }
         ]
     },
-    "National_Park_(Day/Morning)": {
+    "National_Park__Day_Morning_": {
         "name": "National Park (Day/Morning)",
         "encounters": [
             {
@@ -3074,7 +3074,7 @@
             }
         ]
     },
-    "Route_30_(Day/Morning/SEASON0)": {
+    "Route_30__Day_Morning_SEASON0_": {
         "name": "Route 30 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -3119,7 +3119,7 @@
             }
         ]
     },
-    "Route_30_(Day/Morning/SEASON1)": {
+    "Route_30__Day_Morning_SEASON1_": {
         "name": "Route 30 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -3164,7 +3164,7 @@
             }
         ]
     },
-    "Route_30_(Day/Morning/SEASON2)": {
+    "Route_30__Day_Morning_SEASON2_": {
         "name": "Route 30 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -3209,7 +3209,7 @@
             }
         ]
     },
-    "Route_30_(Day/Morning/SEASON3)": {
+    "Route_30__Day_Morning_SEASON3_": {
         "name": "Route 30 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -3254,7 +3254,7 @@
             }
         ]
     },
-    "Route_31_(Day/Morning)": {
+    "Route_31__Day_Morning_": {
         "name": "Route 31 (Day/Morning)",
         "encounters": [
             {
@@ -3289,7 +3289,7 @@
             }
         ]
     },
-    "ROUTE_24_(Morning)": {
+    "ROUTE_24__Morning_": {
         "name": "ROUTE 24 (Morning)",
         "encounters": [
             {
@@ -3304,7 +3304,7 @@
             }
         ]
     },
-    "ROUTE_25_(Day/Morning)": {
+    "ROUTE_25__Day_Morning_": {
         "name": "ROUTE 25 (Day/Morning)",
         "encounters": [
             {
@@ -8789,7 +8789,7 @@
             }
         ]
     },
-    "ROUTE_8_(Day)": {
+    "ROUTE_8__Day_": {
         "name": "ROUTE 8 (Day)",
         "encounters": [
             {
@@ -9524,7 +9524,7 @@
             }
         ]
     },
-    "ROUTE_12_(Day/Morning)": {
+    "ROUTE_12__Day_Morning_": {
         "name": "ROUTE 12 (Day/Morning)",
         "encounters": [
             {
@@ -10004,7 +10004,7 @@
             }
         ]
     },
-    "ROUTE_14_(Day/Morning/SEASON0)": {
+    "ROUTE_14__Day_Morning_SEASON0_": {
         "name": "ROUTE 14 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -10019,7 +10019,7 @@
             }
         ]
     },
-    "ROUTE_14_(Day/Morning/SEASON1)": {
+    "ROUTE_14__Day_Morning_SEASON1_": {
         "name": "ROUTE 14 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -10034,7 +10034,7 @@
             }
         ]
     },
-    "ROUTE_14_(Day/Morning/SEASON2)": {
+    "ROUTE_14__Day_Morning_SEASON2_": {
         "name": "ROUTE 14 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -10049,7 +10049,7 @@
             }
         ]
     },
-    "ROUTE_14_(Day/Morning/SEASON3)": {
+    "ROUTE_14__Day_Morning_SEASON3_": {
         "name": "ROUTE 14 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -10664,7 +10664,7 @@
             }
         ]
     },
-    "ROUTE_24_(Day/Morning)": {
+    "ROUTE_24__Day_Morning_": {
         "name": "ROUTE 24 (Day/Morning)",
         "encounters": [
             {
@@ -11309,7 +11309,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Day/Morning/SEASON0)": {
+    "Ilex_Forest__Day_Morning_SEASON0_": {
         "name": "Ilex Forest (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -11324,7 +11324,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Day/Morning/SEASON1)": {
+    "Ilex_Forest__Day_Morning_SEASON1_": {
         "name": "Ilex Forest (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -11339,7 +11339,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Day/Morning/SEASON2)": {
+    "Ilex_Forest__Day_Morning_SEASON2_": {
         "name": "Ilex Forest (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -11354,7 +11354,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Day/Morning/SEASON3)": {
+    "Ilex_Forest__Day_Morning_SEASON3_": {
         "name": "Ilex Forest (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -11604,7 +11604,7 @@
             }
         ]
     },
-    "Route_29_(Day/Morning/SEASON0)": {
+    "Route_29__Day_Morning_SEASON0_": {
         "name": "Route 29 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -11639,7 +11639,7 @@
             }
         ]
     },
-    "Route_29_(Day/Morning/SEASON1)": {
+    "Route_29__Day_Morning_SEASON1_": {
         "name": "Route 29 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -11674,7 +11674,7 @@
             }
         ]
     },
-    "Route_29_(Day/Morning/SEASON2)": {
+    "Route_29__Day_Morning_SEASON2_": {
         "name": "Route 29 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -12234,7 +12234,7 @@
             }
         ]
     },
-    "Route_32_(Day/Morning)": {
+    "Route_32__Day_Morning_": {
         "name": "Route 32 (Day/Morning)",
         "encounters": [
             {
@@ -12414,7 +12414,7 @@
             }
         ]
     },
-    "Route_34_(Day/Morning/SEASON0)": {
+    "Route_34__Day_Morning_SEASON0_": {
         "name": "Route 34 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -12439,7 +12439,7 @@
             }
         ]
     },
-    "Route_34_(Day/Morning/SEASON1)": {
+    "Route_34__Day_Morning_SEASON1_": {
         "name": "Route 34 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -12464,7 +12464,7 @@
             }
         ]
     },
-    "Route_34_(Day/Morning/SEASON2)": {
+    "Route_34__Day_Morning_SEASON2_": {
         "name": "Route 34 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -12489,7 +12489,7 @@
             }
         ]
     },
-    "Route_34_(Day/Morning/SEASON3)": {
+    "Route_34__Day_Morning_SEASON3_": {
         "name": "Route 34 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -12514,7 +12514,7 @@
             }
         ]
     },
-    "Route_35_(Day/Morning)": {
+    "Route_35__Day_Morning_": {
         "name": "Route 35 (Day/Morning)",
         "encounters": [
             {
@@ -12549,7 +12549,7 @@
             }
         ]
     },
-    "Route_36_(Day/Morning/SEASON0)": {
+    "Route_36__Day_Morning_SEASON0_": {
         "name": "Route 36 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -12564,7 +12564,7 @@
             }
         ]
     },
-    "Route_36_(Day/Morning/SEASON1)": {
+    "Route_36__Day_Morning_SEASON1_": {
         "name": "Route 36 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -12579,7 +12579,7 @@
             }
         ]
     },
-    "Route_36_(Day/Morning/SEASON2)": {
+    "Route_36__Day_Morning_SEASON2_": {
         "name": "Route 36 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -12594,7 +12594,7 @@
             }
         ]
     },
-    "Route_36_(Day/Morning/SEASON3)": {
+    "Route_36__Day_Morning_SEASON3_": {
         "name": "Route 36 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -12609,7 +12609,7 @@
             }
         ]
     },
-    "Route_37_(Day/Morning/SEASON0)": {
+    "Route_37__Day_Morning_SEASON0_": {
         "name": "Route 37 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -12624,7 +12624,7 @@
             }
         ]
     },
-    "Route_37_(Day/Morning/SEASON1)": {
+    "Route_37__Day_Morning_SEASON1_": {
         "name": "Route 37 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -12639,7 +12639,7 @@
             }
         ]
     },
-    "Route_37_(Day/Morning/SEASON2)": {
+    "Route_37__Day_Morning_SEASON2_": {
         "name": "Route 37 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -12654,7 +12654,7 @@
             }
         ]
     },
-    "Route_37_(Day/Morning/SEASON3)": {
+    "Route_37__Day_Morning_SEASON3_": {
         "name": "Route 37 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -12934,7 +12934,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day/Morning/SEASON0)": {
+    "Safari_Zone__Day_Morning_SEASON0_": {
         "name": "Safari Zone (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -12959,7 +12959,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day/Morning/SEASON1)": {
+    "Safari_Zone__Day_Morning_SEASON1_": {
         "name": "Safari Zone (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -12984,7 +12984,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day/Morning/SEASON2)": {
+    "Safari_Zone__Day_Morning_SEASON2_": {
         "name": "Safari Zone (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13009,7 +13009,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day/Morning/SEASON3)": {
+    "Safari_Zone__Day_Morning_SEASON3_": {
         "name": "Safari Zone (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -13034,7 +13034,7 @@
             }
         ]
     },
-    "BOND_BRIDGE_(Day/Morning/SEASON3)": {
+    "BOND_BRIDGE__Day_Morning_SEASON3_": {
         "name": "BOND BRIDGE (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -13049,7 +13049,7 @@
             }
         ]
     },
-    "ROUTE_7_(Day/Morning/SEASON0)": {
+    "ROUTE_7__Day_Morning_SEASON0_": {
         "name": "ROUTE 7 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -13064,7 +13064,7 @@
             }
         ]
     },
-    "ROUTE_7_(Day/Morning/SEASON1)": {
+    "ROUTE_7__Day_Morning_SEASON1_": {
         "name": "ROUTE 7 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -13079,7 +13079,7 @@
             }
         ]
     },
-    "ROUTE_7_(Day/Morning/SEASON2)": {
+    "ROUTE_7__Day_Morning_SEASON2_": {
         "name": "ROUTE 7 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13094,7 +13094,7 @@
             }
         ]
     },
-    "ROUTE_8_(Day/Morning/SEASON0)": {
+    "ROUTE_8__Day_Morning_SEASON0_": {
         "name": "ROUTE 8 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -13109,7 +13109,7 @@
             }
         ]
     },
-    "ROUTE_8_(Day/Morning/SEASON1)": {
+    "ROUTE_8__Day_Morning_SEASON1_": {
         "name": "ROUTE 8 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -13124,7 +13124,7 @@
             }
         ]
     },
-    "ROUTE_8_(Day/Morning/SEASON2)": {
+    "ROUTE_8__Day_Morning_SEASON2_": {
         "name": "ROUTE 8 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13139,7 +13139,7 @@
             }
         ]
     },
-    "ROUTE_11_(Day/Morning/SEASON0)": {
+    "ROUTE_11__Day_Morning_SEASON0_": {
         "name": "ROUTE 11 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -13154,7 +13154,7 @@
             }
         ]
     },
-    "ROUTE_11_(Day/Morning/SEASON1)": {
+    "ROUTE_11__Day_Morning_SEASON1_": {
         "name": "ROUTE 11 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -13169,7 +13169,7 @@
             }
         ]
     },
-    "ROUTE_11_(Day/Morning/SEASON2)": {
+    "ROUTE_11__Day_Morning_SEASON2_": {
         "name": "ROUTE 11 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13184,7 +13184,7 @@
             }
         ]
     },
-    "ROUTE_12_(Day/Morning/SEASON3)": {
+    "ROUTE_12__Day_Morning_SEASON3_": {
         "name": "ROUTE 12 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -13199,7 +13199,7 @@
             }
         ]
     },
-    "ROUTE_13_(Day/Morning/SEASON3)": {
+    "ROUTE_13__Day_Morning_SEASON3_": {
         "name": "ROUTE 13 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -13419,7 +13419,7 @@
             }
         ]
     },
-    "Route_37_(Day/SEASON0)": {
+    "Route_37__Day_SEASON0_": {
         "name": "Route 37 (Day/SEASON0)",
         "encounters": [
             {
@@ -13434,7 +13434,7 @@
             }
         ]
     },
-    "Route_37_(Day/SEASON1)": {
+    "Route_37__Day_SEASON1_": {
         "name": "Route 37 (Day/SEASON1)",
         "encounters": [
             {
@@ -13449,7 +13449,7 @@
             }
         ]
     },
-    "Route_37_(Day/SEASON2)": {
+    "Route_37__Day_SEASON2_": {
         "name": "Route 37 (Day/SEASON2)",
         "encounters": [
             {
@@ -13464,7 +13464,7 @@
             }
         ]
     },
-    "Route_37_(Day/SEASON3)": {
+    "Route_37__Day_SEASON3_": {
         "name": "Route 37 (Day/SEASON3)",
         "encounters": [
             {
@@ -13479,7 +13479,7 @@
             }
         ]
     },
-    "Route_38_(Day/Morning/SEASON0)": {
+    "Route_38__Day_Morning_SEASON0_": {
         "name": "Route 38 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -13494,7 +13494,7 @@
             }
         ]
     },
-    "Route_38_(Day/Morning/SEASON1)": {
+    "Route_38__Day_Morning_SEASON1_": {
         "name": "Route 38 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -13509,7 +13509,7 @@
             }
         ]
     },
-    "Route_38_(Day/Morning/SEASON2)": {
+    "Route_38__Day_Morning_SEASON2_": {
         "name": "Route 38 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13524,7 +13524,7 @@
             }
         ]
     },
-    "Route_38_(Day/Morning/SEASON3)": {
+    "Route_38__Day_Morning_SEASON3_": {
         "name": "Route 38 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -13734,7 +13734,7 @@
             }
         ]
     },
-    "Route_39_(Day/Morning)": {
+    "Route_39__Day_Morning_": {
         "name": "Route 39 (Day/Morning)",
         "encounters": [
             {
@@ -13749,7 +13749,7 @@
             }
         ]
     },
-    "Route_39_(Day/Morning/SEASON0)": {
+    "Route_39__Day_Morning_SEASON0_": {
         "name": "Route 39 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -13764,7 +13764,7 @@
             }
         ]
     },
-    "Route_39_(Day/Morning/SEASON1)": {
+    "Route_39__Day_Morning_SEASON1_": {
         "name": "Route 39 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -13779,7 +13779,7 @@
             }
         ]
     },
-    "Route_39_(Day/Morning/SEASON2)": {
+    "Route_39__Day_Morning_SEASON2_": {
         "name": "Route 39 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -13794,7 +13794,7 @@
             }
         ]
     },
-    "Route_39_(Day/Morning/SEASON3)": {
+    "Route_39__Day_Morning_SEASON3_": {
         "name": "Route 39 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -14004,7 +14004,7 @@
             }
         ]
     },
-    "Route_43_(Day/Morning/SEASON0)": {
+    "Route_43__Day_Morning_SEASON0_": {
         "name": "Route 43 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -14019,7 +14019,7 @@
             }
         ]
     },
-    "Route_43_(Day/Morning/SEASON1)": {
+    "Route_43__Day_Morning_SEASON1_": {
         "name": "Route 43 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -14034,7 +14034,7 @@
             }
         ]
     },
-    "Route_43_(Day/Morning/SEASON2)": {
+    "Route_43__Day_Morning_SEASON2_": {
         "name": "Route 43 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -14049,7 +14049,7 @@
             }
         ]
     },
-    "Route_43_(Day/Morning/SEASON3)": {
+    "Route_43__Day_Morning_SEASON3_": {
         "name": "Route 43 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -18224,7 +18224,7 @@
             }
         ]
     },
-    "Route_30_(Night)": {
+    "Route_30__Night_": {
         "name": "Route 30 (Night)",
         "encounters": [
             {
@@ -18279,7 +18279,7 @@
             }
         ]
     },
-    "Route_31_(Night)": {
+    "Route_31__Night_": {
         "name": "Route 31 (Night)",
         "encounters": [
             {
@@ -18589,7 +18589,7 @@
             }
         ]
     },
-    "Route_33_(Night)": {
+    "Route_33__Night_": {
         "name": "Route 33 (Night)",
         "encounters": [
             {
@@ -19584,7 +19584,7 @@
             }
         ]
     },
-    "ROUTE_7_(Night)": {
+    "ROUTE_7__Night_": {
         "name": "ROUTE 7 (Night)",
         "encounters": [
             {
@@ -19629,7 +19629,7 @@
             }
         ]
     },
-    "ROUTE_8_(Night)": {
+    "ROUTE_8__Night_": {
         "name": "ROUTE 8 (Night)",
         "encounters": [
             {
@@ -20054,7 +20054,7 @@
             }
         ]
     },
-    "Route_226_(Day/Morning/SEASON3)": {
+    "Route_226__Day_Morning_SEASON3_": {
         "name": "Route 226 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -20614,7 +20614,7 @@
             }
         ]
     },
-    "Route_39_(Night/SEASON0)": {
+    "Route_39__Night_SEASON0_": {
         "name": "Route 39 (Night/SEASON0)",
         "encounters": [
             {
@@ -20629,7 +20629,7 @@
             }
         ]
     },
-    "Route_39_(Night/SEASON1)": {
+    "Route_39__Night_SEASON1_": {
         "name": "Route 39 (Night/SEASON1)",
         "encounters": [
             {
@@ -20644,7 +20644,7 @@
             }
         ]
     },
-    "Route_39_(Night/SEASON2)": {
+    "Route_39__Night_SEASON2_": {
         "name": "Route 39 (Night/SEASON2)",
         "encounters": [
             {
@@ -21879,7 +21879,7 @@
             }
         ]
     },
-    "ROUTE_4_(Day/Morning)": {
+    "ROUTE_4__Day_Morning_": {
         "name": "ROUTE 4 (Day/Morning)",
         "encounters": [
             {
@@ -21894,7 +21894,7 @@
             }
         ]
     },
-    "ROUTE_9_(Day/Morning)": {
+    "ROUTE_9__Day_Morning_": {
         "name": "ROUTE 9 (Day/Morning)",
         "encounters": [
             {
@@ -24129,7 +24129,7 @@
             }
         ]
     },
-    "Route_226_(Day/Morning)": {
+    "Route_226__Day_Morning_": {
         "name": "Route 226 (Day/Morning)",
         "encounters": [
             {
@@ -24154,7 +24154,7 @@
             }
         ]
     },
-    "Route_33_(Day/Morning/SEASON3)": {
+    "Route_33__Day_Morning_SEASON3_": {
         "name": "Route 33 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -24169,7 +24169,7 @@
             }
         ]
     },
-    "Route_33_(Day/Morning/SEASON0)": {
+    "Route_33__Day_Morning_SEASON0_": {
         "name": "Route 33 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -24184,7 +24184,7 @@
             }
         ]
     },
-    "Route_33_(Day/Morning/SEASON1)": {
+    "Route_33__Day_Morning_SEASON1_": {
         "name": "Route 33 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -24199,7 +24199,7 @@
             }
         ]
     },
-    "Route_33_(Day/Morning/SEASON2)": {
+    "Route_33__Day_Morning_SEASON2_": {
         "name": "Route 33 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -24214,7 +24214,7 @@
             }
         ]
     },
-    "Route_42_(Day/Morning/SEASON0)": {
+    "Route_42__Day_Morning_SEASON0_": {
         "name": "Route 42 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -24229,7 +24229,7 @@
             }
         ]
     },
-    "Route_42_(Day/Morning/SEASON1)": {
+    "Route_42__Day_Morning_SEASON1_": {
         "name": "Route 42 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -24244,7 +24244,7 @@
             }
         ]
     },
-    "Route_42_(Day/Morning/SEASON2)": {
+    "Route_42__Day_Morning_SEASON2_": {
         "name": "Route 42 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -24259,7 +24259,7 @@
             }
         ]
     },
-    "Route_42_(Day/Morning/SEASON3)": {
+    "Route_42__Day_Morning_SEASON3_": {
         "name": "Route 42 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -24274,7 +24274,7 @@
             }
         ]
     },
-    "Route_46_(Day/Morning/SEASON0)": {
+    "Route_46__Day_Morning_SEASON0_": {
         "name": "Route 46 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -24289,7 +24289,7 @@
             }
         ]
     },
-    "Route_46_(Day/Morning/SEASON1)": {
+    "Route_46__Day_Morning_SEASON1_": {
         "name": "Route 46 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -24304,7 +24304,7 @@
             }
         ]
     },
-    "Route_46_(Day/Morning/SEASON2)": {
+    "Route_46__Day_Morning_SEASON2_": {
         "name": "Route 46 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -24319,7 +24319,7 @@
             }
         ]
     },
-    "Route_46_(Day/Morning/SEASON3)": {
+    "Route_46__Day_Morning_SEASON3_": {
         "name": "Route 46 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -24334,7 +24334,7 @@
             }
         ]
     },
-    "Route_47_(Day/Morning)": {
+    "Route_47__Day_Morning_": {
         "name": "Route 47 (Day/Morning)",
         "encounters": [
             {
@@ -24359,7 +24359,7 @@
             }
         ]
     },
-    "CANYON_ENTRANCE_(Day/Morning)": {
+    "CANYON_ENTRANCE__Day_Morning_": {
         "name": "CANYON ENTRANCE (Day/Morning)",
         "encounters": [
             {
@@ -24394,7 +24394,7 @@
             }
         ]
     },
-    "ROUTE_10_(Day/Morning)": {
+    "ROUTE_10__Day_Morning_": {
         "name": "ROUTE 10 (Day/Morning)",
         "encounters": [
             {
@@ -24419,7 +24419,7 @@
             }
         ]
     },
-    "ROUTE_17_(Day/Morning)": {
+    "ROUTE_17__Day_Morning_": {
         "name": "ROUTE 17 (Day/Morning)",
         "encounters": [
             {
@@ -27054,7 +27054,7 @@
             }
         ]
     },
-    "Route_225_(Day/Morning)": {
+    "Route_225__Day_Morning_": {
         "name": "Route 225 (Day/Morning)",
         "encounters": [
             {
@@ -27069,7 +27069,7 @@
             }
         ]
     },
-    "Route_226_(Day/Morning/SEASON0)": {
+    "Route_226__Day_Morning_SEASON0_": {
         "name": "Route 226 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -27084,7 +27084,7 @@
             }
         ]
     },
-    "Route_226_(Day/Morning/SEASON1)": {
+    "Route_226__Day_Morning_SEASON1_": {
         "name": "Route 226 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -27099,7 +27099,7 @@
             }
         ]
     },
-    "Route_226_(Day/Morning/SEASON2)": {
+    "Route_226__Day_Morning_SEASON2_": {
         "name": "Route 226 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -27399,7 +27399,7 @@
             }
         ]
     },
-    "Route_227_(Day/Morning)": {
+    "Route_227__Day_Morning_": {
         "name": "Route 227 (Day/Morning)",
         "encounters": [
             {
@@ -28659,7 +28659,7 @@
             }
         ]
     },
-    "Route_42_(Day/Morning)": {
+    "Route_42__Day_Morning_": {
         "name": "Route 42 (Day/Morning)",
         "encounters": [
             {
@@ -29129,7 +29129,7 @@
             }
         ]
     },
-    "Route_48_(Day/Morning)": {
+    "Route_48__Day_Morning_": {
         "name": "Route 48 (Day/Morning)",
         "encounters": [
             {
@@ -29144,7 +29144,7 @@
             }
         ]
     },
-    "Route_48_(Day/Morning/SEASON0)": {
+    "Route_48__Day_Morning_SEASON0_": {
         "name": "Route 48 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -29159,7 +29159,7 @@
             }
         ]
     },
-    "Route_48_(Day/Morning/SEASON1)": {
+    "Route_48__Day_Morning_SEASON1_": {
         "name": "Route 48 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -29174,7 +29174,7 @@
             }
         ]
     },
-    "Route_48_(Day/Morning/SEASON2)": {
+    "Route_48__Day_Morning_SEASON2_": {
         "name": "Route 48 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -29189,7 +29189,7 @@
             }
         ]
     },
-    "Route_48_(Day/Morning/SEASON3)": {
+    "Route_48__Day_Morning_SEASON3_": {
         "name": "Route 48 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -29204,7 +29204,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day/Morning)": {
+    "Safari_Zone__Day_Morning_": {
         "name": "Safari Zone (Day/Morning)",
         "encounters": [
             {
@@ -29279,7 +29279,7 @@
             }
         ]
     },
-    "Route_35_(Night)": {
+    "Route_35__Night_": {
         "name": "Route 35 (Night)",
         "encounters": [
             {
@@ -29314,7 +29314,7 @@
             }
         ]
     },
-    "Route_36_(Night)": {
+    "Route_36__Night_": {
         "name": "Route 36 (Night)",
         "encounters": [
             {
@@ -29359,7 +29359,7 @@
             }
         ]
     },
-    "Route_37_(Night)": {
+    "Route_37__Night_": {
         "name": "Route 37 (Night)",
         "encounters": [
             {
@@ -29414,7 +29414,7 @@
             }
         ]
     },
-    "Ruins_of_Alph_(Night)": {
+    "Ruins_of_Alph__Night_": {
         "name": "Ruins of Alph (Night)",
         "encounters": [
             {
@@ -30269,7 +30269,7 @@
             }
         ]
     },
-    "Route_26_(Night)": {
+    "Route_26__Night_": {
         "name": "Route 26 (Night)",
         "encounters": [
             {
@@ -30304,7 +30304,7 @@
             }
         ]
     },
-    "Route_27_(Night)": {
+    "Route_27__Night_": {
         "name": "Route 27 (Night)",
         "encounters": [
             {
@@ -30339,7 +30339,7 @@
             }
         ]
     },
-    "Safari_Zone_(Night)": {
+    "Safari_Zone__Night_": {
         "name": "Safari Zone (Night)",
         "encounters": [
             {
@@ -32189,7 +32189,7 @@
             }
         ]
     },
-    "MIRAGE_TOWER_(Day/Morning)": {
+    "MIRAGE_TOWER__Day_Morning_": {
         "name": "MIRAGE TOWER (Day/Morning)",
         "encounters": [
             {
@@ -32429,7 +32429,7 @@
             }
         ]
     },
-    "ROUTE_111_(Day/Morning)": {
+    "ROUTE_111__Day_Morning_": {
         "name": "ROUTE 111 (Day/Morning)",
         "encounters": [
             {
@@ -33444,7 +33444,7 @@
             }
         ]
     },
-    "ROUTE_3_(Night)": {
+    "ROUTE_3__Night_": {
         "name": "ROUTE 3 (Night)",
         "encounters": [
             {
@@ -33469,7 +33469,7 @@
             }
         ]
     },
-    "ROUTE_4_(Night)": {
+    "ROUTE_4__Night_": {
         "name": "ROUTE 4 (Night)",
         "encounters": [
             {
@@ -35349,7 +35349,7 @@
             }
         ]
     },
-    "POKéMON_MANSION_(Night/Morning)": {
+    "POKéMON_MANSION__Night_Morning_": {
         "name": "POKéMON MANSION (Night/Morning)",
         "encounters": [
             {
@@ -35364,7 +35364,7 @@
             }
         ]
     },
-    "ROUTE_7_(Morning)": {
+    "ROUTE_7__Morning_": {
         "name": "ROUTE 7 (Morning)",
         "encounters": [
             {
@@ -35379,7 +35379,7 @@
             }
         ]
     },
-    "ROUTE_8_(Night/Morning)": {
+    "ROUTE_8__Night_Morning_": {
         "name": "ROUTE 8 (Night/Morning)",
         "encounters": [
             {
@@ -36184,7 +36184,7 @@
             }
         ]
     },
-    "Route_36_(Night/Morning)": {
+    "Route_36__Night_Morning_": {
         "name": "Route 36 (Night/Morning)",
         "encounters": [
             {
@@ -38749,7 +38749,7 @@
             }
         ]
     },
-    "ROUTE_9_(Night)": {
+    "ROUTE_9__Night_": {
         "name": "ROUTE 9 (Night)",
         "encounters": [
             {
@@ -38774,7 +38774,7 @@
             }
         ]
     },
-    "ROUTE_10_(Night)": {
+    "ROUTE_10__Night_": {
         "name": "ROUTE 10 (Night)",
         "encounters": [
             {
@@ -40004,7 +40004,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Night/SEASON0)": {
+    "Acuity_Lakefront__Night_SEASON0_": {
         "name": "Acuity Lakefront (Night/SEASON0)",
         "encounters": [
             {
@@ -40029,7 +40029,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Night/SEASON1)": {
+    "Acuity_Lakefront__Night_SEASON1_": {
         "name": "Acuity Lakefront (Night/SEASON1)",
         "encounters": [
             {
@@ -40054,7 +40054,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Night/SEASON2)": {
+    "Acuity_Lakefront__Night_SEASON2_": {
         "name": "Acuity Lakefront (Night/SEASON2)",
         "encounters": [
             {
@@ -40079,7 +40079,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Night/SEASON3)": {
+    "Acuity_Lakefront__Night_SEASON3_": {
         "name": "Acuity Lakefront (Night/SEASON3)",
         "encounters": [
             {
@@ -40879,7 +40879,7 @@
             }
         ]
     },
-    "Route_203_(Night)": {
+    "Route_203__Night_": {
         "name": "Route 203 (Night)",
         "encounters": [
             {
@@ -40894,7 +40894,7 @@
             }
         ]
     },
-    "Route_204_(Night)": {
+    "Route_204__Night_": {
         "name": "Route 204 (Night)",
         "encounters": [
             {
@@ -40919,7 +40919,7 @@
             }
         ]
     },
-    "Route_206_(Night)": {
+    "Route_206__Night_": {
         "name": "Route 206 (Night)",
         "encounters": [
             {
@@ -40934,7 +40934,7 @@
             }
         ]
     },
-    "Route_207_(Night)": {
+    "Route_207__Night_": {
         "name": "Route 207 (Night)",
         "encounters": [
             {
@@ -40949,7 +40949,7 @@
             }
         ]
     },
-    "Route_208_(Night)": {
+    "Route_208__Night_": {
         "name": "Route 208 (Night)",
         "encounters": [
             {
@@ -41339,7 +41339,7 @@
             }
         ]
     },
-    "Route_209_(Night)": {
+    "Route_209__Night_": {
         "name": "Route 209 (Night)",
         "encounters": [
             {
@@ -41434,7 +41434,7 @@
             }
         ]
     },
-    "Route_211_(Night)": {
+    "Route_211__Night_": {
         "name": "Route 211 (Night)",
         "encounters": [
             {
@@ -41469,7 +41469,7 @@
             }
         ]
     },
-    "Route_214_(Night)": {
+    "Route_214__Night_": {
         "name": "Route 214 (Night)",
         "encounters": [
             {
@@ -41484,7 +41484,7 @@
             }
         ]
     },
-    "Route_216_(Night/SEASON0)": {
+    "Route_216__Night_SEASON0_": {
         "name": "Route 216 (Night/SEASON0)",
         "encounters": [
             {
@@ -41509,7 +41509,7 @@
             }
         ]
     },
-    "Route_216_(Night/SEASON1)": {
+    "Route_216__Night_SEASON1_": {
         "name": "Route 216 (Night/SEASON1)",
         "encounters": [
             {
@@ -41534,7 +41534,7 @@
             }
         ]
     },
-    "Route_216_(Night/SEASON2)": {
+    "Route_216__Night_SEASON2_": {
         "name": "Route 216 (Night/SEASON2)",
         "encounters": [
             {
@@ -41559,7 +41559,7 @@
             }
         ]
     },
-    "Route_216_(Night/SEASON3)": {
+    "Route_216__Night_SEASON3_": {
         "name": "Route 216 (Night/SEASON3)",
         "encounters": [
             {
@@ -41584,7 +41584,7 @@
             }
         ]
     },
-    "Route_217_(Night/SEASON0)": {
+    "Route_217__Night_SEASON0_": {
         "name": "Route 217 (Night/SEASON0)",
         "encounters": [
             {
@@ -41619,7 +41619,7 @@
             }
         ]
     },
-    "Route_217_(Night/SEASON1)": {
+    "Route_217__Night_SEASON1_": {
         "name": "Route 217 (Night/SEASON1)",
         "encounters": [
             {
@@ -41654,7 +41654,7 @@
             }
         ]
     },
-    "Route_217_(Night/SEASON2)": {
+    "Route_217__Night_SEASON2_": {
         "name": "Route 217 (Night/SEASON2)",
         "encounters": [
             {
@@ -41689,7 +41689,7 @@
             }
         ]
     },
-    "Route_217_(Night/SEASON3)": {
+    "Route_217__Night_SEASON3_": {
         "name": "Route 217 (Night/SEASON3)",
         "encounters": [
             {
@@ -42589,7 +42589,7 @@
             }
         ]
     },
-    "Route_32_(Night/Morning)": {
+    "Route_32__Night_Morning_": {
         "name": "Route 32 (Night/Morning)",
         "encounters": [
             {
@@ -42604,7 +42604,7 @@
             }
         ]
     },
-    "Route_42_(Night)": {
+    "Route_42__Night_": {
         "name": "Route 42 (Night)",
         "encounters": [
             {
@@ -44179,7 +44179,7 @@
             }
         ]
     },
-    "Mt._Coronet_(Night)": {
+    "Mt._Coronet__Night_": {
         "name": "Mt. Coronet (Night)",
         "encounters": [
             {
@@ -44194,7 +44194,7 @@
             }
         ]
     },
-    "Route_227_(Night)": {
+    "Route_227__Night_": {
         "name": "Route 227 (Night)",
         "encounters": [
             {
@@ -44229,7 +44229,7 @@
             }
         ]
     },
-    "Sendoff_Spring_(Night)": {
+    "Sendoff_Spring__Night_": {
         "name": "Sendoff Spring (Night)",
         "encounters": [
             {
@@ -44499,7 +44499,7 @@
             }
         ]
     },
-    "Stark_Mountain_(Night)": {
+    "Stark_Mountain__Night_": {
         "name": "Stark Mountain (Night)",
         "encounters": [
             {
@@ -44659,7 +44659,7 @@
             }
         ]
     },
-    "Mt._Silver_(Night)": {
+    "Mt._Silver__Night_": {
         "name": "Mt. Silver (Night)",
         "encounters": [
             {
@@ -45629,7 +45629,7 @@
             }
         ]
     },
-    "Route_28_(Night/SEASON0)": {
+    "Route_28__Night_SEASON0_": {
         "name": "Route 28 (Night/SEASON0)",
         "encounters": [
             {
@@ -45654,7 +45654,7 @@
             }
         ]
     },
-    "Route_28_(Night/SEASON1)": {
+    "Route_28__Night_SEASON1_": {
         "name": "Route 28 (Night/SEASON1)",
         "encounters": [
             {
@@ -45679,7 +45679,7 @@
             }
         ]
     },
-    "Route_28_(Night/SEASON2)": {
+    "Route_28__Night_SEASON2_": {
         "name": "Route 28 (Night/SEASON2)",
         "encounters": [
             {
@@ -45704,7 +45704,7 @@
             }
         ]
     },
-    "Route_28_(Night/SEASON3)": {
+    "Route_28__Night_SEASON3_": {
         "name": "Route 28 (Night/SEASON3)",
         "encounters": [
             {
@@ -45729,7 +45729,7 @@
             }
         ]
     },
-    "ROUTE_13_(Night/Morning)": {
+    "ROUTE_13__Night_Morning_": {
         "name": "ROUTE 13 (Night/Morning)",
         "encounters": [
             {
@@ -45744,7 +45744,7 @@
             }
         ]
     },
-    "ROUTE_25_(Night/Morning)": {
+    "ROUTE_25__Night_Morning_": {
         "name": "ROUTE 25 (Night/Morning)",
         "encounters": [
             {
@@ -46239,7 +46239,7 @@
             }
         ]
     },
-    "ROUTE_117_(Night)": {
+    "ROUTE_117__Night_": {
         "name": "ROUTE 117 (Night)",
         "encounters": [
             {
@@ -47474,7 +47474,7 @@
             }
         ]
     },
-    "Route_224_(Night)": {
+    "Route_224__Night_": {
         "name": "Route 224 (Night)",
         "encounters": [
             {
@@ -47499,7 +47499,7 @@
             }
         ]
     },
-    "Route_230_(Night)": {
+    "Route_230__Night_": {
         "name": "Route 230 (Night)",
         "encounters": [
             {
@@ -47514,7 +47514,7 @@
             }
         ]
     },
-    "Ilex_Forest_(Night)": {
+    "Ilex_Forest__Night_": {
         "name": "Ilex Forest (Night)",
         "encounters": [
             {
@@ -47954,7 +47954,7 @@
             }
         ]
     },
-    "ROUTE_12_(Night)": {
+    "ROUTE_12__Night_": {
         "name": "ROUTE 12 (Night)",
         "encounters": [
             {
@@ -47969,7 +47969,7 @@
             }
         ]
     },
-    "ROUTE_24_(Night)": {
+    "ROUTE_24__Night_": {
         "name": "ROUTE 24 (Night)",
         "encounters": [
             {
@@ -47994,7 +47994,7 @@
             }
         ]
     },
-    "ROUTE_25_(Night)": {
+    "ROUTE_25__Night_": {
         "name": "ROUTE 25 (Night)",
         "encounters": [
             {
@@ -48019,7 +48019,7 @@
             }
         ]
     },
-    "National_Park_(Night)": {
+    "National_Park__Night_": {
         "name": "National Park (Night)",
         "encounters": [
             {
@@ -48074,7 +48074,7 @@
             }
         ]
     },
-    "Route_43_(Night/Morning)": {
+    "Route_43__Night_Morning_": {
         "name": "Route 43 (Night/Morning)",
         "encounters": [
             {
@@ -48089,7 +48089,7 @@
             }
         ]
     },
-    "CERULEAN_CAVE_(Night)": {
+    "CERULEAN_CAVE__Night_": {
         "name": "CERULEAN CAVE (Night)",
         "encounters": [
             {
@@ -48104,7 +48104,7 @@
             }
         ]
     },
-    "ROUTE_13_(Night)": {
+    "ROUTE_13__Night_": {
         "name": "ROUTE 13 (Night)",
         "encounters": [
             {
@@ -48139,7 +48139,7 @@
             }
         ]
     },
-    "ROUTE_14_(Night)": {
+    "ROUTE_14__Night_": {
         "name": "ROUTE 14 (Night)",
         "encounters": [
             {
@@ -48174,7 +48174,7 @@
             }
         ]
     },
-    "Dreamyard_(Night)": {
+    "Dreamyard__Night_": {
         "name": "Dreamyard (Night)",
         "encounters": [
             {
@@ -48199,7 +48199,7 @@
             }
         ]
     },
-    "Route_43_(Night)": {
+    "Route_43__Night_": {
         "name": "Route 43 (Night)",
         "encounters": [
             {
@@ -48409,7 +48409,7 @@
             }
         ]
     },
-    "CANYON_ENTRANCE_(Night)": {
+    "CANYON_ENTRANCE__Night_": {
         "name": "CANYON ENTRANCE (Night)",
         "encounters": [
             {
@@ -57604,7 +57604,7 @@
             }
         ]
     },
-    "POKéMON_MANSION_(Day/Morning)": {
+    "POKéMON_MANSION__Day_Morning_": {
         "name": "POKéMON MANSION (Day/Morning)",
         "encounters": [
             {
@@ -57619,7 +57619,7 @@
             }
         ]
     },
-    "ROUTE_7_(Day)": {
+    "ROUTE_7__Day_": {
         "name": "ROUTE 7 (Day)",
         "encounters": [
             {
@@ -57634,7 +57634,7 @@
             }
         ]
     },
-    "ROUTE_8_(Day/Morning)": {
+    "ROUTE_8__Day_Morning_": {
         "name": "ROUTE 8 (Day/Morning)",
         "encounters": [
             {
@@ -57659,7 +57659,7 @@
             }
         ]
     },
-    "Route_36_(Day/Morning)": {
+    "Route_36__Day_Morning_": {
         "name": "Route 36 (Day/Morning)",
         "encounters": [
             {
@@ -57904,7 +57904,7 @@
             }
         ]
     },
-    "Route_44_(Night)": {
+    "Route_44__Night_": {
         "name": "Route 44 (Night)",
         "encounters": [
             {
@@ -57929,7 +57929,7 @@
             }
         ]
     },
-    "Route_28_(Night)": {
+    "Route_28__Night_": {
         "name": "Route 28 (Night)",
         "encounters": [
             {
@@ -59159,7 +59159,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Day/Morning/SEASON0)": {
+    "Acuity_Lakefront__Day_Morning_SEASON0_": {
         "name": "Acuity Lakefront (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -59174,7 +59174,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Day/Morning/SEASON2)": {
+    "Acuity_Lakefront__Day_Morning_SEASON2_": {
         "name": "Acuity Lakefront (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -59189,7 +59189,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Day/Morning/SEASON3)": {
+    "Acuity_Lakefront__Day_Morning_SEASON3_": {
         "name": "Acuity Lakefront (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -59724,7 +59724,7 @@
             }
         ]
     },
-    "Route_217_(Day/Morning/SEASON0)": {
+    "Route_217__Day_Morning_SEASON0_": {
         "name": "Route 217 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -59739,7 +59739,7 @@
             }
         ]
     },
-    "Route_217_(Day/Morning/SEASON2)": {
+    "Route_217__Day_Morning_SEASON2_": {
         "name": "Route 217 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -59754,7 +59754,7 @@
             }
         ]
     },
-    "Route_217_(Day/Morning/SEASON3)": {
+    "Route_217__Day_Morning_SEASON3_": {
         "name": "Route 217 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -59769,7 +59769,7 @@
             }
         ]
     },
-    "Mt._Silver_Cave_(Day/Morning)": {
+    "Mt._Silver_Cave__Day_Morning_": {
         "name": "Mt. Silver Cave (Day/Morning)",
         "encounters": [
             {
@@ -59794,7 +59794,7 @@
             }
         ]
     },
-    "ROUTE_13_(Day/Morning)": {
+    "ROUTE_13__Day_Morning_": {
         "name": "ROUTE 13 (Day/Morning)",
         "encounters": [
             {
@@ -59819,7 +59819,7 @@
             }
         ]
     },
-    "Route_224_(Day/Morning)": {
+    "Route_224__Day_Morning_": {
         "name": "Route 224 (Day/Morning)",
         "encounters": [
             {
@@ -59854,7 +59854,7 @@
             }
         ]
     },
-    "Route_230_(Day/Morning)": {
+    "Route_230__Day_Morning_": {
         "name": "Route 230 (Day/Morning)",
         "encounters": [
             {
@@ -67979,7 +67979,7 @@
             }
         ]
     },
-    "FIVE_ISLE_MEADOW_(Night)": {
+    "FIVE_ISLE_MEADOW__Night_": {
         "name": "FIVE ISLE MEADOW (Night)",
         "encounters": [
             {
@@ -67994,7 +67994,7 @@
             }
         ]
     },
-    "MEMORIAL_PILLAR_(Night)": {
+    "MEMORIAL_PILLAR__Night_": {
         "name": "MEMORIAL PILLAR (Night)",
         "encounters": [
             {
@@ -68009,7 +68009,7 @@
             }
         ]
     },
-    "RESORT_GORGEOUS_(Night)": {
+    "RESORT_GORGEOUS__Night_": {
         "name": "RESORT GORGEOUS (Night)",
         "encounters": [
             {
@@ -69514,7 +69514,7 @@
             }
         ]
     },
-    "Route_210_(Day/Morning)": {
+    "Route_210__Day_Morning_": {
         "name": "Route 210 (Day/Morning)",
         "encounters": [
             {
@@ -70339,7 +70339,7 @@
             }
         ]
     },
-    "ROUTE_18_(Day/Morning)": {
+    "ROUTE_18__Day_Morning_": {
         "name": "ROUTE 18 (Day/Morning)",
         "encounters": [
             {
@@ -70364,7 +70364,7 @@
             }
         ]
     },
-    "ROUTE_22_(Day/Morning)": {
+    "ROUTE_22__Day_Morning_": {
         "name": "ROUTE 22 (Day/Morning)",
         "encounters": [
             {
@@ -70379,7 +70379,7 @@
             }
         ]
     },
-    "Route_26_(Day/Morning)": {
+    "Route_26__Day_Morning_": {
         "name": "Route 26 (Day/Morning)",
         "encounters": [
             {
@@ -70404,7 +70404,7 @@
             }
         ]
     },
-    "Route_27_(Day/Morning)": {
+    "Route_27__Day_Morning_": {
         "name": "Route 27 (Day/Morning)",
         "encounters": [
             {
@@ -70439,7 +70439,7 @@
             }
         ]
     },
-    "Mt._Silver_(Day/Morning)": {
+    "Mt._Silver__Day_Morning_": {
         "name": "Mt. Silver (Day/Morning)",
         "encounters": [
             {
@@ -70464,7 +70464,7 @@
             }
         ]
     },
-    "Route_28_(Day/Morning)": {
+    "Route_28__Day_Morning_": {
         "name": "Route 28 (Day/Morning)",
         "encounters": [
             {
@@ -70839,7 +70839,7 @@
             }
         ]
     },
-    "ROUTE_18_(Night)": {
+    "ROUTE_18__Night_": {
         "name": "ROUTE 18 (Night)",
         "encounters": [
             {
@@ -71494,7 +71494,7 @@
             }
         ]
     },
-    "Route_32_(Night)": {
+    "Route_32__Night_": {
         "name": "Route 32 (Night)",
         "encounters": [
             {
@@ -71529,7 +71529,7 @@
             }
         ]
     },
-    "Sprout_Tower_(Night)": {
+    "Sprout_Tower__Night_": {
         "name": "Sprout Tower (Night)",
         "encounters": [
             {
@@ -71544,7 +71544,7 @@
             }
         ]
     },
-    "Bell_Tower_(Night)": {
+    "Bell_Tower__Night_": {
         "name": "Bell Tower (Night)",
         "encounters": [
             {
@@ -71559,7 +71559,7 @@
             }
         ]
     },
-    "ROUTE_6_(Night)": {
+    "ROUTE_6__Night_": {
         "name": "ROUTE 6 (Night)",
         "encounters": [
             {
@@ -71709,7 +71709,7 @@
             }
         ]
     },
-    "ROCK_TUNNEL_(Day/Morning)": {
+    "ROCK_TUNNEL__Day_Morning_": {
         "name": "ROCK TUNNEL (Day/Morning)",
         "encounters": [
             {
@@ -72524,7 +72524,7 @@
             }
         ]
     },
-    "CERULEAN_CITY_(Night)": {
+    "CERULEAN_CITY__Night_": {
         "name": "CERULEAN CITY (Night)",
         "encounters": [
             {
@@ -72539,7 +72539,7 @@
             }
         ]
     },
-    "ROUTE_19_(Night)": {
+    "ROUTE_19__Night_": {
         "name": "ROUTE 19 (Night)",
         "encounters": [
             {
@@ -72564,7 +72564,7 @@
             }
         ]
     },
-    "Cherrygrove_City_(Night)": {
+    "Cherrygrove_City__Night_": {
         "name": "Cherrygrove City (Night)",
         "encounters": [
             {
@@ -72589,7 +72589,7 @@
             }
         ]
     },
-    "Cianwood_City_(Night)": {
+    "Cianwood_City__Night_": {
         "name": "Cianwood City (Night)",
         "encounters": [
             {
@@ -72614,7 +72614,7 @@
             }
         ]
     },
-    "Olivine_City_(Night)": {
+    "Olivine_City__Night_": {
         "name": "Olivine City (Night)",
         "encounters": [
             {
@@ -72639,7 +72639,7 @@
             }
         ]
     },
-    "Route_34_(Night)": {
+    "Route_34__Night_": {
         "name": "Route 34 (Night)",
         "encounters": [
             {
@@ -72674,7 +72674,7 @@
             }
         ]
     },
-    "Route_40_(Night)": {
+    "Route_40__Night_": {
         "name": "Route 40 (Night)",
         "encounters": [
             {
@@ -72699,7 +72699,7 @@
             }
         ]
     },
-    "Route_47_(Night)": {
+    "Route_47__Night_": {
         "name": "Route 47 (Night)",
         "encounters": [
             {
@@ -72734,7 +72734,7 @@
             }
         ]
     },
-    "Union_Cave_(Night)": {
+    "Union_Cave__Night_": {
         "name": "Union Cave (Night)",
         "encounters": [
             {
@@ -72854,7 +72854,7 @@
             }
         ]
     },
-    "Route_222_(Day/Morning)": {
+    "Route_222__Day_Morning_": {
         "name": "Route 222 (Day/Morning)",
         "encounters": [
             {
@@ -72879,7 +72879,7 @@
             }
         ]
     },
-    "Fuego_Ironworks_(Day/Morning)": {
+    "Fuego_Ironworks__Day_Morning_": {
         "name": "Fuego Ironworks (Day/Morning)",
         "encounters": [
             {
@@ -73284,7 +73284,7 @@
             }
         ]
     },
-    "Mt._Silver_Cave_(Night)": {
+    "Mt._Silver_Cave__Night_": {
         "name": "Mt. Silver Cave (Night)",
         "encounters": [
             {
@@ -73604,7 +73604,7 @@
             }
         ]
     },
-    "ROUTE_1_(Day/Morning/SEASON0)": {
+    "ROUTE_1__Day_Morning_SEASON0_": {
         "name": "ROUTE 1 (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -73619,7 +73619,7 @@
             }
         ]
     },
-    "ROUTE_1_(Day/Morning/SEASON1)": {
+    "ROUTE_1__Day_Morning_SEASON1_": {
         "name": "ROUTE 1 (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -73634,7 +73634,7 @@
             }
         ]
     },
-    "ROUTE_1_(Day/Morning/SEASON2)": {
+    "ROUTE_1__Day_Morning_SEASON2_": {
         "name": "ROUTE 1 (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -73649,7 +73649,7 @@
             }
         ]
     },
-    "ROUTE_1_(Day/Morning/SEASON3)": {
+    "ROUTE_1__Day_Morning_SEASON3_": {
         "name": "ROUTE 1 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -73664,7 +73664,7 @@
             }
         ]
     },
-    "Route_29_(Day/Morning/SEASON3)": {
+    "Route_29__Day_Morning_SEASON3_": {
         "name": "Route 29 (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -73689,7 +73689,7 @@
             }
         ]
     },
-    "Route_43_(Day/Morning)": {
+    "Route_43__Day_Morning_": {
         "name": "Route 43 (Day/Morning)",
         "encounters": [
             {
@@ -73714,7 +73714,7 @@
             }
         ]
     },
-    "WATER_PATH_(Day/Morning)": {
+    "WATER_PATH__Day_Morning_": {
         "name": "WATER PATH (Day/Morning)",
         "encounters": [
             {
@@ -73729,7 +73729,7 @@
             }
         ]
     },
-    "ROUTE_1_(Night)": {
+    "ROUTE_1__Night_": {
         "name": "ROUTE 1 (Night)",
         "encounters": [
             {
@@ -73744,7 +73744,7 @@
             }
         ]
     },
-    "ROUTE_2_(Night)": {
+    "ROUTE_2__Night_": {
         "name": "ROUTE 2 (Night)",
         "encounters": [
             {
@@ -73759,7 +73759,7 @@
             }
         ]
     },
-    "ROUTE_5_(Night)": {
+    "ROUTE_5__Night_": {
         "name": "ROUTE 5 (Night)",
         "encounters": [
             {
@@ -73774,7 +73774,7 @@
             }
         ]
     },
-    "ROUTE_11_(Night)": {
+    "ROUTE_11__Night_": {
         "name": "ROUTE 11 (Night)",
         "encounters": [
             {
@@ -73789,7 +73789,7 @@
             }
         ]
     },
-    "VIRIDIAN_FOREST_(Night)": {
+    "VIRIDIAN_FOREST__Night_": {
         "name": "VIRIDIAN FOREST (Night)",
         "encounters": [
             {
@@ -73814,7 +73814,7 @@
             }
         ]
     },
-    "Eterna_Forest_(Night)": {
+    "Eterna_Forest__Night_": {
         "name": "Eterna Forest (Night)",
         "encounters": [
             {
@@ -73859,7 +73859,7 @@
             }
         ]
     },
-    "Great_Marsh_(Night)": {
+    "Great_Marsh__Night_": {
         "name": "Great Marsh (Night)",
         "encounters": [
             {
@@ -73884,7 +73884,7 @@
             }
         ]
     },
-    "Route_205_(Night)": {
+    "Route_205__Night_": {
         "name": "Route 205 (Night)",
         "encounters": [
             {
@@ -73899,7 +73899,7 @@
             }
         ]
     },
-    "Route_210_(Night)": {
+    "Route_210__Night_": {
         "name": "Route 210 (Night)",
         "encounters": [
             {
@@ -73934,7 +73934,7 @@
             }
         ]
     },
-    "Route_29_(Night)": {
+    "Route_29__Night_": {
         "name": "Route 29 (Night)",
         "encounters": [
             {
@@ -73949,7 +73949,7 @@
             }
         ]
     },
-    "ROUTE_15_(Night)": {
+    "ROUTE_15__Night_": {
         "name": "ROUTE 15 (Night)",
         "encounters": [
             {
@@ -73974,7 +73974,7 @@
             }
         ]
     },
-    "Abundant_Shrine_(Night)": {
+    "Abundant_Shrine__Night_": {
         "name": "Abundant Shrine (Night)",
         "encounters": [
             {
@@ -74039,7 +74039,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Night)": {
+    "Acuity_Lakefront__Night_": {
         "name": "Acuity Lakefront (Night)",
         "encounters": [
             {
@@ -74064,7 +74064,7 @@
             }
         ]
     },
-    "Lake_Acuity_(Night/SEASON0)": {
+    "Lake_Acuity__Night_SEASON0_": {
         "name": "Lake Acuity (Night/SEASON0)",
         "encounters": [
             {
@@ -74089,7 +74089,7 @@
             }
         ]
     },
-    "Lake_Acuity_(Night/SEASON1)": {
+    "Lake_Acuity__Night_SEASON1_": {
         "name": "Lake Acuity (Night/SEASON1)",
         "encounters": [
             {
@@ -74114,7 +74114,7 @@
             }
         ]
     },
-    "Lake_Acuity_(Night/SEASON2)": {
+    "Lake_Acuity__Night_SEASON2_": {
         "name": "Lake Acuity (Night/SEASON2)",
         "encounters": [
             {
@@ -74139,7 +74139,7 @@
             }
         ]
     },
-    "Lake_Acuity_(Night/SEASON3)": {
+    "Lake_Acuity__Night_SEASON3_": {
         "name": "Lake Acuity (Night/SEASON3)",
         "encounters": [
             {
@@ -74164,7 +74164,7 @@
             }
         ]
     },
-    "Lake_Valor_(Night)": {
+    "Lake_Valor__Night_": {
         "name": "Lake Valor (Night)",
         "encounters": [
             {
@@ -74179,7 +74179,7 @@
             }
         ]
     },
-    "Mt._Coronet_(Night/SEASON0)": {
+    "Mt._Coronet__Night_SEASON0_": {
         "name": "Mt. Coronet (Night/SEASON0)",
         "encounters": [
             {
@@ -74194,7 +74194,7 @@
             }
         ]
     },
-    "Mt._Coronet_(Night/SEASON1)": {
+    "Mt._Coronet__Night_SEASON1_": {
         "name": "Mt. Coronet (Night/SEASON1)",
         "encounters": [
             {
@@ -74209,7 +74209,7 @@
             }
         ]
     },
-    "Mt._Coronet_(Night/SEASON2)": {
+    "Mt._Coronet__Night_SEASON2_": {
         "name": "Mt. Coronet (Night/SEASON2)",
         "encounters": [
             {
@@ -74224,7 +74224,7 @@
             }
         ]
     },
-    "Mt._Coronet_(Night/SEASON3)": {
+    "Mt._Coronet__Night_SEASON3_": {
         "name": "Mt. Coronet (Night/SEASON3)",
         "encounters": [
             {
@@ -74239,7 +74239,7 @@
             }
         ]
     },
-    "Route_216_(Night)": {
+    "Route_216__Night_": {
         "name": "Route 216 (Night)",
         "encounters": [
             {
@@ -74254,7 +74254,7 @@
             }
         ]
     },
-    "Route_38_(Night)": {
+    "Route_38__Night_": {
         "name": "Route 38 (Night)",
         "encounters": [
             {
@@ -74269,7 +74269,7 @@
             }
         ]
     },
-    "Route_39_(Night)": {
+    "Route_39__Night_": {
         "name": "Route 39 (Night)",
         "encounters": [
             {
@@ -74284,7 +74284,7 @@
             }
         ]
     },
-    "PATTERN_BUSH_(Day/Morning)": {
+    "PATTERN_BUSH__Day_Morning_": {
         "name": "PATTERN BUSH (Day/Morning)",
         "encounters": [
             {
@@ -74299,7 +74299,7 @@
             }
         ]
     },
-    "VIRIDIAN_FOREST_(Morning)": {
+    "VIRIDIAN_FOREST__Morning_": {
         "name": "VIRIDIAN FOREST (Morning)",
         "encounters": [
             {
@@ -74314,7 +74314,7 @@
             }
         ]
     },
-    "National_Park_(Morning)": {
+    "National_Park__Morning_": {
         "name": "National Park (Morning)",
         "encounters": [
             {
@@ -74339,7 +74339,7 @@
             }
         ]
     },
-    "Route_31_(Morning)": {
+    "Route_31__Morning_": {
         "name": "Route 31 (Morning)",
         "encounters": [
             {
@@ -74354,7 +74354,7 @@
             }
         ]
     },
-    "Route_36_(Morning/SEASON0)": {
+    "Route_36__Morning_SEASON0_": {
         "name": "Route 36 (Morning/SEASON0)",
         "encounters": [
             {
@@ -74369,7 +74369,7 @@
             }
         ]
     },
-    "Route_36_(Morning/SEASON1)": {
+    "Route_36__Morning_SEASON1_": {
         "name": "Route 36 (Morning/SEASON1)",
         "encounters": [
             {
@@ -74384,7 +74384,7 @@
             }
         ]
     },
-    "Route_36_(Morning/SEASON2)": {
+    "Route_36__Morning_SEASON2_": {
         "name": "Route 36 (Morning/SEASON2)",
         "encounters": [
             {
@@ -74399,7 +74399,7 @@
             }
         ]
     },
-    "Route_36_(Morning/SEASON3)": {
+    "Route_36__Morning_SEASON3_": {
         "name": "Route 36 (Morning/SEASON3)",
         "encounters": [
             {
@@ -74414,7 +74414,7 @@
             }
         ]
     },
-    "Route_37_(Morning)": {
+    "Route_37__Morning_": {
         "name": "Route 37 (Morning)",
         "encounters": [
             {
@@ -74439,7 +74439,7 @@
             }
         ]
     },
-    "PATTERN_BUSH_(Morning)": {
+    "PATTERN_BUSH__Morning_": {
         "name": "PATTERN BUSH (Morning)",
         "encounters": [
             {
@@ -74454,7 +74454,7 @@
             }
         ]
     },
-    "Dreamyard_(Day/Morning)": {
+    "Dreamyard__Day_Morning_": {
         "name": "Dreamyard (Day/Morning)",
         "encounters": [
             {
@@ -74469,7 +74469,7 @@
             }
         ]
     },
-    "Route_229_(Morning)": {
+    "Route_229__Morning_": {
         "name": "Route 229 (Morning)",
         "encounters": [
             {
@@ -74484,7 +74484,7 @@
             }
         ]
     },
-    "PATTERN_BUSH_(Day/Night)": {
+    "PATTERN_BUSH__Day_Night_": {
         "name": "PATTERN BUSH (Day/Night)",
         "encounters": [
             {
@@ -74499,7 +74499,7 @@
             }
         ]
     },
-    "PATTERN_BUSH_(Night)": {
+    "PATTERN_BUSH__Night_": {
         "name": "PATTERN BUSH (Night)",
         "encounters": [
             {
@@ -74514,7 +74514,7 @@
             }
         ]
     },
-    "SKY_PILLAR_(Night)": {
+    "SKY_PILLAR__Night_": {
         "name": "SKY PILLAR (Night)",
         "encounters": [
             {
@@ -74549,7 +74549,7 @@
             }
         ]
     },
-    "Route_229_(Night)": {
+    "Route_229__Night_": {
         "name": "Route 229 (Night)",
         "encounters": [
             {
@@ -74689,7 +74689,7 @@
             }
         ]
     },
-    "RUIN_VALLEY_(Day/Morning)": {
+    "RUIN_VALLEY__Day_Morning_": {
         "name": "RUIN VALLEY (Day/Morning)",
         "encounters": [
             {
@@ -74704,7 +74704,7 @@
             }
         ]
     },
-    "Route_215_(Night/SEASON0)": {
+    "Route_215__Night_SEASON0_": {
         "name": "Route 215 (Night/SEASON0)",
         "encounters": [
             {
@@ -74719,7 +74719,7 @@
             }
         ]
     },
-    "Route_215_(Night/SEASON1)": {
+    "Route_215__Night_SEASON1_": {
         "name": "Route 215 (Night/SEASON1)",
         "encounters": [
             {
@@ -74734,7 +74734,7 @@
             }
         ]
     },
-    "Route_215_(Night/SEASON2)": {
+    "Route_215__Night_SEASON2_": {
         "name": "Route 215 (Night/SEASON2)",
         "encounters": [
             {
@@ -74749,7 +74749,7 @@
             }
         ]
     },
-    "FIVE_ISLE_MEADOW_(Day/Morning)": {
+    "FIVE_ISLE_MEADOW__Day_Morning_": {
         "name": "FIVE ISLE MEADOW (Day/Morning)",
         "encounters": [
             {
@@ -74774,7 +74774,7 @@
             }
         ]
     },
-    "MEMORIAL_PILLAR_(Day/Morning)": {
+    "MEMORIAL_PILLAR__Day_Morning_": {
         "name": "MEMORIAL PILLAR (Day/Morning)",
         "encounters": [
             {
@@ -74789,7 +74789,7 @@
             }
         ]
     },
-    "RESORT_GORGEOUS_(Day/Morning)": {
+    "RESORT_GORGEOUS__Day_Morning_": {
         "name": "RESORT GORGEOUS (Day/Morning)",
         "encounters": [
             {
@@ -74804,7 +74804,7 @@
             }
         ]
     },
-    "ROUTE_11_(Day/Morning)": {
+    "ROUTE_11__Day_Morning_": {
         "name": "ROUTE 11 (Day/Morning)",
         "encounters": [
             {
@@ -74819,7 +74819,7 @@
             }
         ]
     },
-    "ROUTE_14_(Day/Morning)": {
+    "ROUTE_14__Day_Morning_": {
         "name": "ROUTE 14 (Day/Morning)",
         "encounters": [
             {
@@ -74844,7 +74844,7 @@
             }
         ]
     },
-    "ROUTE_15_(Day/Morning)": {
+    "ROUTE_15__Day_Morning_": {
         "name": "ROUTE 15 (Day/Morning)",
         "encounters": [
             {
@@ -74859,7 +74859,7 @@
             }
         ]
     },
-    "WATER_LABYRINTH_(Day/Morning)": {
+    "WATER_LABYRINTH__Day_Morning_": {
         "name": "WATER LABYRINTH (Day/Morning)",
         "encounters": [
             {
@@ -74874,7 +74874,7 @@
             }
         ]
     },
-    "Route_33_(Day/Morning)": {
+    "Route_33__Day_Morning_": {
         "name": "Route 33 (Day/Morning)",
         "encounters": [
             {
@@ -74994,7 +74994,7 @@
             }
         ]
     },
-    "ROUTE_24_(Day)": {
+    "ROUTE_24__Day_": {
         "name": "ROUTE 24 (Day)",
         "encounters": [
             {
@@ -75009,7 +75009,7 @@
             }
         ]
     },
-    "National_Park_(Day)": {
+    "National_Park__Day_": {
         "name": "National Park (Day)",
         "encounters": [
             {
@@ -75034,7 +75034,7 @@
             }
         ]
     },
-    "Safari_Zone_(Day)": {
+    "Safari_Zone__Day_": {
         "name": "Safari Zone (Day)",
         "encounters": [
             {
@@ -75049,7 +75049,7 @@
             }
         ]
     },
-    "Cliff_Cave_(Night)": {
+    "Cliff_Cave__Night_": {
         "name": "Cliff Cave (Night)",
         "encounters": [
             {
@@ -75084,7 +75084,7 @@
             }
         ]
     },
-    "RUIN_VALLEY_(Night)": {
+    "RUIN_VALLEY__Night_": {
         "name": "RUIN VALLEY (Night)",
         "encounters": [
             {
@@ -75099,7 +75099,7 @@
             }
         ]
     },
-    "LOST_CAVE_(Night)": {
+    "LOST_CAVE__Night_": {
         "name": "LOST CAVE (Night)",
         "encounters": [
             {
@@ -75124,7 +75124,7 @@
             }
         ]
     },
-    "ROUTE_16_(Night)": {
+    "ROUTE_16__Night_": {
         "name": "ROUTE 16 (Night)",
         "encounters": [
             {
@@ -75464,7 +75464,7 @@
             }
         ]
     },
-    "ROUTE_5_(Day/Morning)": {
+    "ROUTE_5__Day_Morning_": {
         "name": "ROUTE 5 (Day/Morning)",
         "encounters": [
             {
@@ -75479,7 +75479,7 @@
             }
         ]
     },
-    "ROUTE_6_(Day/Morning)": {
+    "ROUTE_6__Day_Morning_": {
         "name": "ROUTE 6 (Day/Morning)",
         "encounters": [
             {
@@ -75494,7 +75494,7 @@
             }
         ]
     },
-    "ROUTE_7_(Day/Morning)": {
+    "ROUTE_7__Day_Morning_": {
         "name": "ROUTE 7 (Day/Morning)",
         "encounters": [
             {
@@ -75509,7 +75509,7 @@
             }
         ]
     },
-    "Route_34_(Day/Morning)": {
+    "Route_34__Day_Morning_": {
         "name": "Route 34 (Day/Morning)",
         "encounters": [
             {
@@ -75989,7 +75989,7 @@
             }
         ]
     },
-    "Ice_Path_(Night)": {
+    "Ice_Path__Night_": {
         "name": "Ice Path (Night)",
         "encounters": [
             {
@@ -76004,7 +76004,7 @@
             }
         ]
     },
-    "Mt._Silver_(Night/SEASON0)": {
+    "Mt._Silver__Night_SEASON0_": {
         "name": "Mt. Silver (Night/SEASON0)",
         "encounters": [
             {
@@ -76019,7 +76019,7 @@
             }
         ]
     },
-    "Mt._Silver_(Night/SEASON1)": {
+    "Mt._Silver__Night_SEASON1_": {
         "name": "Mt. Silver (Night/SEASON1)",
         "encounters": [
             {
@@ -76034,7 +76034,7 @@
             }
         ]
     },
-    "Mt._Silver_(Night/SEASON2)": {
+    "Mt._Silver__Night_SEASON2_": {
         "name": "Mt. Silver (Night/SEASON2)",
         "encounters": [
             {
@@ -76049,7 +76049,7 @@
             }
         ]
     },
-    "Mt._Silver_(Night/SEASON3)": {
+    "Mt._Silver__Night_SEASON3_": {
         "name": "Mt. Silver (Night/SEASON3)",
         "encounters": [
             {
@@ -76064,7 +76064,7 @@
             }
         ]
     },
-    "ROUTE_16_(Day/Morning)": {
+    "ROUTE_16__Day_Morning_": {
         "name": "ROUTE 16 (Day/Morning)",
         "encounters": [
             {
@@ -76079,7 +76079,7 @@
             }
         ]
     },
-    "CERULEAN_CITY_(Day/Morning)": {
+    "CERULEAN_CITY__Day_Morning_": {
         "name": "CERULEAN CITY (Day/Morning)",
         "encounters": [
             {
@@ -76094,7 +76094,7 @@
             }
         ]
     },
-    "ROUTE_19_(Day/Morning)": {
+    "ROUTE_19__Day_Morning_": {
         "name": "ROUTE 19 (Day/Morning)",
         "encounters": [
             {
@@ -76119,7 +76119,7 @@
             }
         ]
     },
-    "Cherrygrove_City_(Day/Morning)": {
+    "Cherrygrove_City__Day_Morning_": {
         "name": "Cherrygrove City (Day/Morning)",
         "encounters": [
             {
@@ -76144,7 +76144,7 @@
             }
         ]
     },
-    "Cianwood_City_(Day/Morning)": {
+    "Cianwood_City__Day_Morning_": {
         "name": "Cianwood City (Day/Morning)",
         "encounters": [
             {
@@ -76169,7 +76169,7 @@
             }
         ]
     },
-    "Olivine_City_(Day/Morning)": {
+    "Olivine_City__Day_Morning_": {
         "name": "Olivine City (Day/Morning)",
         "encounters": [
             {
@@ -76194,7 +76194,7 @@
             }
         ]
     },
-    "Route_40_(Day/Morning)": {
+    "Route_40__Day_Morning_": {
         "name": "Route 40 (Day/Morning)",
         "encounters": [
             {
@@ -76219,7 +76219,7 @@
             }
         ]
     },
-    "Union_Cave_(Day/Morning)": {
+    "Union_Cave__Day_Morning_": {
         "name": "Union Cave (Day/Morning)",
         "encounters": [
             {
@@ -76629,7 +76629,7 @@
             }
         ]
     },
-    "Valor_Lakefront_(Night)": {
+    "Valor_Lakefront__Night_": {
         "name": "Valor Lakefront (Night)",
         "encounters": [
             {
@@ -76959,7 +76959,7 @@
             }
         ]
     },
-    "Route_204_(Day/Morning)": {
+    "Route_204__Day_Morning_": {
         "name": "Route 204 (Day/Morning)",
         "encounters": [
             {
@@ -76984,7 +76984,7 @@
             }
         ]
     },
-    "Route_205_(Day/Morning)": {
+    "Route_205__Day_Morning_": {
         "name": "Route 205 (Day/Morning)",
         "encounters": [
             {
@@ -76999,7 +76999,7 @@
             }
         ]
     },
-    "ROUTE_114_(Night/Morning)": {
+    "ROUTE_114__Night_Morning_": {
         "name": "ROUTE 114 (Night/Morning)",
         "encounters": [
             {
@@ -77024,7 +77024,7 @@
             }
         ]
     },
-    "PETALBURG_CITY_(Night)": {
+    "PETALBURG_CITY__Night_": {
         "name": "PETALBURG CITY (Night)",
         "encounters": [
             {
@@ -77039,7 +77039,7 @@
             }
         ]
     },
-    "ROUTE_102_(Night)": {
+    "ROUTE_102__Night_": {
         "name": "ROUTE 102 (Night)",
         "encounters": [
             {
@@ -77054,7 +77054,7 @@
             }
         ]
     },
-    "ROUTE_123_(Night)": {
+    "ROUTE_123__Night_": {
         "name": "ROUTE 123 (Night)",
         "encounters": [
             {
@@ -77069,7 +77069,7 @@
             }
         ]
     },
-    "ROUTE_114_(Day/Morning)": {
+    "ROUTE_114__Day_Morning_": {
         "name": "ROUTE 114 (Day/Morning)",
         "encounters": [
             {
@@ -77094,7 +77094,7 @@
             }
         ]
     },
-    "PETALBURG_WOODS_(Day/Morning)": {
+    "PETALBURG_WOODS__Day_Morning_": {
         "name": "PETALBURG WOODS (Day/Morning)",
         "encounters": [
             {
@@ -77109,7 +77109,7 @@
             }
         ]
     },
-    "Route_13_(Day/Morning)": {
+    "Route_13__Day_Morning_": {
         "name": "Route 13 (Day/Morning)",
         "encounters": [
             {
@@ -77169,7 +77169,7 @@
             }
         ]
     },
-    "ROUTE_126_(Day/Morning)": {
+    "ROUTE_126__Day_Morning_": {
         "name": "ROUTE 126 (Day/Morning)",
         "encounters": [
             {
@@ -77219,7 +77219,7 @@
             }
         ]
     },
-    "Route_212_(Day/Morning)": {
+    "Route_212__Day_Morning_": {
         "name": "Route 212 (Day/Morning)",
         "encounters": [
             {
@@ -77244,7 +77244,7 @@
             }
         ]
     },
-    "GRANITE_CAVE_(Night/Morning)": {
+    "GRANITE_CAVE__Night_Morning_": {
         "name": "GRANITE CAVE (Night/Morning)",
         "encounters": [
             {
@@ -77259,7 +77259,7 @@
             }
         ]
     },
-    "GRANITE_CAVE_(Day/Morning)": {
+    "GRANITE_CAVE__Day_Morning_": {
         "name": "GRANITE CAVE (Day/Morning)",
         "encounters": [
             {
@@ -77274,7 +77274,7 @@
             }
         ]
     },
-    "MT._PYRE_(Day/Morning)": {
+    "MT._PYRE__Day_Morning_": {
         "name": "MT. PYRE (Day/Morning)",
         "encounters": [
             {
@@ -77289,7 +77289,7 @@
             }
         ]
     },
-    "ROUTE_117_(Day/Morning)": {
+    "ROUTE_117__Day_Morning_": {
         "name": "ROUTE 117 (Day/Morning)",
         "encounters": [
             {
@@ -77304,7 +77304,7 @@
             }
         ]
     },
-    "MIRAGE_TOWER_(Night)": {
+    "MIRAGE_TOWER__Night_": {
         "name": "MIRAGE TOWER (Night)",
         "encounters": [
             {
@@ -77319,7 +77319,7 @@
             }
         ]
     },
-    "ROUTE_111_(Night)": {
+    "ROUTE_111__Night_": {
         "name": "ROUTE 111 (Night)",
         "encounters": [
             {
@@ -77499,7 +77499,7 @@
             }
         ]
     },
-    "METEOR_FALLS_(Night/Morning)": {
+    "METEOR_FALLS__Night_Morning_": {
         "name": "METEOR FALLS (Night/Morning)",
         "encounters": [
             {
@@ -77514,7 +77514,7 @@
             }
         ]
     },
-    "Giant_Chasm_(Night/Morning)": {
+    "Giant_Chasm__Night_Morning_": {
         "name": "Giant Chasm (Night/Morning)",
         "encounters": [
             {
@@ -77529,7 +77529,7 @@
             }
         ]
     },
-    "Route_13_(Night)": {
+    "Route_13__Night_": {
         "name": "Route 13 (Night)",
         "encounters": [
             {
@@ -77554,7 +77554,7 @@
             }
         ]
     },
-    "Route_13_(Night/Morning)": {
+    "Route_13__Night_Morning_": {
         "name": "Route 13 (Night/Morning)",
         "encounters": [
             {
@@ -77569,7 +77569,7 @@
             }
         ]
     },
-    "METEOR_FALLS_(Day/Morning)": {
+    "METEOR_FALLS__Day_Morning_": {
         "name": "METEOR FALLS (Day/Morning)",
         "encounters": [
             {
@@ -77584,7 +77584,7 @@
             }
         ]
     },
-    "Giant_Chasm_(Day/Morning)": {
+    "Giant_Chasm__Day_Morning_": {
         "name": "Giant Chasm (Day/Morning)",
         "encounters": [
             {
@@ -77599,7 +77599,7 @@
             }
         ]
     },
-    "Route_225_(Night)": {
+    "Route_225__Night_": {
         "name": "Route 225 (Night)",
         "encounters": [
             {
@@ -77614,7 +77614,7 @@
             }
         ]
     },
-    "Route_226_(Night)": {
+    "Route_226__Night_": {
         "name": "Route 226 (Night)",
         "encounters": [
             {
@@ -77639,7 +77639,7 @@
             }
         ]
     },
-    "SHOAL_CAVE_(Night/SEASON1)": {
+    "SHOAL_CAVE__Night_SEASON1_": {
         "name": "SHOAL CAVE (Night/SEASON1)",
         "encounters": [
             {
@@ -77664,7 +77664,7 @@
             }
         ]
     },
-    "Lake_Acuity_(Night)": {
+    "Lake_Acuity__Night_": {
         "name": "Lake Acuity (Night)",
         "encounters": [
             {
@@ -77679,7 +77679,7 @@
             }
         ]
     },
-    "Great_Marsh_(Day/Morning)": {
+    "Great_Marsh__Day_Morning_": {
         "name": "Great Marsh (Day/Morning)",
         "encounters": [
             {
@@ -77789,7 +77789,7 @@
             }
         ]
     },
-    "Route_215_(Day/Morning)": {
+    "Route_215__Day_Morning_": {
         "name": "Route 215 (Day/Morning)",
         "encounters": [
             {
@@ -77804,7 +77804,7 @@
             }
         ]
     },
-    "Valor_Lakefront_(Day/Morning/SEASON0)": {
+    "Valor_Lakefront__Day_Morning_SEASON0_": {
         "name": "Valor Lakefront (Day/Morning/SEASON0)",
         "encounters": [
             {
@@ -77819,7 +77819,7 @@
             }
         ]
     },
-    "Valor_Lakefront_(Day/Morning/SEASON1)": {
+    "Valor_Lakefront__Day_Morning_SEASON1_": {
         "name": "Valor Lakefront (Day/Morning/SEASON1)",
         "encounters": [
             {
@@ -77834,7 +77834,7 @@
             }
         ]
     },
-    "Valor_Lakefront_(Day/Morning/SEASON2)": {
+    "Valor_Lakefront__Day_Morning_SEASON2_": {
         "name": "Valor Lakefront (Day/Morning/SEASON2)",
         "encounters": [
             {
@@ -77849,7 +77849,7 @@
             }
         ]
     },
-    "Village_Bridge_(Night)": {
+    "Village_Bridge__Night_": {
         "name": "Village Bridge (Night)",
         "encounters": [
             {
@@ -77864,7 +77864,7 @@
             }
         ]
     },
-    "Valor_Lakefront_(Day/Morning/SEASON3)": {
+    "Valor_Lakefront__Day_Morning_SEASON3_": {
         "name": "Valor Lakefront (Day/Morning/SEASON3)",
         "encounters": [
             {
@@ -77879,7 +77879,7 @@
             }
         ]
     },
-    "Eterna_Forest_(Night/Morning)": {
+    "Eterna_Forest__Night_Morning_": {
         "name": "Eterna Forest (Night/Morning)",
         "encounters": [
             {
@@ -77894,7 +77894,7 @@
             }
         ]
     },
-    "Route_201_(Night/Morning)": {
+    "Route_201__Night_Morning_": {
         "name": "Route 201 (Night/Morning)",
         "encounters": [
             {
@@ -77909,7 +77909,7 @@
             }
         ]
     },
-    "Route_202_(Night/Morning)": {
+    "Route_202__Night_Morning_": {
         "name": "Route 202 (Night/Morning)",
         "encounters": [
             {
@@ -77924,7 +77924,7 @@
             }
         ]
     },
-    "Route_203_(Night/Morning)": {
+    "Route_203__Night_Morning_": {
         "name": "Route 203 (Night/Morning)",
         "encounters": [
             {
@@ -77939,7 +77939,7 @@
             }
         ]
     },
-    "Route_204_(Night/Morning/SEASON0)": {
+    "Route_204__Night_Morning_SEASON0_": {
         "name": "Route 204 (Night/Morning/SEASON0)",
         "encounters": [
             {
@@ -77954,7 +77954,7 @@
             }
         ]
     },
-    "Route_204_(Night/Morning/SEASON1)": {
+    "Route_204__Night_Morning_SEASON1_": {
         "name": "Route 204 (Night/Morning/SEASON1)",
         "encounters": [
             {
@@ -77969,7 +77969,7 @@
             }
         ]
     },
-    "Route_204_(Night/Morning/SEASON2)": {
+    "Route_204__Night_Morning_SEASON2_": {
         "name": "Route 204 (Night/Morning/SEASON2)",
         "encounters": [
             {
@@ -77984,7 +77984,7 @@
             }
         ]
     },
-    "Route_204_(Night/Morning/SEASON3)": {
+    "Route_204__Night_Morning_SEASON3_": {
         "name": "Route 204 (Night/Morning/SEASON3)",
         "encounters": [
             {
@@ -77999,7 +77999,7 @@
             }
         ]
     },
-    "Route_205_(Night/Morning)": {
+    "Route_205__Night_Morning_": {
         "name": "Route 205 (Night/Morning)",
         "encounters": [
             {
@@ -78014,7 +78014,7 @@
             }
         ]
     },
-    "Route_206_(Night/Morning)": {
+    "Route_206__Night_Morning_": {
         "name": "Route 206 (Night/Morning)",
         "encounters": [
             {
@@ -78039,7 +78039,7 @@
             }
         ]
     },
-    "Route_207_(Night/Morning)": {
+    "Route_207__Night_Morning_": {
         "name": "Route 207 (Night/Morning)",
         "encounters": [
             {
@@ -78054,7 +78054,7 @@
             }
         ]
     },
-    "Dreamyard_(Night/Morning)": {
+    "Dreamyard__Night_Morning_": {
         "name": "Dreamyard (Night/Morning)",
         "encounters": [
             {
@@ -78079,7 +78079,7 @@
             }
         ]
     },
-    "Route_212_(Night)": {
+    "Route_212__Night_": {
         "name": "Route 212 (Night)",
         "encounters": [
             {
@@ -78094,7 +78094,7 @@
             }
         ]
     },
-    "Eterna_Forest_(Day/Morning)": {
+    "Eterna_Forest__Day_Morning_": {
         "name": "Eterna Forest (Day/Morning)",
         "encounters": [
             {
@@ -78109,7 +78109,7 @@
             }
         ]
     },
-    "Route_208_(Day/Morning)": {
+    "Route_208__Day_Morning_": {
         "name": "Route 208 (Day/Morning)",
         "encounters": [
             {
@@ -78124,7 +78124,7 @@
             }
         ]
     },
-    "Route_213_(Night)": {
+    "Route_213__Night_": {
         "name": "Route 213 (Night)",
         "encounters": [
             {
@@ -78139,7 +78139,7 @@
             }
         ]
     },
-    "Route_213_(Day/Morning)": {
+    "Route_213__Day_Morning_": {
         "name": "Route 213 (Day/Morning)",
         "encounters": [
             {
@@ -78164,7 +78164,7 @@
             }
         ]
     },
-    "Route_218_(Day/Morning)": {
+    "Route_218__Day_Morning_": {
         "name": "Route 218 (Day/Morning)",
         "encounters": [
             {
@@ -78294,7 +78294,7 @@
             }
         ]
     },
-    "Acuity_Lakefront_(Day/Morning)": {
+    "Acuity_Lakefront__Day_Morning_": {
         "name": "Acuity Lakefront (Day/Morning)",
         "encounters": [
             {
@@ -78309,7 +78309,7 @@
             }
         ]
     },
-    "Route_3_(Night)": {
+    "Route_3__Night_": {
         "name": "Route 3 (Night)",
         "encounters": [
             {
@@ -78334,7 +78334,7 @@
             }
         ]
     },
-    "Pinwheel_Forest_(Day/Morning)": {
+    "Pinwheel_Forest__Day_Morning_": {
         "name": "Pinwheel Forest (Day/Morning)",
         "encounters": [
             {
@@ -78379,7 +78379,7 @@
             }
         ]
     },
-    "Route_3_(Day/Morning)": {
+    "Route_3__Day_Morning_": {
         "name": "Route 3 (Day/Morning)",
         "encounters": [
             {
@@ -78509,7 +78509,7 @@
             }
         ]
     },
-    "Route_18_(Day/Morning)": {
+    "Route_18__Day_Morning_": {
         "name": "Route 18 (Day/Morning)",
         "encounters": [
             {
@@ -78534,7 +78534,7 @@
             }
         ]
     },
-    "Pinwheel_Forest_(Night)": {
+    "Pinwheel_Forest__Night_": {
         "name": "Pinwheel Forest (Night)",
         "encounters": [
             {
@@ -78559,7 +78559,7 @@
             }
         ]
     },
-    "Lostlorn_Forest_(Day/Morning)": {
+    "Lostlorn_Forest__Day_Morning_": {
         "name": "Lostlorn Forest (Day/Morning)",
         "encounters": [
             {
@@ -78584,7 +78584,7 @@
             }
         ]
     },
-    "Desert_Resort_(Night)": {
+    "Desert_Resort__Night_": {
         "name": "Desert Resort (Night)",
         "encounters": [
             {
