@@ -15,6 +15,9 @@ It is very important that data in this project be as accurate as possible. If yo
 - `egg-moves-data.json`: This file contains the data for egg move breeding chains.
 - `item-data.json`: This file contains the data for all of the Items.
 - `pokemon-sprites.json`: This file contains the sprite data from PokeAPI.
+- `location-data.json`: This file contains data for locations and the Pokemon found there.
+- `pvp-data.json`: This file contains the PVP tiers and the Pokemon in them.
+- `types-data.json`: This file contains the Types and the Pokemon that have those Types.
 
 # Credits
 Credits can be found in [CREDITS.md](https://github.com/PokeVengers/PokeMMO-Data/blob/main/CREDITS.md)
