@@ -3641,6 +3641,10 @@
             "id": 487
         },
         {
+            "name": "giratina-origin",
+            "id": 10007
+        },
+        {
             "name": "yamask",
             "id": 562
         },
@@ -3753,6 +3757,10 @@
         {
             "name": "giratina-altered",
             "id": 487
+        },
+        {
+            "name": "giratina-origin",
+            "id": 10007
         },
         {
             "name": "axew",
