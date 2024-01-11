@@ -18,6 +18,7 @@ It is very important that data in this project be as accurate as possible. If yo
 - `location-data.json`: This file contains data for locations and the Pokemon found there.
 - `pvp-data.json`: This file contains the PVP tiers and the Pokemon in them.
 - `types-data.json`: This file contains the Types and the Pokemon that have those Types.
+- `obtainable-data.json`: This file contains lists of the obtainable and unobtainable Pokemon.
 
 # Credits
 Credits can be found in [CREDITS.md](https://github.com/PokeVengers/PokeMMO-Data/blob/main/CREDITS.md)
