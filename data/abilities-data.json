@@ -7665,36 +7665,6 @@
             }
         ]
     },
-    "slush-rush": {
-        "id": 202,
-        "name": "snow-plow",
-        "effect": "During Hail, this Pokémon has double Speed.",
-        "pokemon_with_ability": [
-            {
-                "name": "cubchoo",
-                "id": 613
-            },
-            {
-                "name": "beartic",
-                "id": 614
-            }
-        ]
-    },
-    "neutralizing-gas": {
-        "id": 256,
-        "name": "reactive-gas",
-        "effect": null,
-        "pokemon_with_ability": [
-            {
-                "name": "koffing",
-                "id": 109
-            },
-            {
-                "name": "weezing",
-                "id": 110
-            }
-        ]
-    },
     "wind-rider": {
         "id": 274,
         "name": "wind-rider",
@@ -7714,6 +7684,36 @@
             {
                 "name": "gallade",
                 "id": 475
+            }
+        ]
+    },
+    "reactive-gas": {
+        "id": 256,
+        "name": "reactive-gas",
+        "effect": null,
+        "pokemon_with_ability": [
+            {
+                "name": "koffing",
+                "id": 109
+            },
+            {
+                "name": "weezing",
+                "id": 110
+            }
+        ]
+    },
+    "snow-plow": {
+        "id": 202,
+        "name": "snow-plow",
+        "effect": "During Hail, this Pokémon has double Speed.",
+        "pokemon_with_ability": [
+            {
+                "name": "cubchoo",
+                "id": 613
+            },
+            {
+                "name": "beartic",
+                "id": 614
             }
         ]
     }

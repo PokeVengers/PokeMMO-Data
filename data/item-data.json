@@ -6265,14 +6265,6 @@
         "effect": "Switches Tornadus, Thundurus, and Landorus between Incarnate and Therian Forme.",
         "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png"
     },
-    "assault-vest": {
-        "id": 683,
-        "name": "assault-gear",
-        "attributes": [],
-        "category": "held-items",
-        "effect": "Raises the holder's Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
-        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-gear.png"
-    },
     "ability-capsule": {
         "id": 685,
         "name": "ability-capsule",
@@ -6320,5 +6312,13 @@
         "category": "vitamins",
         "effect": null,
         "sprite": null
+    },
+    "assault-gear": {
+        "id": 683,
+        "name": "assault-gear",
+        "attributes": [],
+        "category": "held-items",
+        "effect": "Raises the holder's Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-gear.png"
     }
 }
