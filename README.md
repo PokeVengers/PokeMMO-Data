@@ -12,13 +12,15 @@ It is very important that data in this project be as accurate as possible. If yo
 - `moves-data.json`: This file contains the data for all of the moves.
 - `egg-groups-data.json`: This file contains the data for all of the egg groups.
 - `abilities-data.json`: This file contains the data for all of the Abilities.
-- `egg-moves-data.json`: This file contains the data for egg move breeding chains.
-- `item-data.json`: This file contains the data for all of the Items.
+- **egg-moves-data.json**: This file contains the data for egg move breeding chains. (In Progress)
+- **item-data.json**: This file contains the data for all of the Items. (In Progress)
 - `pokemon-sprites.json`: This file contains the sprite data from PokeAPI.
 - `location-data.json`: This file contains data for locations and the Pokemon found there.
 - `pvp-data.json`: This file contains the PVP tiers and the Pokemon in them.
 - `types-data.json`: This file contains the Types and the Pokemon that have those Types.
 - `obtainable-data.json`: This file contains lists of the obtainable and unobtainable Pokemon.
+
+**Note:** Files marked with **bold** are still a work in progress and their data may not be accurate.
 
 # Credits
 Credits can be found in [CREDITS.md](https://github.com/PokeVengers/PokeMMO-Data/blob/main/CREDITS.md)
