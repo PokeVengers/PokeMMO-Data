@@ -5146,6 +5146,46 @@
                 "rarity": "Rare"
             },
             {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
                 "pokemon": "grimer",
                 "pokemon_id": 88,
                 "type": "Cave",
@@ -5364,6 +5404,16 @@
                 "min_level": 40,
                 "max_level": 40,
                 "rarity": "Common"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "tauros",
@@ -6758,6 +6808,16 @@
                 "min_level": 30,
                 "max_level": 32,
                 "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 35,
+                "max_level": 35,
+                "rarity": "Lure"
             },
             {
                 "pokemon": "magikarp",
@@ -9090,6 +9150,16 @@
                 "rarity": "Uncommon"
             },
             {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 12,
+                "max_level": 15,
+                "rarity": "Rare"
+            },
+            {
                 "pokemon": "magikarp",
                 "pokemon_id": 129,
                 "type": "Old Rod",
@@ -9570,6 +9640,16 @@
                 "min_level": 20,
                 "max_level": 22,
                 "rarity": "Horde"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Rare"
             }
         ]
     },
@@ -10644,6 +10724,16 @@
                 "rarity": "Uncommon"
             },
             {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 30,
+                "max_level": 32,
+                "rarity": "Rare"
+            },
+            {
                 "pokemon": "magikarp",
                 "pokemon_id": 129,
                 "type": "Old Rod",
@@ -10702,6 +10792,16 @@
                 "min_level": 27,
                 "max_level": 40,
                 "rarity": "Rare"
+            },
+            {
+                "pokemon": "mime-jr",
+                "pokemon_id": 439,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 33,
+                "max_level": 33,
+                "rarity": "Lure"
             }
         ]
     },
@@ -13028,6 +13128,16 @@
                 "min_level": 28,
                 "max_level": 31,
                 "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
             }
         ]
     },
@@ -13048,6 +13158,16 @@
             {
                 "pokemon": "spearow",
                 "pokemon_id": 21,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Cave",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -13080,6 +13200,16 @@
                 "min_level": 28,
                 "max_level": 31,
                 "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
             }
         ]
     },
@@ -13100,6 +13230,16 @@
             {
                 "pokemon": "spearow",
                 "pokemon_id": 21,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Cave",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -13584,6 +13724,16 @@
                 "min_level": 19,
                 "max_level": 20,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 20,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -13594,6 +13744,16 @@
             {
                 "pokemon": "pidgeotto",
                 "pokemon_id": 17,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 20,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Grass",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -13616,6 +13776,16 @@
                 "min_level": 19,
                 "max_level": 20,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 20,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -13626,6 +13796,16 @@
             {
                 "pokemon": "pidgeotto",
                 "pokemon_id": 17,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 20,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Grass",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -13860,6 +14040,16 @@
                 "min_level": 19,
                 "max_level": 21,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 21,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -13870,6 +14060,16 @@
             {
                 "pokemon": "pidgeotto",
                 "pokemon_id": 17,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 21,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Grass",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -13892,6 +14092,16 @@
                 "min_level": 19,
                 "max_level": 21,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 21,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -13902,6 +14112,16 @@
             {
                 "pokemon": "pidgeotto",
                 "pokemon_id": 17,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 19,
+                "max_level": 21,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
                 "type": "Grass",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -14120,6 +14340,16 @@
                 "min_level": 26,
                 "max_level": 28,
                 "rarity": "Common"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -14136,6 +14366,16 @@
                 "min_level": 26,
                 "max_level": 28,
                 "rarity": "Common"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -14152,6 +14392,16 @@
                 "min_level": 26,
                 "max_level": 28,
                 "rarity": "Common"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -14168,6 +14418,16 @@
                 "min_level": 26,
                 "max_level": 28,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Rare"
             }
         ]
     },
@@ -28776,6 +29036,16 @@
                 "min_level": 27,
                 "max_level": 30,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 29,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -28791,6 +29061,16 @@
                 "region_name": "Johto",
                 "min_level": 27,
                 "max_level": 30,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 29,
                 "rarity": "Uncommon"
             }
         ]
@@ -28808,6 +29088,16 @@
                 "min_level": 27,
                 "max_level": 30,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 29,
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -28823,6 +29113,16 @@
                 "region_name": "Johto",
                 "min_level": 27,
                 "max_level": 30,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 26,
+                "max_level": 29,
                 "rarity": "Rare"
             }
         ]
@@ -41064,6 +41364,16 @@
                 "min_level": 33,
                 "max_level": 55,
                 "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 17,
+                "max_level": 19,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "magikarp",
@@ -55592,6 +55902,16 @@
                 "rarity": "Common"
             },
             {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 19,
+                "max_level": 20,
+                "rarity": "Rare"
+            },
+            {
                 "pokemon": "scyther",
                 "pokemon_id": 123,
                 "type": "Grass",
@@ -60322,6 +60642,16 @@
                 "min_level": 22,
                 "max_level": 23,
                 "rarity": "Horde"
+            },
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 26,
+                "max_level": 28,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "hoppip",
@@ -66158,6 +66488,16 @@
                 "rarity": "Rare"
             },
             {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 29,
+                "max_level": 31,
+                "rarity": "Uncommon"
+            },
+            {
                 "pokemon": "magikarp",
                 "pokemon_id": 129,
                 "type": "Old Rod",
@@ -67239,6 +67579,16 @@
                 "region_name": "Sinnoh",
                 "min_level": 41,
                 "max_level": 41,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 41,
+                "max_level": 42,
                 "rarity": "Rare"
             },
             {
@@ -70910,6 +71260,70 @@
                 "min_level": 31,
                 "max_level": 31,
                 "rarity": "Lure"
+            }
+        ]
+    },
+    "JOHTO_ROUTE_47_(DAY/MORNING/SEASON0)": {
+        "name": "Route 47 (Day/Morning/SEASON0)",
+        "region": "JOHTO",
+        "encounters": [
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 33,
+                "max_level": 36,
+                "rarity": "Uncommon"
+            }
+        ]
+    },
+    "JOHTO_ROUTE_47_(DAY/MORNING/SEASON1)": {
+        "name": "Route 47 (Day/Morning/SEASON1)",
+        "region": "JOHTO",
+        "encounters": [
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 33,
+                "max_level": 36,
+                "rarity": "Uncommon"
+            }
+        ]
+    },
+    "JOHTO_ROUTE_47_(DAY/MORNING/SEASON2)": {
+        "name": "Route 47 (Day/Morning/SEASON2)",
+        "region": "JOHTO",
+        "encounters": [
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 33,
+                "max_level": 36,
+                "rarity": "Uncommon"
+            }
+        ]
+    },
+    "JOHTO_ROUTE_47_(DAY/MORNING/SEASON3)": {
+        "name": "Route 47 (Day/Morning/SEASON3)",
+        "region": "JOHTO",
+        "encounters": [
+            {
+                "pokemon": "farfetchd",
+                "pokemon_id": 83,
+                "type": "Grass",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 33,
+                "max_level": 36,
+                "rarity": "Rare"
             }
         ]
     },
@@ -78584,6 +78998,16 @@
                 "min_level": 2,
                 "max_level": 4,
                 "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mime-jr",
+                "pokemon_id": 439,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 2,
+                "max_level": 2,
+                "rarity": "Lure"
             }
         ]
     },
