@@ -2542,10 +2542,6 @@
                 "id": 233
             },
             {
-                "name": "shedinja",
-                "id": 292
-            },
-            {
                 "name": "nosepass",
                 "id": 299
             },
@@ -3410,6 +3406,10 @@
             {
                 "name": "genesect",
                 "id": 649
+            },
+            {
+                "name": "shedinja",
+                "id": null
             }
         ]
     }
