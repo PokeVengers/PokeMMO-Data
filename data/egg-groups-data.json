@@ -270,6 +270,14 @@
             {
                 "name": "druddigon",
                 "id": 621
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
             }
         ]
     },
@@ -1770,6 +1778,14 @@
             {
                 "name": "heatmor",
                 "id": 631
+            },
+            {
+                "name": "nidorina",
+                "id": 30
+            },
+            {
+                "name": "nidoqueen",
+                "id": 31
             }
         ]
     },
@@ -3140,14 +3156,6 @@
         "name": "cannot-breed",
         "pokemon_species": [
             {
-                "name": "nidorina",
-                "id": 30
-            },
-            {
-                "name": "nidoqueen",
-                "id": 31
-            },
-            {
                 "name": "articuno",
                 "id": 144
             },
@@ -3409,7 +3417,7 @@
             },
             {
                 "name": "shedinja",
-                "id": null
+                "id": 292
             }
         ]
     }
