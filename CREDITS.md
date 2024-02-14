@@ -8,3 +8,5 @@
 
 **PokeMMO:** [PokeMMO](https://pokemmo.com/) Credit to PokeMMO since their client has the ability to dump/export location and learnable moves data.
 > Settings -> Utilities -> Dump Moddable Resources -> Pokedex Data
+
+**Monster Egg Move Breeding Chain:** This [thread](https://forums.pokemmo.com/index.php?/topic/149858-monster-egg-move-breeding-chain/) is being used for the time being while we work on calculating the Egg Move Breeding chains.
