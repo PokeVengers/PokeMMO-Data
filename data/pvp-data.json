@@ -313,6 +313,10 @@
             "id": 98
         },
         {
+            "name": "kingler",
+            "id": 99
+        },
+        {
             "name": "voltorb",
             "id": 100
         },
@@ -1157,22 +1161,6 @@
             "id": 375
         },
         {
-            "name": "deoxys-normal",
-            "id": 386
-        },
-        {
-            "name": "deoxys-attack",
-            "id": 10001
-        },
-        {
-            "name": "deoxys-defense",
-            "id": 10002
-        },
-        {
-            "name": "deoxys-speed",
-            "id": 10003
-        },
-        {
             "name": "turtwig",
             "id": 387
         },
@@ -1437,30 +1425,6 @@
             "id": 477
         },
         {
-            "name": "rotom-heat",
-            "id": 10008
-        },
-        {
-            "name": "rotom-wash",
-            "id": 10009
-        },
-        {
-            "name": "rotom-frost",
-            "id": 10010
-        },
-        {
-            "name": "rotom-fan",
-            "id": 10011
-        },
-        {
-            "name": "rotom-mow",
-            "id": 10012
-        },
-        {
-            "name": "giratina-altered",
-            "id": 487
-        },
-        {
             "name": "snivy",
             "id": 495
         },
@@ -1671,14 +1635,6 @@
         {
             "name": "darumaka",
             "id": 554
-        },
-        {
-            "name": "darmanitan-standard",
-            "id": 555
-        },
-        {
-            "name": "darmanitan-zen",
-            "id": 10017
         },
         {
             "name": "maractus",
@@ -1915,54 +1871,6 @@
         {
             "name": "larvesta",
             "id": 636
-        },
-        {
-            "name": "tornadus-incarnate",
-            "id": 641
-        },
-        {
-            "name": "tornadus-therian",
-            "id": 10019
-        },
-        {
-            "name": "thundurus-incarnate",
-            "id": 642
-        },
-        {
-            "name": "thundurus-therian",
-            "id": 10020
-        },
-        {
-            "name": "landorus-incarnate",
-            "id": 645
-        },
-        {
-            "name": "landorus-therian",
-            "id": 10021
-        },
-        {
-            "name": "kyurem-black",
-            "id": 10022
-        },
-        {
-            "name": "kyurem-white",
-            "id": 10023
-        },
-        {
-            "name": "keldeo-ordinary",
-            "id": 647
-        },
-        {
-            "name": "keldeo-resolute",
-            "id": 10024
-        },
-        {
-            "name": "meloetta-aria",
-            "id": 648
-        },
-        {
-            "name": "meloetta-pirouette",
-            "id": 10018
         }
     ],
     "UU": [
@@ -2025,6 +1933,10 @@
         {
             "name": "snorlax",
             "id": 143
+        },
+        {
+            "name": "moltres",
+            "id": 146
         },
         {
             "name": "feraligatr",
@@ -2147,6 +2059,30 @@
             "id": 474
         },
         {
+            "name": "rotom",
+            "id": 479
+        },
+        {
+            "name": "rotom-heat",
+            "id": 10008
+        },
+        {
+            "name": "rotom-wash",
+            "id": 10009
+        },
+        {
+            "name": "rotom-frost",
+            "id": 10010
+        },
+        {
+            "name": "rotom-fan",
+            "id": 10011
+        },
+        {
+            "name": "rotom-mow",
+            "id": 10012
+        },
+        {
             "name": "gigalith",
             "id": 526
         },
@@ -2203,10 +2139,6 @@
         {
             "name": "slowbro",
             "id": 80
-        },
-        {
-            "name": "kingler",
-            "id": 99
         },
         {
             "name": "hitmonchan",
@@ -2315,10 +2247,6 @@
         {
             "name": "froslass",
             "id": 478
-        },
-        {
-            "name": "rotom",
-            "id": 479
         },
         {
             "name": "stoutland",
@@ -2511,6 +2439,14 @@
             "id": 534
         },
         {
+            "name": "darmanitan-standard",
+            "id": 555
+        },
+        {
+            "name": "darmanitan-zen",
+            "id": 10017
+        },
+        {
             "name": "cofagrigus",
             "id": 563
         },
@@ -2552,10 +2488,6 @@
         }
     ],
     "UB": [
-        {
-            "name": "moltres",
-            "id": 146
-        },
         {
             "name": "mewtwo",
             "id": 150
@@ -2613,6 +2545,22 @@
             "id": 385
         },
         {
+            "name": "deoxys-normal",
+            "id": 386
+        },
+        {
+            "name": "deoxys-attack",
+            "id": 10001
+        },
+        {
+            "name": "deoxys-defense",
+            "id": 10002
+        },
+        {
+            "name": "deoxys-speed",
+            "id": 10003
+        },
+        {
             "name": "uxie",
             "id": 480
         },
@@ -2639,6 +2587,14 @@
         {
             "name": "regigigas",
             "id": 486
+        },
+        {
+            "name": "giratina-altered",
+            "id": 487
+        },
+        {
+            "name": "giratina-origin",
+            "id": 10007
         },
         {
             "name": "cresselia",
@@ -2681,6 +2637,22 @@
             "id": 640
         },
         {
+            "name": "tornadus-incarnate",
+            "id": 641
+        },
+        {
+            "name": "tornadus-therian",
+            "id": 10019
+        },
+        {
+            "name": "thundurus-incarnate",
+            "id": 642
+        },
+        {
+            "name": "thundurus-therian",
+            "id": 10020
+        },
+        {
             "name": "reshiram",
             "id": 643
         },
@@ -2689,8 +2661,40 @@
             "id": 644
         },
         {
+            "name": "landorus-incarnate",
+            "id": 645
+        },
+        {
+            "name": "landorus-therian",
+            "id": 10021
+        },
+        {
             "name": "kyurem",
             "id": 646
+        },
+        {
+            "name": "kyurem-black",
+            "id": 10022
+        },
+        {
+            "name": "kyurem-white",
+            "id": 10023
+        },
+        {
+            "name": "keldeo-ordinary",
+            "id": 647
+        },
+        {
+            "name": "keldeo-resolute",
+            "id": 10024
+        },
+        {
+            "name": "meloetta-aria",
+            "id": 648
+        },
+        {
+            "name": "meloetta-pirouette",
+            "id": 10018
         },
         {
             "name": "genesect",
