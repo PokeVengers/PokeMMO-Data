@@ -1613,6 +1613,18 @@
             "id": 412
         },
         {
+            "name": "wormadam-plant",
+            "id": 413
+        },
+        {
+            "name": "wormadam-sandy",
+            "id": 10004
+        },
+        {
+            "name": "wormadam-trash",
+            "id": 10005
+        },
+        {
             "name": "mothim",
             "id": 414
         },
@@ -2549,18 +2561,6 @@
         {
             "name": "deoxys-speed",
             "id": 10003
-        },
-        {
-            "name": "wormadam-plant",
-            "id": 413
-        },
-        {
-            "name": "wormadam-sandy",
-            "id": 10004
-        },
-        {
-            "name": "wormadam-trash",
-            "id": 10005
         },
         {
             "name": "uxie",
