@@ -3449,7 +3449,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pansage",
@@ -3459,7 +3459,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "simisage",
@@ -3479,7 +3479,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pansear",
@@ -3489,7 +3489,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "simisear",
@@ -3509,7 +3509,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "panpour",
@@ -3519,7 +3519,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "simipour",
@@ -3539,7 +3539,7 @@
                 "region_name": "Unova",
                 "min_level": 12,
                 "max_level": 16,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "pidove",
@@ -3549,7 +3549,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 15,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "tranquill",
@@ -3559,7 +3559,7 @@
                 "region_name": "Unova",
                 "min_level": 23,
                 "max_level": 24,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "roggenrola",
@@ -3589,7 +3589,7 @@
                 "region_name": "Unova",
                 "min_level": 13,
                 "max_level": 14,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "timburr",
@@ -3609,7 +3609,7 @@
                 "region_name": "Unova",
                 "min_level": 15,
                 "max_level": 16,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "tympole",
@@ -3629,7 +3629,7 @@
                 "region_name": "Unova",
                 "min_level": 12,
                 "max_level": 15,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "tympole",
@@ -3649,7 +3649,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "throh",
@@ -3659,7 +3659,7 @@
                 "region_name": "Unova",
                 "min_level": 12,
                 "max_level": 15,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "throh",
@@ -3669,7 +3669,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "throh",
@@ -3689,7 +3689,7 @@
                 "region_name": "Unova",
                 "min_level": 12,
                 "max_level": 15,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "sawk",
@@ -3699,7 +3699,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "sawk",
@@ -3719,7 +3719,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "swadloon",
@@ -3729,7 +3729,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "venipede",
@@ -3739,7 +3739,7 @@
                 "region_name": "Unova",
                 "min_level": 15,
                 "max_level": 16,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "whirlipede",
@@ -3749,7 +3749,7 @@
                 "region_name": "Unova",
                 "min_level": 23,
                 "max_level": 24,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "cottonee",
@@ -3759,7 +3759,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "cottonee",
@@ -3769,7 +3769,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "whimsicott",
@@ -3789,7 +3789,7 @@
                 "region_name": "Unova",
                 "min_level": 14,
                 "max_level": 17,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "petilil",
@@ -3799,7 +3799,7 @@
                 "region_name": "Unova",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "lilligant",
@@ -4643,37 +4643,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "butterfree",
-                "pokemon_id": 12,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "butterfree",
-                "pokemon_id": 12,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "butterfree",
-                "pokemon_id": 12,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "beedrill",
@@ -4683,37 +4653,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "beedrill",
-                "pokemon_id": 15,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "beedrill",
-                "pokemon_id": 15,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "beedrill",
-                "pokemon_id": 15,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pidgeotto",
@@ -4723,7 +4663,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pidgeotto",
@@ -4733,7 +4673,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pidgeotto",
@@ -4743,7 +4683,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pidgeotto",
@@ -4753,7 +4693,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "rattata",
@@ -4763,7 +4703,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "raticate",
@@ -4773,7 +4713,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "fearow",
@@ -4783,7 +4723,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "fearow",
@@ -4793,7 +4733,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "fearow",
@@ -4803,7 +4743,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "fearow",
@@ -4813,7 +4753,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "ekans",
@@ -4913,7 +4853,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "venonat",
@@ -4963,7 +4903,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "poliwag",
@@ -4973,7 +4913,7 @@
                 "region_name": "Johto",
                 "min_level": 10,
                 "max_level": 10,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "poliwag",
@@ -4993,7 +4933,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "poliwhirl",
@@ -5003,7 +4943,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "poliwhirl",
@@ -5013,7 +4953,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 20,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "poliwhirl",
@@ -5033,7 +4973,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Common"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "machop",
@@ -5043,7 +4983,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "machoke",
@@ -5053,7 +4993,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "bellsprout",
@@ -5133,7 +5073,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "magneton",
@@ -5143,7 +5083,7 @@
                 "region_name": "Johto",
                 "min_level": 30,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "farfetchd",
@@ -5153,7 +5093,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "farfetchd",
@@ -5163,7 +5103,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "farfetchd",
@@ -5173,7 +5113,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "farfetchd",
@@ -5203,7 +5143,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "onix",
@@ -5213,7 +5153,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "drowzee",
@@ -5223,7 +5163,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "hypno",
@@ -5233,7 +5173,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "krabby",
@@ -5263,7 +5203,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 20,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "kingler",
@@ -5273,7 +5213,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "exeggcute",
@@ -5283,7 +5223,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "cubone",
@@ -5313,7 +5253,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "koffing",
@@ -5323,7 +5263,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "rhyhorn",
@@ -5343,7 +5283,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "goldeen",
@@ -5353,7 +5293,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "goldeen",
@@ -5373,7 +5313,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 20,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "goldeen",
@@ -5383,7 +5323,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "seaking",
@@ -5393,7 +5333,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 20,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "seaking",
@@ -5403,7 +5343,37 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "mr-mime",
+                "pokemon_id": 122,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "mr-mime",
@@ -5463,7 +5433,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "lapras",
@@ -5473,37 +5443,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "ditto",
-                "pokemon_id": 132,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Very Rare"
-            },
-            {
-                "pokemon": "ditto",
-                "pokemon_id": 132,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Very Rare"
-            },
-            {
-                "pokemon": "ditto",
-                "pokemon_id": 132,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "ditto",
@@ -5523,7 +5463,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "dragonair",
@@ -5563,7 +5503,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "natu",
@@ -5573,7 +5513,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "natu",
@@ -5583,22 +5523,12 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "natu",
                 "pokemon_id": 177,
                 "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "marill",
-                "pokemon_id": 183,
-                "type": "Cave",
                 "region_id": 4,
                 "region_name": "Johto",
                 "min_level": 28,
@@ -5608,7 +5538,27 @@
             {
                 "pokemon": "marill",
                 "pokemon_id": 183,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "marill",
+                "pokemon_id": 183,
                 "type": "Water",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "aipom",
+                "pokemon_id": 190,
+                "type": "Headbutt",
                 "region_id": 4,
                 "region_name": "Johto",
                 "min_level": 28,
@@ -5623,7 +5573,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "aipom",
@@ -5633,7 +5583,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "aipom",
@@ -5643,17 +5593,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
-            },
-            {
-                "pokemon": "aipom",
-                "pokemon_id": 190,
-                "type": "Headbutt",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "wooper",
@@ -5663,7 +5603,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "quagsire",
@@ -5683,7 +5623,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "girafarig",
@@ -5693,7 +5633,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Common"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "pineco",
@@ -5703,11 +5643,51 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "heracross",
                 "pokemon_id": 214,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "heracross",
+                "pokemon_id": 214,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "heracross",
+                "pokemon_id": 214,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "heracross",
+                "pokemon_id": 214,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "skarmory",
+                "pokemon_id": 227,
                 "type": "Headbutt",
                 "region_id": 4,
                 "region_name": "Johto",
@@ -5723,7 +5703,27 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "skarmory",
+                "pokemon_id": 227,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "skarmory",
+                "pokemon_id": 227,
+                "type": "Headbutt",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Common"
             },
             {
                 "pokemon": "stantler",
@@ -5733,7 +5733,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "smeargle",
@@ -5743,7 +5743,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "larvitar",
@@ -5753,7 +5753,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Very Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "munchlax",
@@ -5763,7 +5763,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -13127,6 +13127,16 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "fearow",
+                "pokemon_id": 22,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
                 "rarity": "Rare"
             },
             {
@@ -13137,7 +13147,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -13163,6 +13173,16 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "fearow",
+                "pokemon_id": 22,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
                 "rarity": "Rare"
             },
             {
@@ -13173,7 +13193,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -13199,6 +13219,16 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "fearow",
+                "pokemon_id": 22,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
                 "rarity": "Rare"
             },
             {
@@ -13209,7 +13239,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -13236,6 +13266,16 @@
                 "min_level": 28,
                 "max_level": 31,
                 "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "fearow",
+                "pokemon_id": 22,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "farfetchd",
@@ -15501,7 +15541,7 @@
                 "region_name": "Kanto",
                 "min_level": 32,
                 "max_level": 38,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "vulpix",
@@ -15541,7 +15581,7 @@
                 "region_name": "Kanto",
                 "min_level": 30,
                 "max_level": 32,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "grimer",
@@ -18463,7 +18503,7 @@
                 "region_name": "Johto",
                 "min_level": 19,
                 "max_level": 22,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "raticate",
@@ -18503,7 +18543,7 @@
                 "region_name": "Johto",
                 "min_level": 19,
                 "max_level": 36,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "machop",
@@ -18523,7 +18563,7 @@
                 "region_name": "Johto",
                 "min_level": 19,
                 "max_level": 35,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "machoke",
@@ -18573,7 +18613,7 @@
                 "region_name": "Johto",
                 "min_level": 33,
                 "max_level": 36,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "goldeen",
@@ -19595,7 +19635,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 39,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "golbat",
@@ -19615,7 +19655,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 39,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "geodude",
@@ -19655,7 +19695,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 39,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "slowpoke",
@@ -19675,7 +19715,7 @@
                 "region_name": "Johto",
                 "min_level": 37,
                 "max_level": 39,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "slowbro",
@@ -19831,7 +19871,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "sandshrew",
@@ -19891,7 +19931,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "tentacool",
@@ -19901,7 +19941,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 25,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "geodude",
@@ -19941,7 +19981,7 @@
                 "region_name": "Johto",
                 "min_level": 20,
                 "max_level": 20,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "krabby",
@@ -19951,7 +19991,7 @@
                 "region_name": "Johto",
                 "min_level": 40,
                 "max_level": 40,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "kingler",
@@ -20199,7 +20239,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 50,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "jigglypuff",
@@ -20249,7 +20289,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 47,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "purrloin",
@@ -20279,7 +20319,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 47,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "munna",
@@ -20299,7 +20339,7 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 49,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "musharna",
@@ -22176,22 +22216,22 @@
             {
                 "pokemon": "machop",
                 "pokemon_id": 66,
-                "type": "Grass",
-                "region_id": 0,
-                "region_name": "Kanto",
-                "min_level": 38,
-                "max_level": 40,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "machop",
-                "pokemon_id": 66,
                 "type": "Cave",
                 "region_id": 0,
                 "region_name": "Kanto",
                 "min_level": 38,
                 "max_level": 40,
                 "rarity": "Horde"
+            },
+            {
+                "pokemon": "machop",
+                "pokemon_id": 66,
+                "type": "Grass",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 38,
+                "max_level": 40,
+                "rarity": "Common"
             },
             {
                 "pokemon": "machoke",
@@ -22211,7 +22251,7 @@
                 "region_name": "Kanto",
                 "min_level": 40,
                 "max_level": 48,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "geodude",
@@ -22351,7 +22391,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "magcargo",
@@ -22381,7 +22421,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "magmortar",
@@ -26682,21 +26722,21 @@
             {
                 "pokemon": "pupitar",
                 "pokemon_id": 247,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 43,
-                "max_level": 43,
-                "rarity": "Lure"
-            },
-            {
-                "pokemon": "pupitar",
-                "pokemon_id": 247,
                 "type": "Cave",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 43,
                 "max_level": 45,
+                "rarity": "Lure"
+            },
+            {
+                "pokemon": "pupitar",
+                "pokemon_id": 247,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 43,
+                "max_level": 43,
                 "rarity": "Lure"
             },
             {
@@ -26737,7 +26777,7 @@
                 "region_name": "Unova",
                 "min_level": 37,
                 "max_level": 41,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "boldore",
@@ -26787,7 +26827,7 @@
                 "region_name": "Unova",
                 "min_level": 37,
                 "max_level": 42,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "excadrill",
@@ -26917,7 +26957,7 @@
                 "region_name": "Unova",
                 "min_level": 38,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Rare"
             }
         ]
     },
@@ -27419,7 +27459,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 53,
                 "max_level": 53,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "weezing",
@@ -27474,32 +27514,22 @@
             {
                 "pokemon": "rhyhorn",
                 "pokemon_id": 111,
-                "type": "Grass",
-                "region_id": 3,
-                "region_name": "Sinnoh",
-                "min_level": 52,
-                "max_level": 52,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "rhyhorn",
-                "pokemon_id": 111,
                 "type": "Cave",
                 "region_id": 3,
                 "region_name": "Sinnoh",
                 "min_level": 52,
                 "max_level": 52,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
-                "pokemon": "rhydon",
-                "pokemon_id": 112,
+                "pokemon": "rhyhorn",
+                "pokemon_id": 111,
                 "type": "Grass",
                 "region_id": 3,
                 "region_name": "Sinnoh",
-                "min_level": 54,
-                "max_level": 55,
-                "rarity": "Common"
+                "min_level": 52,
+                "max_level": 52,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "rhydon",
@@ -27510,6 +27540,16 @@
                 "min_level": 54,
                 "max_level": 55,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "rhydon",
+                "pokemon_id": 112,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 54,
+                "max_level": 55,
+                "rarity": "Common"
             },
             {
                 "pokemon": "slugma",
@@ -27634,21 +27674,21 @@
             {
                 "pokemon": "rhyperior",
                 "pokemon_id": 464,
-                "type": "Grass",
-                "region_id": 3,
-                "region_name": "Sinnoh",
-                "min_level": 59,
-                "max_level": 59,
-                "rarity": "Lure"
-            },
-            {
-                "pokemon": "rhyperior",
-                "pokemon_id": 464,
                 "type": "Cave",
                 "region_id": 3,
                 "region_name": "Sinnoh",
                 "min_level": 59,
                 "max_level": 61,
+                "rarity": "Lure"
+            },
+            {
+                "pokemon": "rhyperior",
+                "pokemon_id": 464,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 59,
+                "max_level": 59,
                 "rarity": "Lure"
             }
         ]
@@ -29127,82 +29167,6 @@
             }
         ]
     },
-    "JOHTO_SAFARI_ZONE_(DAY/MORNING)": {
-        "name": "Safari Zone (Day/Morning)",
-        "region": "JOHTO",
-        "encounters": [
-            {
-                "pokemon": "fearow",
-                "pokemon_id": 22,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Very Rare"
-            },
-            {
-                "pokemon": "graveler",
-                "pokemon_id": 75,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "doduo",
-                "pokemon_id": 84,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "magmar",
-                "pokemon_id": 126,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 30,
-                "max_level": 31,
-                "rarity": "Very Rare"
-            },
-            {
-                "pokemon": "sentret",
-                "pokemon_id": 161,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "hoppip",
-                "pokemon_id": 187,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "skiploom",
-                "pokemon_id": 188,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 28,
-                "max_level": 31,
-                "rarity": "Rare"
-            }
-        ]
-    },
     "JOHTO_ROUTE_35_(NIGHT)": {
         "name": "Route 35 (Night)",
         "region": "JOHTO",
@@ -29615,7 +29579,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 46,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "venomoth",
@@ -29625,7 +29589,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 46,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "primeape",
@@ -29665,7 +29629,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "geodude",
@@ -29685,7 +29649,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "onix",
@@ -29695,7 +29659,7 @@
                 "region_name": "Kanto",
                 "min_level": 40,
                 "max_level": 48,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "onix",
@@ -29716,36 +29680,6 @@
                 "min_level": 44,
                 "max_level": 48,
                 "rarity": "Rare"
-            },
-            {
-                "pokemon": "marowak",
-                "pokemon_id": 105,
-                "type": "Cave",
-                "region_id": 0,
-                "region_name": "Kanto",
-                "min_level": 44,
-                "max_level": 48,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "marowak",
-                "pokemon_id": 105,
-                "type": "Cave",
-                "region_id": 0,
-                "region_name": "Kanto",
-                "min_level": 44,
-                "max_level": 48,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "marowak",
-                "pokemon_id": 105,
-                "type": "Cave",
-                "region_id": 0,
-                "region_name": "Kanto",
-                "min_level": 44,
-                "max_level": 48,
-                "rarity": "Uncommon"
             },
             {
                 "pokemon": "marowak",
@@ -29775,7 +29709,37 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 44,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "rhyhorn",
+                "pokemon_id": 111,
+                "type": "Cave",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 42,
+                "max_level": 46,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "rhyhorn",
+                "pokemon_id": 111,
+                "type": "Cave",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 42,
+                "max_level": 46,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "rhyhorn",
+                "pokemon_id": 111,
+                "type": "Cave",
+                "region_id": 0,
+                "region_name": "Kanto",
+                "min_level": 42,
+                "max_level": 46,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "rhyhorn",
@@ -29805,7 +29769,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "ursaring",
@@ -29845,7 +29809,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "ursaring",
@@ -29855,7 +29819,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "ursaring",
@@ -29865,7 +29829,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "ursaring",
@@ -29875,7 +29839,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 46,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "donphan",
@@ -29895,7 +29859,7 @@
                 "region_name": "Kanto",
                 "min_level": 44,
                 "max_level": 48,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "hitmontop",
@@ -29993,7 +29957,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "clefairy",
@@ -30003,7 +29967,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "zubat",
@@ -30013,7 +29977,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "golbat",
@@ -30023,7 +29987,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "oddish",
@@ -30053,7 +30017,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "haunter",
@@ -30063,7 +30027,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "wooper",
@@ -30073,7 +30037,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "quagsire",
@@ -30083,7 +30047,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "murkrow",
@@ -30581,7 +30545,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "raichu",
@@ -30601,7 +30565,7 @@
                 "region_name": "Hoenn",
                 "min_level": 27,
                 "max_level": 29,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "gloom",
@@ -30611,7 +30575,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "psyduck",
@@ -30621,7 +30585,7 @@
                 "region_name": "Hoenn",
                 "min_level": 27,
                 "max_level": 29,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "psyduck",
@@ -30661,7 +30625,7 @@
                 "region_name": "Hoenn",
                 "min_level": 27,
                 "max_level": 30,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "dodrio",
@@ -30671,7 +30635,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "rhyhorn",
@@ -30681,7 +30645,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "goldeen",
@@ -30701,7 +30665,7 @@
                 "region_name": "Hoenn",
                 "min_level": 15,
                 "max_level": 30,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "goldeen",
@@ -30721,7 +30685,7 @@
                 "region_name": "Hoenn",
                 "min_level": 33,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "pinsir",
@@ -30731,7 +30695,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "magikarp",
@@ -30761,7 +30725,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 37,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "ledyba",
@@ -30781,7 +30745,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 37,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "natu",
@@ -30801,7 +30765,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "mareep",
@@ -30811,7 +30775,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 37,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "marill",
@@ -30821,7 +30785,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "azumarill",
@@ -30831,7 +30795,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "aipom",
@@ -30851,7 +30815,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 37,
-                "rarity": "Rare"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "wooper",
@@ -30861,7 +30825,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "quagsire",
@@ -30871,7 +30835,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "wobbuffet",
@@ -30881,7 +30845,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "girafarig",
@@ -30891,7 +30855,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "pineco",
@@ -30911,7 +30875,7 @@
                 "region_name": "Hoenn",
                 "min_level": 37,
                 "max_level": 40,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "snubbull",
@@ -30921,7 +30885,7 @@
                 "region_name": "Hoenn",
                 "min_level": 35,
                 "max_level": 37,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "shuckle",
@@ -30941,7 +30905,7 @@
                 "region_name": "Hoenn",
                 "min_level": 28,
                 "max_level": 30,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "teddiursa",
@@ -30961,7 +30925,7 @@
                 "region_name": "Hoenn",
                 "min_level": 15,
                 "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "remoraid",
@@ -30981,7 +30945,7 @@
                 "region_name": "Hoenn",
                 "min_level": 30,
                 "max_level": 40,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "houndour",
@@ -31021,7 +30985,7 @@
                 "region_name": "Hoenn",
                 "min_level": 36,
                 "max_level": 39,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "miltank",
@@ -31309,7 +31273,7 @@
                 "region_name": "Kanto",
                 "min_level": 7,
                 "max_level": 10,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "clefairy",
@@ -31319,7 +31283,7 @@
                 "region_name": "Kanto",
                 "min_level": 8,
                 "max_level": 12,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "clefable",
@@ -31349,7 +31313,7 @@
                 "region_name": "Kanto",
                 "min_level": 7,
                 "max_level": 11,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "paras",
@@ -31389,7 +31353,7 @@
                 "region_name": "Kanto",
                 "min_level": 7,
                 "max_level": 10,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "onix",
@@ -32061,7 +32025,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 50,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "onix",
@@ -32081,7 +32045,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 49,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "steelix",
@@ -32111,7 +32075,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 50,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "sandile",
@@ -32131,7 +32095,7 @@
                 "region_name": "Unova",
                 "min_level": 19,
                 "max_level": 22,
-                "rarity": "Very Common"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "krokorok",
@@ -32151,7 +32115,7 @@
                 "region_name": "Unova",
                 "min_level": 34,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "dwebble",
@@ -32191,7 +32155,7 @@
                 "region_name": "Unova",
                 "min_level": 19,
                 "max_level": 22,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "cofagrigus",
@@ -32201,7 +32165,7 @@
                 "region_name": "Unova",
                 "min_level": 34,
                 "max_level": 49,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "cofagrigus",
@@ -32221,7 +32185,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 49,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             }
         ]
     },
@@ -32553,7 +32517,7 @@
                 "region_name": "Kanto",
                 "min_level": 24,
                 "max_level": 26,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "parasect",
@@ -32573,7 +32537,7 @@
                 "region_name": "Kanto",
                 "min_level": 24,
                 "max_level": 26,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "venomoth",
@@ -32583,7 +32547,7 @@
                 "region_name": "Kanto",
                 "min_level": 31,
                 "max_level": 31,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "psyduck",
@@ -32673,7 +32637,7 @@
                 "region_name": "Kanto",
                 "min_level": 24,
                 "max_level": 26,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "marowak",
@@ -32713,7 +32677,7 @@
                 "region_name": "Kanto",
                 "min_level": 26,
                 "max_level": 26,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "tangela",
@@ -32773,7 +32737,7 @@
                 "region_name": "Kanto",
                 "min_level": 26,
                 "max_level": 28,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "pinsir",
@@ -32783,7 +32747,7 @@
                 "region_name": "Kanto",
                 "min_level": 26,
                 "max_level": 28,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "tauros",
@@ -33449,7 +33413,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "clefairy",
@@ -33459,7 +33423,7 @@
                 "region_name": "Unova",
                 "min_level": 57,
                 "max_level": 59,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "clefable",
@@ -33529,7 +33493,7 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "golbat",
@@ -33539,7 +33503,7 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 55,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "poliwag",
@@ -33659,7 +33623,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 49,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "tangela",
@@ -33679,7 +33643,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "jynx",
@@ -33699,7 +33663,7 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 55,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "ditto",
@@ -33709,7 +33673,7 @@
                 "region_name": "Unova",
                 "min_level": 58,
                 "max_level": 60,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "crobat",
@@ -33829,7 +33793,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33839,7 +33803,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33849,7 +33813,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33859,7 +33823,7 @@
                 "region_name": "Unova",
                 "min_level": 52,
                 "max_level": 54,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33879,7 +33843,7 @@
                 "region_name": "Unova",
                 "min_level": 57,
                 "max_level": 59,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33889,7 +33853,7 @@
                 "region_name": "Unova",
                 "min_level": 57,
                 "max_level": 59,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33899,7 +33863,7 @@
                 "region_name": "Unova",
                 "min_level": 57,
                 "max_level": 59,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "piloswine",
@@ -33909,7 +33873,7 @@
                 "region_name": "Unova",
                 "min_level": 57,
                 "max_level": 59,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "delibird",
@@ -33939,27 +33903,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 47,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "swellow",
-                "pokemon_id": 277,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 47,
-                "max_level": 47,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "swellow",
-                "pokemon_id": 277,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 47,
-                "max_level": 47,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "swellow",
@@ -33974,32 +33918,22 @@
             {
                 "pokemon": "swellow",
                 "pokemon_id": 277,
-                "type": "Dark Grass",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 52,
-                "max_level": 52,
-                "rarity": "Common"
+                "min_level": 47,
+                "max_level": 47,
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "swellow",
                 "pokemon_id": 277,
-                "type": "Dark Grass",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 52,
-                "max_level": 52,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "swellow",
-                "pokemon_id": 277,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 52,
-                "max_level": 52,
-                "rarity": "Common"
+                "min_level": 47,
+                "max_level": 47,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "swellow",
@@ -34010,6 +33944,36 @@
                 "min_level": 52,
                 "max_level": 52,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "swellow",
+                "pokemon_id": 277,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 52,
+                "max_level": 52,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "swellow",
+                "pokemon_id": 277,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 52,
+                "max_level": 52,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "swellow",
+                "pokemon_id": 277,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 52,
+                "max_level": 52,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "aggron",
@@ -34029,7 +33993,37 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 55,
-                "rarity": "Uncommon"
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
             },
             {
                 "pokemon": "lunatone",
@@ -34079,7 +34073,37 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 60,
-                "rarity": "Uncommon"
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "lunatone",
+                "pokemon_id": 337,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
             },
             {
                 "pokemon": "solrock",
@@ -34089,7 +34113,37 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 55,
-                "rarity": "Uncommon"
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 48,
+                "max_level": 55,
+                "rarity": "Common"
             },
             {
                 "pokemon": "solrock",
@@ -34139,7 +34193,37 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 60,
-                "rarity": "Uncommon"
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "solrock",
+                "pokemon_id": 338,
+                "type": "Dark Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 60,
+                "rarity": "Common"
             },
             {
                 "pokemon": "absol",
@@ -34149,7 +34233,7 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "absol",
@@ -34159,7 +34243,7 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 55,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "walrein",
@@ -34179,7 +34263,7 @@
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 55,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "metang",
@@ -34189,7 +34273,7 @@
                 "region_name": "Unova",
                 "min_level": 59,
                 "max_level": 60,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "metagross",
@@ -34209,7 +34293,7 @@
                 "region_name": "Unova",
                 "min_level": 49,
                 "max_level": 49,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "drifblim",
@@ -34219,7 +34303,7 @@
                 "region_name": "Unova",
                 "min_level": 54,
                 "max_level": 54,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "weavile",
@@ -34244,21 +34328,21 @@
             {
                 "pokemon": "mamoswine",
                 "pokemon_id": 473,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 53,
-                "max_level": 58,
-                "rarity": "Lure"
-            },
-            {
-                "pokemon": "mamoswine",
-                "pokemon_id": 473,
                 "type": "Cave",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 53,
                 "max_level": 53,
+                "rarity": "Lure"
+            },
+            {
+                "pokemon": "mamoswine",
+                "pokemon_id": 473,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 53,
+                "max_level": 58,
                 "rarity": "Lure"
             },
             {
@@ -34661,7 +34745,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 14,
                 "max_level": 19,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "zubat",
@@ -34741,7 +34825,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 16,
                 "max_level": 20,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "machoke",
@@ -34751,7 +34835,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 35,
                 "max_level": 41,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "machoke",
@@ -34811,7 +34895,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 13,
                 "max_level": 19,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "geodude",
@@ -34831,7 +34915,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 16,
                 "max_level": 35,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "graveler",
@@ -34841,7 +34925,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 32,
                 "max_level": 40,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "graveler",
@@ -34921,7 +35005,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 15,
                 "max_level": 25,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "dragonair",
@@ -34931,7 +35015,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 30,
                 "max_level": 55,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "nosepass",
@@ -34971,7 +35055,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 16,
                 "max_level": 40,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "meditite",
@@ -34981,7 +35065,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 14,
                 "max_level": 35,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "meditite",
@@ -35001,7 +35085,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 37,
                 "max_level": 41,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "medicham",
@@ -35071,7 +35155,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 30,
                 "max_level": 55,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "feebas",
@@ -35141,7 +35225,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 14,
                 "max_level": 36,
-                "rarity": "Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "bronzong",
@@ -35151,7 +35235,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 37,
                 "max_level": 42,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "bronzong",
@@ -35291,7 +35375,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 42,
                 "max_level": 42,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -37637,7 +37721,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "poliwag",
@@ -37777,7 +37861,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "seel",
@@ -38167,7 +38251,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "swinub",
@@ -38187,7 +38271,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "swinub",
@@ -38197,7 +38281,7 @@
                 "region_name": "Kanto",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "piloswine",
@@ -38803,7 +38887,7 @@
                 "region_name": "Hoenn",
                 "min_level": 9,
                 "max_level": 13,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "abra",
@@ -38863,7 +38947,7 @@
                 "region_name": "Hoenn",
                 "min_level": 9,
                 "max_level": 13,
-                "rarity": "Very Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "nosepass",
@@ -38883,7 +38967,7 @@
                 "region_name": "Hoenn",
                 "min_level": 9,
                 "max_level": 12,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "mawile",
@@ -38893,7 +38977,7 @@
                 "region_name": "Hoenn",
                 "min_level": 9,
                 "max_level": 12,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "aron",
@@ -38913,7 +38997,7 @@
                 "region_name": "Hoenn",
                 "min_level": 10,
                 "max_level": 13,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             }
         ]
     },
@@ -38929,7 +39013,7 @@
                 "region_name": "Hoenn",
                 "min_level": 16,
                 "max_level": 20,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "zubat",
@@ -38959,7 +39043,7 @@
                 "region_name": "Hoenn",
                 "min_level": 37,
                 "max_level": 45,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "golbat",
@@ -39049,7 +39133,7 @@
                 "region_name": "Hoenn",
                 "min_level": 16,
                 "max_level": 45,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "lunatone",
@@ -39059,7 +39143,7 @@
                 "region_name": "Hoenn",
                 "min_level": 20,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "solrock",
@@ -39079,7 +39163,7 @@
                 "region_name": "Hoenn",
                 "min_level": 16,
                 "max_level": 45,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "solrock",
@@ -39089,7 +39173,7 @@
                 "region_name": "Hoenn",
                 "min_level": 20,
                 "max_level": 40,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "barboach",
@@ -39119,7 +39203,7 @@
                 "region_name": "Hoenn",
                 "min_level": 30,
                 "max_level": 40,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "bagon",
@@ -39159,7 +39243,7 @@
                 "region_name": "Hoenn",
                 "min_level": 37,
                 "max_level": 45,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             }
         ]
     },
@@ -40393,7 +40477,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 30,
                 "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "golbat",
@@ -40413,7 +40497,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 31,
                 "max_level": 33,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "tentacool",
@@ -40483,7 +40567,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 29,
                 "max_level": 32,
-                "rarity": "Very Common"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "geodude",
@@ -40855,7 +40939,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 5,
                 "max_level": 9,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "geodude",
@@ -41293,7 +41377,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 22,
                 "max_level": 23,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "psyduck",
@@ -41714,22 +41798,22 @@
             {
                 "pokemon": "duskull",
                 "pokemon_id": 355,
-                "type": "Grass",
-                "region_id": 3,
-                "region_name": "Sinnoh",
-                "min_level": 18,
-                "max_level": 19,
-                "rarity": "Rare"
-            },
-            {
-                "pokemon": "duskull",
-                "pokemon_id": 355,
                 "type": "Cave",
                 "region_id": 3,
                 "region_name": "Sinnoh",
                 "min_level": 18,
                 "max_level": 20,
                 "rarity": "Horde"
+            },
+            {
+                "pokemon": "duskull",
+                "pokemon_id": 355,
+                "type": "Grass",
+                "region_id": 3,
+                "region_name": "Sinnoh",
+                "min_level": 18,
+                "max_level": 19,
+                "rarity": "Rare"
             }
         ]
     },
@@ -42045,7 +42129,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 21,
                 "max_level": 24,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "zubat",
@@ -42095,7 +42179,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -42161,7 +42245,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 18,
                 "max_level": 20,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "gible",
@@ -42181,7 +42265,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 17,
                 "max_level": 20,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "gabite",
@@ -42363,7 +42447,7 @@
                 "region_name": "Johto",
                 "min_level": 4,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "golbat",
@@ -42373,7 +42457,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "golduck",
@@ -42393,7 +42477,7 @@
                 "region_name": "Johto",
                 "min_level": 4,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "geodude",
@@ -42413,7 +42497,7 @@
                 "region_name": "Johto",
                 "min_level": 25,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "graveler",
@@ -42423,7 +42507,7 @@
                 "region_name": "Johto",
                 "min_level": 25,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "graveler",
@@ -42433,7 +42517,7 @@
                 "region_name": "Johto",
                 "min_level": 25,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "graveler",
@@ -42443,7 +42527,7 @@
                 "region_name": "Johto",
                 "min_level": 25,
                 "max_level": 25,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "cubone",
@@ -42573,7 +42657,7 @@
                 "region_name": "Johto",
                 "min_level": 22,
                 "max_level": 25,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "dunsparce",
@@ -42583,7 +42667,7 @@
                 "region_name": "Johto",
                 "min_level": 4,
                 "max_level": 4,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "teddiursa",
@@ -42603,27 +42687,7 @@
                 "region_name": "Johto",
                 "min_level": 30,
                 "max_level": 30,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "ursaring",
-                "pokemon_id": 217,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 30,
-                "max_level": 30,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "ursaring",
-                "pokemon_id": 217,
-                "type": "Cave",
-                "region_id": 4,
-                "region_name": "Johto",
-                "min_level": 30,
-                "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "ursaring",
@@ -42634,6 +42698,26 @@
                 "min_level": 30,
                 "max_level": 30,
                 "rarity": "Rare"
+            },
+            {
+                "pokemon": "ursaring",
+                "pokemon_id": 217,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 30,
+                "max_level": 30,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "ursaring",
+                "pokemon_id": 217,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 30,
+                "max_level": 30,
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -43163,7 +43247,7 @@
                 "region_name": "Johto",
                 "min_level": 26,
                 "max_level": 30,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "tentacruel",
@@ -43173,7 +43257,7 @@
                 "region_name": "Johto",
                 "min_level": 30,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             },
             {
                 "pokemon": "seel",
@@ -43303,7 +43387,7 @@
                 "region_name": "Johto",
                 "min_level": 32,
                 "max_level": 32,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "seadra",
@@ -43369,7 +43453,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 60,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "parasect",
@@ -43379,7 +43463,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 60,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "parasect",
@@ -43399,7 +43483,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 56,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "psyduck",
@@ -43449,7 +43533,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 56,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "poliwag",
@@ -43489,7 +43573,7 @@
                 "region_name": "Kanto",
                 "min_level": 56,
                 "max_level": 60,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "kadabra",
@@ -43519,7 +43603,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 60,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "graveler",
@@ -43529,7 +43613,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 60,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "graveler",
@@ -43669,7 +43753,7 @@
                 "region_name": "Kanto",
                 "min_level": 54,
                 "max_level": 60,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "seadra",
@@ -44883,7 +44967,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 55,
                 "max_level": 65,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "gastly",
@@ -44973,7 +45057,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 45,
                 "max_level": 55,
-                "rarity": "Rare"
+                "rarity": "Very Rare"
             },
             {
                 "pokemon": "dusknoir",
@@ -45039,7 +45123,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 45,
                 "max_level": 47,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "machoke",
@@ -45099,7 +45183,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 41,
                 "max_level": 43,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "dewgong",
@@ -45209,7 +45293,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 41,
                 "max_level": 41,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "rhydon",
@@ -45219,7 +45303,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 42,
                 "max_level": 43,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "rhydon",
@@ -45349,7 +45433,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 42,
                 "max_level": 51,
-                "rarity": "Rare"
+                "rarity": "Common"
             },
             {
                 "pokemon": "floatzel",
@@ -48957,7 +49041,7 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "ariados",
@@ -57103,7 +57187,7 @@
                 "region_name": "Unova",
                 "min_level": 49,
                 "max_level": 50,
-                "rarity": "Very Rare"
+                "rarity": "Rare"
             },
             {
                 "pokemon": "lucario",
@@ -57133,7 +57217,7 @@
                 "region_name": "Unova",
                 "min_level": 48,
                 "max_level": 48,
-                "rarity": "Common"
+                "rarity": "Uncommon"
             },
             {
                 "pokemon": "woobat",
@@ -57665,7 +57749,7 @@
                 "region_name": "Unova",
                 "min_level": 10,
                 "max_level": 13,
-                "rarity": "Very Common"
+                "rarity": "Common"
             },
             {
                 "pokemon": "roggenrola",
@@ -57695,7 +57779,7 @@
                 "region_name": "Unova",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Common"
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "boldore",
@@ -60855,7 +60939,27 @@
                 "region_name": "Hoenn",
                 "min_level": 25,
                 "max_level": 30,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "tentacool",
+                "pokemon_id": 72,
+                "type": "Water",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 25,
+                "max_level": 30,
                 "rarity": "Horde"
+            },
+            {
+                "pokemon": "tentacool",
+                "pokemon_id": 72,
+                "type": "Old Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 5,
+                "max_level": 5,
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "tentacool",
@@ -60878,6 +60982,16 @@
                 "rarity": "Common"
             },
             {
+                "pokemon": "tentacool",
+                "pokemon_id": 72,
+                "type": "Good Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 25,
+                "max_level": 25,
+                "rarity": "Very Common"
+            },
+            {
                 "pokemon": "staryu",
                 "pokemon_id": 120,
                 "type": "Super Rod",
@@ -60886,6 +61000,16 @@
                 "min_level": 30,
                 "max_level": 40,
                 "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "staryu",
+                "pokemon_id": 120,
+                "type": "Super Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 40,
+                "max_level": 40,
+                "rarity": "Rare"
             },
             {
                 "pokemon": "magikarp",
@@ -60900,11 +61024,31 @@
             {
                 "pokemon": "magikarp",
                 "pokemon_id": 129,
+                "type": "Old Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 10,
+                "max_level": 15,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "magikarp",
+                "pokemon_id": 129,
                 "type": "Good Rod",
                 "region_id": 1,
                 "region_name": "Hoenn",
                 "min_level": 15,
                 "max_level": 30,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "magikarp",
+                "pokemon_id": 129,
+                "type": "Good Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 25,
+                "max_level": 25,
                 "rarity": "Very Common"
             },
             {
@@ -60926,6 +61070,26 @@
                 "min_level": 15,
                 "max_level": 30,
                 "rarity": "Common"
+            },
+            {
+                "pokemon": "wailmer",
+                "pokemon_id": 320,
+                "type": "Good Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 25,
+                "max_level": 25,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "wailmer",
+                "pokemon_id": 320,
+                "type": "Super Rod",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 30,
+                "max_level": 35,
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "wailmer",
@@ -70129,6 +70293,72 @@
             }
         ]
     },
+    "JOHTO_SAFARI_ZONE_(DAY/MORNING)": {
+        "name": "Safari Zone (Day/Morning)",
+        "region": "JOHTO",
+        "encounters": [
+            {
+                "pokemon": "graveler",
+                "pokemon_id": 75,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "doduo",
+                "pokemon_id": 84,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "magmar",
+                "pokemon_id": 126,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 30,
+                "max_level": 31,
+                "rarity": "Very Rare"
+            },
+            {
+                "pokemon": "sentret",
+                "pokemon_id": 161,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "hoppip",
+                "pokemon_id": 187,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Rare"
+            },
+            {
+                "pokemon": "skiploom",
+                "pokemon_id": 188,
+                "type": "Cave",
+                "region_id": 4,
+                "region_name": "Johto",
+                "min_level": 28,
+                "max_level": 31,
+                "rarity": "Very Rare"
+            }
+        ]
+    },
     "UNOVA_ROUTE_7": {
         "name": "Route 7",
         "region": "UNOVA",
@@ -70558,7 +70788,7 @@
             {
                 "pokemon": "altaria",
                 "pokemon_id": 334,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 36,
@@ -70568,7 +70798,7 @@
             {
                 "pokemon": "altaria",
                 "pokemon_id": 334,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 36,
@@ -70628,36 +70858,6 @@
             {
                 "pokemon": "tranquill",
                 "pokemon_id": 520,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 32,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "tranquill",
-                "pokemon_id": 520,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 32,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "tranquill",
-                "pokemon_id": 520,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 32,
-                "rarity": "Common"
-            },
-            {
-                "pokemon": "tranquill",
-                "pokemon_id": 520,
                 "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
@@ -70679,6 +70879,36 @@
                 "pokemon": "tranquill",
                 "pokemon_id": 520,
                 "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 32,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "tranquill",
+                "pokemon_id": 520,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 32,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "tranquill",
+                "pokemon_id": 520,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 32,
+                "rarity": "Common"
+            },
+            {
+                "pokemon": "tranquill",
+                "pokemon_id": 520,
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 30,
@@ -70728,7 +70958,7 @@
             {
                 "pokemon": "vanillite",
                 "pokemon_id": 582,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 31,
@@ -70738,7 +70968,7 @@
             {
                 "pokemon": "vanillite",
                 "pokemon_id": 582,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 31,
@@ -70778,7 +71008,7 @@
             {
                 "pokemon": "deerling",
                 "pokemon_id": 585,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 31,
@@ -70788,7 +71018,7 @@
             {
                 "pokemon": "deerling",
                 "pokemon_id": 585,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 31,
@@ -70812,16 +71042,6 @@
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 34,
-                "max_level": 36,
-                "rarity": "Very Common"
-            },
-            {
-                "pokemon": "sawsbuck",
-                "pokemon_id": 586,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 34,
                 "max_level": 34,
                 "rarity": "Horde"
             },
@@ -70832,28 +71052,8 @@
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 34,
-                "max_level": 36,
-                "rarity": "Very Common"
-            },
-            {
-                "pokemon": "sawsbuck",
-                "pokemon_id": 586,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 34,
                 "max_level": 34,
                 "rarity": "Horde"
-            },
-            {
-                "pokemon": "sawsbuck",
-                "pokemon_id": 586,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 34,
-                "max_level": 36,
-                "rarity": "Very Common"
             },
             {
                 "pokemon": "sawsbuck",
@@ -70878,7 +71078,7 @@
             {
                 "pokemon": "cubchoo",
                 "pokemon_id": 613,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 33,
@@ -70888,7 +71088,7 @@
             {
                 "pokemon": "cubchoo",
                 "pokemon_id": 613,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 33,
@@ -70918,16 +71118,6 @@
             {
                 "pokemon": "mienfoo",
                 "pokemon_id": 619,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 29,
-                "max_level": 30,
-                "rarity": "Horde"
-            },
-            {
-                "pokemon": "mienfoo",
-                "pokemon_id": 619,
                 "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
@@ -70961,6 +71151,46 @@
                 "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
+                "min_level": 29,
+                "max_level": 30,
+                "rarity": "Horde"
+            },
+            {
+                "pokemon": "mienfoo",
+                "pokemon_id": 619,
+                "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 33,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mienfoo",
+                "pokemon_id": 619,
+                "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 33,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mienfoo",
+                "pokemon_id": 619,
+                "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 30,
+                "max_level": 33,
+                "rarity": "Very Common"
+            },
+            {
+                "pokemon": "mienfoo",
+                "pokemon_id": 619,
+                "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
                 "min_level": 30,
                 "max_level": 33,
                 "rarity": "Very Common"
@@ -70998,7 +71228,7 @@
             {
                 "pokemon": "mienfoo",
                 "pokemon_id": 619,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 30,
@@ -71008,31 +71238,31 @@
             {
                 "pokemon": "mienfoo",
                 "pokemon_id": 619,
-                "type": "Inside",
+                "type": "Dark Grass",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 33,
+                "min_level": 33,
+                "max_level": 36,
                 "rarity": "Very Common"
             },
             {
                 "pokemon": "mienfoo",
                 "pokemon_id": 619,
-                "type": "Inside",
+                "type": "Dark Grass",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 33,
+                "min_level": 33,
+                "max_level": 36,
                 "rarity": "Very Common"
             },
             {
                 "pokemon": "mienfoo",
                 "pokemon_id": 619,
-                "type": "Inside",
+                "type": "Dark Grass",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 30,
-                "max_level": 33,
+                "min_level": 33,
+                "max_level": 36,
                 "rarity": "Very Common"
             },
             {
@@ -71046,36 +71276,6 @@
                 "rarity": "Very Common"
             },
             {
-                "pokemon": "mienfoo",
-                "pokemon_id": 619,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 33,
-                "max_level": 36,
-                "rarity": "Very Common"
-            },
-            {
-                "pokemon": "mienfoo",
-                "pokemon_id": 619,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 33,
-                "max_level": 36,
-                "rarity": "Very Common"
-            },
-            {
-                "pokemon": "mienfoo",
-                "pokemon_id": 619,
-                "type": "Dark Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 33,
-                "max_level": 36,
-                "rarity": "Very Common"
-            },
-            {
                 "pokemon": "druddigon",
                 "pokemon_id": 621,
                 "type": "Inside",
@@ -71098,36 +71298,6 @@
             {
                 "pokemon": "druddigon",
                 "pokemon_id": 621,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 31,
-                "max_level": 33,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "druddigon",
-                "pokemon_id": 621,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 31,
-                "max_level": 33,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "druddigon",
-                "pokemon_id": 621,
-                "type": "Grass",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 31,
-                "max_level": 33,
-                "rarity": "Uncommon"
-            },
-            {
-                "pokemon": "druddigon",
-                "pokemon_id": 621,
                 "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
@@ -71139,6 +71309,36 @@
                 "pokemon": "druddigon",
                 "pokemon_id": 621,
                 "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 31,
+                "max_level": 33,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "druddigon",
+                "pokemon_id": 621,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 31,
+                "max_level": 33,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "druddigon",
+                "pokemon_id": 621,
+                "type": "Grass",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 31,
+                "max_level": 33,
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "druddigon",
+                "pokemon_id": 621,
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 31,
@@ -72547,8 +72747,8 @@
             }
         ]
     },
-    "JOHTO_BELL_TOWER_(NIGHT)": {
-        "name": "Bell Tower (Night)",
+    "JOHTO_BELL_TOWER_(DAY/NIGHT)": {
+        "name": "Bell Tower (Day/Night)",
         "region": "JOHTO",
         "encounters": [
             {
@@ -72557,7 +72757,7 @@
                 "type": "Cave",
                 "region_id": 4,
                 "region_name": "Johto",
-                "min_level": 35,
+                "min_level": 33,
                 "max_level": 38,
                 "rarity": "Very Common"
             }
@@ -75683,7 +75883,7 @@
                 "region_name": "Hoenn",
                 "min_level": 30,
                 "max_level": 35,
-                "rarity": "Uncommon"
+                "rarity": "Horde"
             },
             {
                 "pokemon": "lanturn",
@@ -75693,7 +75893,17 @@
                 "region_name": "Hoenn",
                 "min_level": 30,
                 "max_level": 35,
-                "rarity": "Horde"
+                "rarity": "Uncommon"
+            },
+            {
+                "pokemon": "clamperl",
+                "pokemon_id": 366,
+                "type": "Water",
+                "region_id": 1,
+                "region_name": "Hoenn",
+                "min_level": 30,
+                "max_level": 35,
+                "rarity": "Very Common"
             },
             {
                 "pokemon": "clamperl",
@@ -75714,16 +75924,6 @@
                 "min_level": 30,
                 "max_level": 35,
                 "rarity": "Horde"
-            },
-            {
-                "pokemon": "clamperl",
-                "pokemon_id": 366,
-                "type": "Water",
-                "region_id": 1,
-                "region_name": "Hoenn",
-                "min_level": 30,
-                "max_level": 35,
-                "rarity": "Very Common"
             },
             {
                 "pokemon": "huntail",
@@ -76187,7 +76387,7 @@
                 "region_name": "Johto",
                 "min_level": 28,
                 "max_level": 31,
-                "rarity": "Uncommon"
+                "rarity": "Very Rare"
             }
         ]
     },
@@ -76302,7 +76502,7 @@
             {
                 "pokemon": "chimecho",
                 "pokemon_id": 358,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 32,
@@ -76312,7 +76512,7 @@
             {
                 "pokemon": "chimecho",
                 "pokemon_id": 358,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 32,
@@ -76352,16 +76552,6 @@
             {
                 "pokemon": "elgyem",
                 "pokemon_id": 605,
-                "type": "Inside",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 25,
-                "max_level": 26,
-                "rarity": "Horde"
-            },
-            {
-                "pokemon": "elgyem",
-                "pokemon_id": 605,
                 "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
@@ -76375,9 +76565,9 @@
                 "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
-                "min_level": 26,
-                "max_level": 29,
-                "rarity": "Uncommon"
+                "min_level": 25,
+                "max_level": 26,
+                "rarity": "Horde"
             },
             {
                 "pokemon": "elgyem",
@@ -76390,6 +76580,16 @@
                 "rarity": "Very Common"
             },
             {
+                "pokemon": "elgyem",
+                "pokemon_id": 605,
+                "type": "Inside",
+                "region_id": 2,
+                "region_name": "Unova",
+                "min_level": 26,
+                "max_level": 29,
+                "rarity": "Common"
+            },
+            {
                 "pokemon": "litwick",
                 "pokemon_id": 607,
                 "type": "Inside",
@@ -76402,7 +76602,7 @@
             {
                 "pokemon": "litwick",
                 "pokemon_id": 607,
-                "type": "Inside",
+                "type": "Grass",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 26,
@@ -76412,7 +76612,7 @@
             {
                 "pokemon": "litwick",
                 "pokemon_id": 607,
-                "type": "Grass",
+                "type": "Inside",
                 "region_id": 2,
                 "region_name": "Unova",
                 "min_level": 26,
@@ -76545,7 +76745,7 @@
                 "region_name": "Sinnoh",
                 "min_level": 20,
                 "max_level": 30,
-                "rarity": "Uncommon"
+                "rarity": "Common"
             }
         ]
     },
@@ -77147,7 +77347,7 @@
                 "region_name": "Johto",
                 "min_level": 32,
                 "max_level": 34,
-                "rarity": "Rare"
+                "rarity": "Uncommon"
             }
         ]
     },
@@ -77476,16 +77676,6 @@
                 "min_level": 29,
                 "max_level": 30,
                 "rarity": "Common"
-            },
-            {
-                "pokemon": "boldore",
-                "pokemon_id": 525,
-                "type": "Rocks",
-                "region_id": 2,
-                "region_name": "Unova",
-                "min_level": 32,
-                "max_level": 33,
-                "rarity": "Very Common"
             },
             {
                 "pokemon": "boldore",
@@ -79315,7 +79505,7 @@
                 "region_name": "Unova",
                 "min_level": 47,
                 "max_level": 50,
-                "rarity": "Uncommon"
+                "rarity": "Very Common"
             }
         ]
     },
